@@ -96,7 +96,8 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-        "https://happy-sand-0612d6410.azurestaticapps.net", 
+        "https://happy-sand-0612d6410.azurestaticapps.net",
+        "https://happy-sand-0612d6410.7.azurestaticapps.net",
     ],
     allow_credentials=True,
     allow_methods=["*"],
