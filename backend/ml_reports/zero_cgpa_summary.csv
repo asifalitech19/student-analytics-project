@@ -1,0 +1,6 @@
+﻿metric,value
+total_records,894
+zero_cgpa_records,24
+valid_positive_cgpa_records,833
+missing_cgpa_records,35
+above_4_cgpa_records,2

@@ -1,0 +1,98 @@
+{
+    "validation_status": "MODEL OUTPERFORMS BASELINE",
+    "model": "RandomForestRegressor",
+    "test_samples": 172,
+    "model_metrics": {
+        "mae": 0.5644347198818881,
+        "rmse": 0.8141004712915605,
+        "r2": 0.05269186845896623
+    },
+    "baseline_metrics": {
+        "mean_cgpa": 3.1949708029197077,
+        "mae": 0.5855898828721778,
+        "rmse": 0.8368655852717559,
+        "r2": -0.0010290249175266553
+    },
+    "baseline_comparison": {
+        "improvement": 0.021155162990289744,
+        "improvement_percentage": 3.612624399610312,
+        "status": "PASS"
+    },
+    "error_analysis": {
+        "mean_error": -0.030630915137085497,
+        "median_absolute_error": 0.45843160490690327,
+        "maximum_absolute_error": 3.151395785211732,
+        "within_025_percent": 26.16279069767442,
+        "within_050_percent": 55.81395348837209,
+        "within_075_percent": 83.72093023255815,
+        "within_100_percent": 90.69767441860465,
+        "error_buckets": {
+            "<= 0.25": 45,
+            "0.25 - 0.50": 51,
+            "0.50 - 0.75": 48,
+            "0.75 - 1.00": 12,
+            "> 1.00": 16
+        }
+    },
+    "training_metadata": {
+        "model_name": "Random Forest Regressor",
+        "model_type": "RandomForestRegressor",
+        "target": "What is your current CGPA?",
+        "training_samples": 685,
+        "testing_samples": 172,
+        "processed_features": 51,
+        "cross_validation_folds": 5,
+        "cross_validation_mae": 0.48212904202688955,
+        "test_mae": 0.5644347198818882,
+        "test_rmse": 0.8141004712915606,
+        "test_r2": 0.05269186845896601,
+        "expected_gpa_error": "\u00b10.56 GPA",
+        "hyperparameter_tuning": true,
+        "leakage_protected": true,
+        "random_state": 42,
+        "best_parameters": {
+            "n_estimators": 500,
+            "min_samples_split": 5,
+            "min_samples_leaf": 4,
+            "max_features": 0.5,
+            "max_depth": 8
+        }
+    },
+    "cgpa_range_analysis": [
+        {
+            "cgpa_range": "Below 2.50",
+            "samples": 17,
+            "mae": 1.803092858151029,
+            "actual_mean": 1.2664705882352942,
+            "predicted_mean": 3.069563446386323
+        },
+        {
+            "cgpa_range": "2.50 - 2.99",
+            "samples": 37,
+            "mae": 0.38946303083098655,
+            "actual_mean": 2.8027027027027027,
+            "predicted_mean": 3.192165733533689
+        },
+        {
+            "cgpa_range": "3.00 - 3.39",
+            "samples": 22,
+            "mae": 0.15576574262544554,
+            "actual_mean": 3.22,
+            "predicted_mean": 3.140992765524611
+        },
+        {
+            "cgpa_range": "3.40 - 3.79",
+            "samples": 54,
+            "mae": 0.38278117225808006,
+            "actual_mean": 3.6114814814814817,
+            "predicted_mean": 3.2287030088192683
+        },
+        {
+            "cgpa_range": "3.80 - 4.00",
+            "samples": 42,
+            "mae": 0.6648340821589198,
+            "actual_mean": 3.8823809523809523,
+            "predicted_mean": 3.2175468702220322
+        }
+    ]
+}

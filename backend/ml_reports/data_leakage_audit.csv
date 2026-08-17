@@ -1,0 +1,29 @@
+column,risk,reason
+Did you ever got suspension?,HIGH RISK,Suspension may occur after academic or disciplinary outcomes.
+Did you ever fall in probation?,HIGH RISK,Probation can be a consequence of poor academic performance.
+Program,REMOVE,Constant feature; provides no predictive information.
+Current Semester,REVIEW,May reflect academic progression and therefore may contain information related to current CGPA.
+Average attendance on class (Percentage ),REVIEW,"Potentially valid, but timing must be confirmed: attendance should be available before prediction."
+Do you attend in teacher consultancy for any kind of academical problems?,REVIEW,"Potentially valid, but the timing of consultancy relative to CGPA must be confirmed."
+H.S.C passing year,CANDIDATE,Pre-university academic history.
+University Admission year,CANDIDATE,Admission information available before or during enrollment.
+Do you use University transportation?,CANDIDATE,Student contextual information.
+How many hour do you study daily? (Hours ),CANDIDATE,Study behavior reported by the student.
+What is your preferable learning mode?,CANDIDATE,Learning preference.
+How many times do you seat for study in a day?,CANDIDATE,Study behavior reported by the student.
+Do you use smart phone?,CANDIDATE,Technology usage information.
+Age (Years),CANDIDATE,Basic demographic information.
+Do you have meritorious scholarship ?,CANDIDATE,Scholarship status can be available before prediction.
+Gender,CANDIDATE,Demographic information normally available before prediction.
+Status of your English language proficiency,CANDIDATE,Self-reported proficiency.
+How many hour do you spent daily in social media? (Hours),CANDIDATE,Reported behavioral information.
+Do you have personal Computer?,CANDIDATE,Technology/access information.
+What are the skills do you have ?,CANDIDATE,Self-reported skills.
+How many hour do you spent daily on your skill development? (Hours ),CANDIDATE,Self-reported development behavior.
+What is you interested area?,CANDIDATE,Self-reported interests.
+What is your relationship status?,CANDIDATE,Demographic/social information.
+Are you engaged with any co-curriculum activities?,CANDIDATE,Student activity information.
+With whom you are living with?,CANDIDATE,Living arrangement.
+Do you have any health issues?,CANDIDATE,Self-reported health information.
+Do you have any physical disabilities?,CANDIDATE,Self-reported demographic/contextual information.
+What is your monthly Family Income,CANDIDATE,Family financial context.

@@ -1,0 +1,52 @@
+﻿feature,permutation_importance,permutation_std,rank
+categorical__Do you have meritorious scholarship ?_Yes,0.009802752078247443,0.00537303169085433,1
+categorical__Do you have meritorious scholarship ?_No,0.009288877749322183,0.005475822183519111,2
+numerical__How many hour do you spent daily in social media? (Hours),0.006329130142817602,0.0019636570297400847,3
+numerical__University Admission year,0.002701879868686022,0.0018678395747445365,4
+numerical__H.S.C passing year,0.0016307649633672788,0.0011370878399126903,5
+categorical__Status of your English language proficiency_Basic,0.0012452127363599742,0.0011265440663458194,6
+numerical__How many hour do you study daily? (Hours ),0.0008920697858842003,0.0010334035596619964,7
+categorical__What is your relationship status?_Married,0.0007805416531072917,0.00023689582420393821,8
+numerical__Age (Years),0.0003832224648743471,0.0016737688435741202,9
+numerical__interest_design,0.0002895078737726542,0.00032542009773203637,10
+numerical__skill_count,0.0002702745876916934,0.0003466974799820194,11
+categorical__Do you have personal Computer?_No,0.0002625562054706626,8.5976158210329e-05,12
+categorical__Do you have personal Computer?_Yes,0.00023974920750240435,9.313934382578644e-05,13
+categorical__Status of your English language proficiency_Intermediate,0.00021828682291388234,0.000311649461098732,14
+categorical__Do you use University transportation?_Yes,0.00021717040369119422,0.0011429394663918548,15
+categorical__Do you use University transportation?_No,0.0002061843499208904,0.0012800850296533232,16
+numerical__skill_technical,0.00011735876894195806,0.00021645109177190607,17
+categorical__Are you engaged with any co-curriculum activities?_Yes,0.0001115028137690155,0.0008059260407325247,18
+numerical__interest_ai_ml,4.139348685159583e-05,0.0005096987975340717,19
+categorical__Do you have any physical disabilities?_No,3.859874363543736e-05,6.324173999392074e-05,20
+categorical__Are you engaged with any co-curriculum activities?_No,3.755167657910618e-05,0.0007545974024982225,21
+categorical__What is your relationship status?_Single,3.0348496867291243e-05,0.0004340490286581257,22
+categorical__Do you have any physical disabilities?_Yes,2.1320119042236852e-05,5.7724237893113417e-05,23
+numerical__skill_ai_ml,1.9442201565980644e-05,0.00016418298742510706,24
+numerical__interest_business,2.2204460492503132e-17,3.682193206295148e-17,25
+categorical__Do you use smart phone?_No,8.326672684688674e-18,4.0317302403097695e-17,26
+numerical__skill_other,8.326672684688674e-18,3.6295124768498446e-17,27
+numerical__skill_marketing,5.551115123125783e-18,4.611102534756204e-17,28
+categorical__Do you use smart phone?_Yes,5.551115123125783e-18,4.933939044724272e-17,29
+categorical__Do you have any health issues?_NO,2.7755575615628915e-18,4.4668371611075957e-17,30
+numerical__skill_design,-2.7755575615628915e-18,4.4668371611075957e-17,31
+categorical__What is your relationship status?_Engaged,-5.551115123125783e-18,2.989366980140908e-17,32
+numerical__interest_cybersecurity,-1.1102230246251566e-17,4.5097472448829337e-17,33
+numerical__interest_programming,-4.154561585842376e-06,0.0005530203759470768,34
+numerical__skill_cybersecurity,-0.00011750535214958557,0.00014023719767845694,35
+categorical__With whom you are living with?_Bachelor,-0.0001330310974625132,0.0014784279432473308,36
+numerical__interest_technical,-0.00028369864047544935,0.0003127195480854075,37
+categorical__Status of your English language proficiency_Advance,-0.0003172042649312312,0.0007222239535358833,38
+categorical__What is your relationship status?_In a relationship,-0.0004659071621514743,0.00031890843798057506,39
+numerical__skill_programming,-0.0005353531706868975,0.0003532084436895817,40
+categorical__With whom you are living with?_Family,-0.000535399789525326,0.0015753728319058483,41
+categorical__Gender_Female,-0.0006036664633466693,0.0003258679121569143,42
+categorical__Gender_Male,-0.0006541631253873887,0.00029795999741788834,43
+categorical__What is your preferable learning mode?_Online,-0.0009223248917238358,0.0007812850941573381,44
+categorical__What is your preferable learning mode?_Offline,-0.0010228475052747959,0.0008046097182490273,45
+categorical__Do you have any health issues?_No,-0.0011368451276738772,0.0007737380322520031,46
+numerical__How many hour do you spent daily on your skill development? (Hours ),-0.0015128227238669356,0.0005743314093873865,47
+numerical__interest_count,-0.0015476894541707697,0.0005485447871783366,48
+categorical__Do you have any health issues?_Yes,-0.0016713601684402112,0.000935045339508412,49
+numerical__What is your monthly Family Income,-0.0017564809964652345,0.0025836682627117377,50
+numerical__How many times do you seat for study in a day?,-0.002767866412854564,0.0016269732069767475,51

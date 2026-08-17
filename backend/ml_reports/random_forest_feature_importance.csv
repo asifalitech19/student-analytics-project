@@ -1,0 +1,52 @@
+﻿feature,importance,rank,importance_percent
+numerical__What is your monthly Family Income,0.0995729055943114,1,9.95729055943114
+categorical__Do you have meritorious scholarship ?_Yes,0.08367666006965467,2,8.367666006965466
+categorical__Do you have meritorious scholarship ?_No,0.081237160776143,3,8.1237160776143
+numerical__How many hour do you spent daily in social media? (Hours),0.07370902100930357,4,7.3709021009303575
+numerical__University Admission year,0.057612476220459514,5,5.761247622045952
+numerical__How many times do you seat for study in a day?,0.049580057077397446,6,4.958005707739745
+numerical__Age (Years),0.049242588756353026,7,4.924258875635303
+numerical__How many hour do you study daily? (Hours ),0.049013627553058284,8,4.901362755305828
+numerical__H.S.C passing year,0.045351927679272735,9,4.535192767927273
+numerical__How many hour do you spent daily on your skill development? (Hours ),0.03884087549202667,10,3.8840875492026674
+categorical__With whom you are living with?_Family,0.02499321438735166,11,2.499321438735166
+categorical__With whom you are living with?_Bachelor,0.024384916585358792,12,2.438491658535879
+categorical__Status of your English language proficiency_Basic,0.02300513195725119,13,2.300513195725119
+numerical__interest_count,0.020306742434464693,14,2.030674243446469
+categorical__Do you use University transportation?_No,0.01742124200772545,15,1.7421242007725448
+categorical__Status of your English language proficiency_Intermediate,0.01617288493702982,16,1.617288493702982
+categorical__Do you use University transportation?_Yes,0.016018203666573985,17,1.6018203666573985
+categorical__Do you have any health issues?_Yes,0.015607659704928308,18,1.5607659704928307
+categorical__Are you engaged with any co-curriculum activities?_Yes,0.014623170766959534,19,1.4623170766959535
+categorical__Are you engaged with any co-curriculum activities?_No,0.014323419111501168,20,1.4323419111501168
+categorical__Do you have any health issues?_No,0.014162643835492646,21,1.4162643835492645
+categorical__Status of your English language proficiency_Advance,0.013648218910561501,22,1.36482189105615
+numerical__interest_programming,0.013034989660072828,23,1.3034989660072829
+categorical__What is your preferable learning mode?_Online,0.013029350767428713,24,1.3029350767428713
+categorical__What is your preferable learning mode?_Offline,0.012607485413357952,25,1.2607485413357953
+numerical__interest_technical,0.012471760903918482,26,1.2471760903918483
+categorical__What is your relationship status?_Single,0.01198356593803565,27,1.198356593803565
+numerical__interest_ai_ml,0.011850296090324888,28,1.1850296090324888
+numerical__skill_count,0.011823325303274224,29,1.1823325303274224
+categorical__Gender_Female,0.010439305656516311,30,1.0439305656516311
+categorical__Gender_Male,0.01004124864303109,31,1.0041248643031089
+numerical__skill_programming,0.009528261323979477,32,0.9528261323979477
+numerical__interest_design,0.007834972930032255,33,0.7834972930032256
+numerical__skill_cybersecurity,0.007621186680367683,34,0.7621186680367683
+categorical__What is your relationship status?_In a relationship,0.006549484552325883,35,0.6549484552325884
+categorical__What is your relationship status?_Married,0.004488008788658924,36,0.44880087886589237
+numerical__skill_technical,0.004416204860982243,37,0.4416204860982243
+numerical__skill_ai_ml,0.0035478982981545586,38,0.35478982981545587
+categorical__Do you have personal Computer?_Yes,0.0017020569220723848,39,0.17020569220723847
+categorical__Do you have any physical disabilities?_Yes,0.001552680871709525,40,0.1552680871709525
+categorical__Do you have any physical disabilities?_No,0.001506080636542886,41,0.1506080636542886
+categorical__Do you have personal Computer?_No,0.001467087226035007,42,0.1467087226035007
+numerical__skill_design,0.0,43,0.0
+numerical__interest_cybersecurity,0.0,44,0.0
+numerical__skill_other,0.0,45,0.0
+numerical__skill_marketing,0.0,46,0.0
+numerical__interest_business,0.0,47,0.0
+categorical__Do you use smart phone?_Yes,0.0,48,0.0
+categorical__Do you use smart phone?_No,0.0,49,0.0
+categorical__What is your relationship status?_Engaged,0.0,50,0.0
+categorical__Do you have any health issues?_NO,0.0,51,0.0

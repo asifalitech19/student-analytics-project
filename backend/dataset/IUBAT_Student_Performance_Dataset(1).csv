@@ -1,0 +1,895 @@
+,Unnamed: 0,University Admission year,Gender,Age (Years),H.S.C passing year,Program,Current Semester,Do you have meritorious scholarship ?,Do you use University transportation?,How many hour do you study daily? (Hours ),How many times do you seat for study in a day?,What is your preferable learning mode?,Do you use smart phone?,Do you have personal Computer?,How many hour do you spent daily in social media? (Hours),Status of your English language proficiency,Average attendance on class (Percentage ),Did you ever fall in probation?,Did you ever got suspension?,Do you attend in teacher consultancy for any kind of academical problems?,What are the skills do you have ?,How many hour do you spent daily on your skill development? (Hours ),What is you interested area?,What is your relationship status?,Are you engaged with any co-curriculum activities?,With whom you are living with?,Do you have any health issues?,What was your previous SGPA?,Do you have any physical disabilities?,What is your current CGPA?,How many Credit did you have completed?,What is your monthly Family Income 
+0,0,2021,Female,22,2019,BCSE,4,Yes,No,2,2,Offline,Yes,Yes,2,Basic,100,Yes,No,Yes,Web development skill(Frontend),1,NETWORKING,Single,No,Bachelor,No,3.8,No,3.64,35.0,32500.0
+1,1,2021,Male,22,2019,BCSE,4,No,No,3,2,Offline,Yes,Yes,2,Basic,90,No,No,No,Programming,1,"Software, Hardware, NETWORKING, Artificial Intelligence, Data Science",Single,No,Bachelor,Yes,3.4,No,3.53,35.0,20000.0
+2,2,2021,Male,20,2020,BCSE,4,Yes,Yes,2,1,Offline,Yes,Yes,1,Basic,95,No,No,Yes,Programming,3,"Software, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,Yes,Family,No,3.93,No,3.89,35.0,30000.0
+3,3,2021,Male,21,2020,BCSE,4,Yes,No,1,2,Online,Yes,Yes,3,Advance,70,No,No,Yes,Programming,1,"Software, Artificial Intelligence",In a relationship,No,Family,No,3.1,No,3.5,35.0,40000.0
+4,4,2021,Female,21,2019,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,96,No,No,Yes,Web development skill(Frontend),1,Web development,Single,Yes,Bachelor,No,3.81,No,3.65,34.0,30000.0
+5,5,2021,Male,21,2020,BCSE,4,Yes,Yes,1,1,Online,Yes,Yes,1,Advance,85,No,No,Yes,Content creation,1,"Machine Learning / Deep Learning, UI/UX, Data Science",Single,Yes,Bachelor,Yes,3.89,No,3.81,35.0,35000.0
+6,6,2021,Female,20,2020,BCSE,4,No,No,3,2,Offline,Yes,Yes,1,Basic,97,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.79,No,3.82,39.0,50000.0
+7,7,2021,Male,21,2020,BCSE,4,Yes,Yes,2,1,Online,Yes,Yes,2,Intermediate,95,No,No,Yes,"Programming, Software  Development skill, Web development skill(Frontend)",2,"Software, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Bachelor,Yes,3.28,No,3.32,35.0,8000.0
+8,8,2021,Female,20,2020,BCSE,4,No,No,2,2,Offline,Yes,Yes,3,Basic,99,No,No,No,Programming,1,Software,Single,No,Family,No,3.78,No,3.88,35.0,200000.0
+9,9,2022,Male,20,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Programming,1,"Software, Machine Learning / Deep Learning",Single,No,Family,No,3.9,No,3.9,12.0,60000.0
+10,10,2020,Male,21,2019,BCSE,2,Yes,No,3,2,Offline,Yes,Yes,5,Intermediate,95,No,No,Yes,Programming,1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,No,Bachelor,No,3.84,No,3.8,80.0,23000.0
+11,11,2018,Male,24,2016,BCSE,12,Yes,No,2,2,Offline,Yes,Yes,4,Intermediate,70,No,No,Yes,"Programming, Cyber security",2,"Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Bachelor,No,3.31,No,3.52,132.0,350000.0
+12,12,2020,Male,21,2019,BCSE,8,No,No,4,1,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,Web development skill(Frontend),2,NETWORKING,Single,No,Bachelor,No,3.07,No,2.74,85.0,20000.0
+13,13,2019,Female,21,2019,BCSE,8,No,Yes,3,1,Offline,Yes,Yes,1,Intermediate,95,No,No,Yes,Programming,1,"NETWORKING, Data Science",Single,No,Family,No,3.76,No,3.5,83.0,92000.0
+14,14,2019,Male,23,2018,BCSE,11,Yes,No,6,2,Offline,Yes,Yes,3,Intermediate,100,No,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",5,"Software, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.84,No,3.1,73.0,30000.0
+15,15,2021,Male,19,2020,BCSE,4,Yes,No,1,1,Offline,Yes,No,1,Intermediate,95,No,No,Yes,"Programming, Photography ",1,"Software, NETWORKING, UI/UX",Single,Yes,Family,No,3.5,No,3.58,35.0,30000.0
+16,16,2021,Male,21,2019,BCSE,4,Yes,Yes,4,2,Offline,Yes,Yes,2,Intermediate,90,No,No,No,"Programming, Web development skill(Frontend)",2,Software,Single,Yes,Family,No,3.38,No,3.82,27.0,40000.0
+17,17,2019,Female,21,2019,BCSE,9,No,No,2,3,Offline,Yes,Yes,3,Basic,90,Yes,No,Yes,"Web development skill(Frontend), Networking",1,Software,Single,Yes,Bachelor,No,1.89,No,2.69,86.0,20000.0
+18,18,2021,Female,19,2020,BCSE,4,Yes,No,7,3,Offline,Yes,No,3,Advance,90,No,No,Yes,Programming,1,"Software, NETWORKING, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Family,No,3.7,No,3.77,35.0,35000.0
+19,19,2019,Male,25,2018,BCSE,11,Yes,No,2,1,Offline,Yes,Yes,2,Intermediate,70,Yes,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend), Networking",4,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning",Single,No,Bachelor,Yes,0.0,No,2.53,91.0,30000.0
+20,20,2018,Male,24,2017,BCSE,2,No,No,2,2,Offline,Yes,Yes,4,Basic,50,Yes,Yes,Yes,"Web development skill(Backend), Web development skill(Frontend)",5,Software,Married,Yes,Bachelor,No,2.2,No,2.66,110.0,60000.0
+21,21,2017,Male,22,2017,BCSE,3,Yes,No,1,1,Offline,Yes,Yes,4,Advance,100,Yes,No,Yes,"Programming, Software  Development skill, Web development skill(Frontend), Networking",4,"Software, Artificial Intelligence, Data Science",Single,No,Bachelor,Yes,2.6,No,2.6,90.0,25000.0
+22,22,2018,Male,23,2017,BCSE,2,No,No,2,2,Online,Yes,Yes,1,Intermediate,90,Yes,Yes,Yes,"Programming, Software  Development skill",2,"Software, Hardware, Machine Learning / Deep Learning",Single,Yes,Family,No,2.87,No,2.99,120.0,
+23,23,2019,Male,23,2018,BCSE,9,No,Yes,1,1,Offline,Yes,Yes,1,Intermediate,70,No,No,No,"Web development skill(Backend), Web development skill(Frontend), Graphics design ",1,"Hardware, UI/UX",In a relationship,Yes,Family,Yes,2.7,No,2.92,76.0,15000.0
+24,24,2018,Female,23,2016,BCSE,4,No,Yes,3,2,Offline,Yes,Yes,1,Basic,70,Yes,No,No,"Programming, Networking",2,Hardware,Single,No,Bachelor,Yes,2.98,Yes,2.96,118.0,20000.0
+25,25,2019,Male,22,2019,BCSE,9,No,No,3,4,Offline,Yes,Yes,2,Intermediate,99,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend), Cyber security, Java Script",7,Web Development,Single,No,Bachelor,No,3.52,No,2.9,100.0,15000.0
+26,26,2023,Male,23,2018,BCSE,8,Yes,Yes,4,5,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,3.48,No,3.08,68.0,20000.0
+27,27,2018,Male,25,2016,BCSE,4,No,No,6,4,Online,Yes,Yes,2,Advance,2,Yes,No,Yes,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend), Networking",4,Software,Single,Yes,Family,No,3.16,No,2.68,121.0,60000.0
+28,28,2021,Female,21,2019,BCSE,5,No,No,2,3,Offline,Yes,Yes,1,Basic,87,Yes,No,Yes,Programming,1,UI/UX,Married,No,Family,No,1.92,No,2.42,39.0,60000.0
+29,29,2019,Male,23,2018,BCSE,11,No,Yes,5,5,Offline,Yes,Yes,3,Intermediate,90,No,No,Yes,Networking,2,NETWORKING,Single,No,Bachelor,No,3.29,No,3.23,114.0,28000.0
+30,30,2019,Female,22,2018,BCSE,9,No,Yes,3,1,Offline,Yes,Yes,5,Basic,80,Yes,No,No,Programming,3,Software,Married,No,Bachelor,Yes,2.0,No,2.22,77.0,4000.0
+31,31,2019,Female,21,2018,BCSE,10,No,No,5,1,Offline,Yes,Yes,3,Intermediate,80,Yes,No,Yes,Programming,2,"Software, Machine Learning / Deep Learning, Data Science",Single,No,Bachelor,Yes,3.3,No,3.24,105.0,80000.0
+32,32,2019,Male,22,2018,BCSE,9,No,No,3,2,Offline,Yes,Yes,3,Basic,95,No,No,Yes,"Web development skill(Frontend), sports ",2,Data Science,Single,No,Bachelor,No,3.2,No,3.3,103.0,40000.0
+33,33,2020,Female,23,2018,BCSE,7,No,Yes,3,2,Offline,Yes,Yes,4,Basic,40,Yes,Yes,Yes,Web development skill(Backend),2,"Software, Hardware",Married,Yes,Family,No,2.4,No,2.4,70.0,
+34,34,2021,Male,22,2020,BCSE,3,Yes,Yes,4,2,Offline,Yes,Yes,2,Intermediate,90,No,No,No,"Programming, Digital Marketing ",1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Family,No,2.16,No,2.75,35.0,40000.0
+35,35,2021,Male,21,2020,BCSE,5,No,No,5,3,Offline,No,Yes,2,Intermediate,97,Yes,No,Yes,"Programming, Software  Development skill",4,Software,Single,No,Bachelor,No,0.0,No,2.31,46.0,50000.0
+36,36,2021,Female,20,2020,BCSE,5,No,Yes,2,3,Offline,Yes,Yes,3,Basic,80,No,No,No,Programming,3,Software,Single,No,Family,Yes,1.75,Yes,2.51,39.0,50000.0
+37,37,2020,Female,20,2018,BCSE,8,No,No,3,2,Offline,Yes,Yes,2,Advance,98,No,No,Yes,Programming,3,Hardware,Single,No,Family,No,2.6,No,,75.0,500000.0
+38,38,2021,Male,20,2020,BCSE,2,Yes,No,7,2,Offline,Yes,Yes,1,Intermediate,90,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend), Cyber security",9,"NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",In a relationship,No,Bachelor,No,3.33,No,3.5,33.0,40000.0
+39,39,2021,Male,24,2017,BCSE,4,No,No,3,2,Offline,Yes,Yes,2,Intermediate,90,No,No,No,Programming,2,Software,In a relationship,Yes,Bachelor,No,4.0,No,3.92,34.0,40000.0
+40,40,2021,Male,22,2020,BCSE,2,Yes,Yes,6,3,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Cyber security,3,NETWORKING,Single,Yes,Family,No,3.25,No,3.25,11.0,30000.0
+41,41,2019,Male,22,2018,BCSE,11,Yes,No,1,1,Offline,Yes,Yes,1,Basic,100,No,No,Yes,Cyber security,2,Software,Single,Yes,Family,No,3.46,No,3.1,102.0,40000.0
+42,42,2022,Male,19,2020,BCSE,2,Yes,No,1,2,Offline,Yes,Yes,2,Intermediate,85,No,No,No,"Programming, Software  Development skill, Networking",1,"Software, NETWORKING",Single,No,Bachelor,No,3.73,No,3.73,11.0,20000.0
+43,43,2014,Male,26,2014,BCSE,2,No,Yes,3,2,Online,Yes,Yes,1,Basic,100,Yes,No,Yes,"Cyber security, Networking",5,NETWORKING,Single,No,Family,No,2.0,No,2.0,80.0,25000.0
+44,44,2019,Male,25,2017,BCSE,11,Yes,Yes,2,1,Offline,Yes,Yes,5,Intermediate,80,No,No,Yes,Basic,1,Software,Single,Yes,Bachelor,No,3.78,No,3.56,132.0,27000.0
+45,45,2017,Male,24,2015,BCSE,4,Yes,Yes,6,4,Offline,Yes,Yes,1,Intermediate,100,No,No,Yes,Programming,2,Software,Single,Yes,Family,No,3.42,No,3.02,136.0,50000.0
+46,46,2018,Female,21,2017,BCSE,4,No,No,4,5,Online,Yes,Yes,5,Advance,95,Yes,No,Yes,Programming,1,Software,Single,No,Bachelor,Yes,3.5,No,3.2,122.0,15000.0
+47,47,2022,Female,21,2020,BCSE,2,Yes,Yes,2,2,Offline,Yes,Yes,2,Basic,70,Yes,No,No,Cyber security,1,Artificial Intelligence,Single,No,Family,No,3.9,No,3.8,12.0,25000.0
+48,48,2019,Female,21,2018,BCSE,9,Yes,Yes,2,1,Online,Yes,Yes,5,Intermediate,95,No,No,No,Programming,1,Software,Single,No,Family,No,3.7,No,3.68,105.0,50000.0
+49,49,2019,Female,21,2018,BCSE,11,Yes,No,5,2,Offline,Yes,Yes,5,Advance,99,No,No,No,Web development skill(Frontend),2,"Machine Learning / Deep Learning, Data Science",Single,Yes,Family,No,3.85,No,3.72,126.0,100000.0
+50,50,2019,Female,23,2017,BCSE,9,No,Yes,3,2,Offline,Yes,Yes,1,Intermediate,80,No,No,No,"Programming, Web development skill(Frontend)",1,"Machine Learning / Deep Learning, Data Science",Single,No,Bachelor,No,3.82,No,3.6,84.0,30000.0
+51,51,2022,Male,20,2020,BCSE,2,Yes,Yes,4,3,Offline,Yes,Yes,2,Basic,100,No,No,No,Programming,1,"Software, NETWORKING, Machine Learning / Deep Learning",Single,Yes,Family,No,3.72,No,3.72,11.0,40000.0
+52,52,2019,Female,21,2018,BCSE,2,No,Yes,2,1,Offline,Yes,Yes,2,Intermediate,90,No,No,Yes,Programming,1,Artificial Intelligence,Single,No,Family,No,3.51,No,3.56,125.0,40000.0
+53,53,2020,Male,22,2018,BCSE,8,No,No,8,7,Online,Yes,No,4,Intermediate,90,No,No,Yes,"Software  Development skill, Web development skill(Frontend), Cyber security",5,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,Yes,3.48,No,3.35,75.0,
+54,54,2019,Male,22,2018,BCSE,11,No,No,3,2,Offline,Yes,Yes,20,Basic,90,No,No,Yes,Software  Development skill,1,Machine Learning / Deep Learning,Single,No,Bachelor,No,2.65,No,2.99,121.0,50000.0
+55,55,2019,Male,22,2018,BCSE,11,No,Yes,6,3,Online,Yes,Yes,2,Intermediate,99,No,No,Yes,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",5,"Software, Machine Learning / Deep Learning, Artificial Intelligence",In a relationship,Yes,Bachelor,No,3.72,No,3.42,131.0,70000.0
+56,56,2019,Female,23,2017,BCSE,10,Yes,Yes,2,3,Offline,Yes,Yes,1,Advance,95,No,No,Yes,Networking,2,NETWORKING,Married,Yes,Family,No,3.38,No,3.6,120.0,50000.0
+57,57,2018,Male,23,2017,BCSE,2,No,Yes,7,2,Online,Yes,Yes,2,Intermediate,80,Yes,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",1,"Software, NETWORKING, Data Science",In a relationship,Yes,Family,No,2.8,No,2.8,130.0,18000.0
+58,58,2019,Female,21,2018,BCSE,9,No,No,5,2,Online,Yes,Yes,4,Intermediate,100,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,Web development,Single,No,Family,Yes,3.36,No,3.59,100.0,
+59,59,2017,Male,25,2016,BCSE,3,No,No,1,1,Online,Yes,Yes,2,Intermediate,90,Yes,No,Yes,"Networking, MIS",2,"Hardware, NETWORKING, Data Science, MIS",Single,Yes,Family,Yes,2.11,Yes,2.54,126.0,80000.0
+60,60,2021,Male,21,2020,BCSE,4,No,No,1,1,Offline,Yes,Yes,6,Basic,50,No,No,Yes,Programming,20,Software,Single,No,Family,Yes,2.83,No,3.05,35.0,20000.0
+61,61,2019,Male,23,2018,BCSE,11,No,Yes,6,3,Offline,Yes,Yes,6,Intermediate,98,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",3,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Family,No,3.2,No,3.22,110.0,50000.0
+62,62,2022,Male,20,2020,BCSE,2,No,No,5,3,Offline,No,Yes,2,Basic,100,No,No,No,Programming,5,Software,Single,Yes,Bachelor,No,3.48,No,3.48,11.0,20000.0
+63,63,2022,Female,20,2020,BCSE,2,Yes,No,5,1,Offline,Yes,Yes,6,Intermediate,90,No,No,No,Programming,4,"Software, NETWORKING",Single,No,Family,Yes,4.0,No,,11.0,30000.0
+64,64,2022,Male,20,2020,BCSE,1,Yes,Yes,2,7,Offline,Yes,Yes,6,Basic,100,Yes,No,No,"Web development skill(Backend), Web development skill(Frontend)",4,"Software, Hardware, Data Science",Single,No,Family,No,4.0,No,4.0,14.0,40000.0
+65,65,2019,Male,23,2017,BCSE,9,Yes,Yes,4,2,Offline,Yes,Yes,6,Intermediate,90,No,No,No,"Programming, Web development skill(Frontend)",1,Machine Learning / Deep Learning,Single,No,Bachelor,No,3.7,No,3.5,89.0,50000.0
+66,66,2022,Female,21,2019,BCSE,2,Yes,Yes,4,3,Offline,Yes,Yes,5,Intermediate,90,No,No,No,Software  Development skill,3,Software,Single,No,Family,No,3.68,No,0.0,11.0,25000.0
+67,67,2022,Male,21,2020,BCSE,4,Yes,No,5,2,Offline,Yes,Yes,2,Intermediate,95,No,No,No,Programming,2,Software,Single,No,Bachelor,No,3.3,No,3.3,11.0,50000.0
+68,68,2019,Male,21,2018,BCSE,11,Yes,No,2,2,Online,Yes,Yes,3,Intermediate,90,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",5,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,No,4.0,No,3.78,120.0,50000.0
+69,69,2022,Female,19,2020,BCSE,2,Yes,No,6,5,Offline,Yes,Yes,1,Intermediate,95,No,No,No,"Programming, Software  Development skill",2,Software,Single,No,Bachelor,No,3.56,No,3.58,11.0,10000.0
+70,70,2019,Male,23,2018,BCSE,11,No,Yes,1,1,Offline,Yes,Yes,2,Advance,65,No,No,Yes,"Digital Marketing, Teaching Chemistry",1,"Hardware, Physics",In a relationship,No,Family,No,1.68,No,3.1,120.0,
+71,71,2022,Male,20,2020,BCSE,2,No,Yes,3,3,Online,Yes,Yes,5,Basic,80,No,No,No,Programming,2,NETWORKING,Single,No,Bachelor,No,2.54,No,2.54,11.0,40000.0
+72,72,2022,Male,20,2020,BCSE,2,No,No,7,3,Offline,Yes,Yes,1,Basic,95,No,No,No,Programming,1,Software,Single,No,Bachelor,No,3.9,No,3.9,11.0,50000.0
+73,73,2019,Female,22,2019,BCSE,9,Yes,Yes,6,3,Offline,Yes,Yes,3,Basic,90,No,No,Yes,Networking,1,NETWORKING,Single,No,Family,No,3.84,No,3.77,99.0,60000.0
+74,74,2019,Male,22,2018,BCSE,4,Yes,Yes,1,2,Offline,Yes,Yes,20,Intermediate,70,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend), Android Developing",6,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,Yes,3.68,No,3.39,117.0,16000.0
+75,75,2018,Female,23,2016,BCSE,9,Yes,Yes,2,1,Offline,Yes,Yes,2,Advance,95,No,No,No,Web development skill(Frontend),2,Machine Learning / Deep Learning,Single,No,Family,No,3.14,No,3.14,101.0,40000.0
+76,76,2017,Male,26,2014,BCSE,4,No,No,3,2,Online,Yes,Yes,1,Intermediate,95,No,No,Yes,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",6,"Software, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,No,Bachelor,No,2.73,No,3.08,110.0,25000.0
+77,77,2022,Male,20,2020,BCSE,2,Yes,Yes,5,2,Online,Yes,Yes,12,Intermediate,70,No,No,Yes,Programming,2,Software,Single,Yes,Family,No,2.61,No,,11.0,40000.0
+78,78,2022,Female,19,2020,BCSE,1,No,No,7,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,I want to learn programming and web development,2,Software,Single,Yes,Bachelor,No,,No,,20.0,50000.0
+79,79,2020,Male,22,2019,BCSE,8,No,No,2,1,Offline,Yes,Yes,3,Intermediate,80,No,No,Yes,"Programming, Web development skill(Frontend)",2,"Software, Hardware, Artificial Intelligence, Data Science",Single,Yes,Bachelor,No,3.12,No,3.08,83.0,30000.0
+80,80,2018,Male,24,2017,BCSE,12,No,No,5,6,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,Networking,3,NETWORKING,In a relationship,No,Family,No,3.68,No,3.33,118.0,20000.0
+81,81,2019,Male,24,2018,BCSE,11,Yes,No,4,2,Online,Yes,No,30,Intermediate,85,Yes,Yes,Yes,"Programming, Networking",1,"NETWORKING, Data Science",Single,No,Family,No,2.25,No,2.64,103.0,20000.0
+82,82,2019,Male,22,2018,BCSE,11,Yes,No,1,2,Online,Yes,Yes,30,Intermediate,90,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",In a relationship,No,Family,No,3.5,No,3.43,126.0,100000.0
+83,83,2022,Female,20,2020,BCSE,1,Yes,Yes,6,2,Offline,No,No,1,Basic,100,No,No,Yes,"Programming, Software  Development skill",3,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Family,No,,No,,20.0,50000.0
+84,84,2022,Male,20,2020,BCSE,2,Yes,No,1,1,Offline,Yes,Yes,4,Intermediate,99,No,No,No,Programming,2,"Software, NETWORKING, Artificial Intelligence",Single,No,Family,No,3.83,No,3.83,11.0,35000.0
+85,85,2019,Male,22,2018,BCSE,2,No,Yes,4,2,Online,Yes,Yes,1,Intermediate,90,No,No,Yes,"Programming, Software  Development skill, Web development skill(Frontend)",4,"Software, Machine Learning / Deep Learning, UI/UX",Single,No,Family,No,1.98,No,2.98,104.0,25000.0
+86,86,2021,Female,19,2020,BCSE,2,No,Yes,3,2,Offline,Yes,Yes,2,Intermediate,98,No,No,No,Programming,2,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,Yes,3.37,Yes,,11.0,50000.0
+87,87,2022,Male,20,2021,BCSE,1,Yes,Yes,1,1,Offline,Yes,Yes,1,Intermediate,100,No,No,No,"Software  Development skill, Cyber security, Networking",2,"Software, NETWORKING, Data Science",Single,Yes,Family,No,0.0,No,0.0,20.0,
+88,88,2017,Female,23,2014,BCSE,2,No,No,3,2,Online,Yes,Yes,3,Basic,90,No,No,Yes,Software  Development skill,2,Software,Married,No,Family,No,2.79,No,2.84,133.0,30000.0
+89,89,2021,Male,21,2019,BCSE,3,Yes,No,5,3,Offline,Yes,Yes,2,Intermediate,95,No,No,Yes,Programming,1,"Software, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.52,No,3.65,23.0,50000.0
+90,90,2019,Female,23,2018,BCSE,11,Yes,No,4,2,Online,Yes,Yes,5,Advance,70,Yes,No,No,Cyber security,2,UI/UX,Married,Yes,Bachelor,Yes,3.01,No,2.89,120.0,90000.0
+91,91,2021,Female,20,2020,BCSE,3,Yes,No,3,2,Offline,Yes,Yes,2,Advance,90,No,No,Yes,Programming,2,NETWORKING,In a relationship,No,Family,No,3.18,No,3.18,24.0,80000.0
+92,92,2021,Male,19,2020,BCSE,3,Yes,Yes,5,10,Offline,Yes,Yes,5,Intermediate,100,No,No,Yes,"Programming, Web development skill(Frontend), Cyber security",3,"Software, Artificial Intelligence, Data Science",Single,Yes,Bachelor,No,3.72,No,3.89,26.0,60000.0
+93,93,2021,Female,21,2020,BCSE,5,Yes,Yes,3,2,Online,Yes,No,10,Intermediate,70,No,No,Yes,Programming,3,Software,Single,No,Family,Yes,2.8,No,2.9,40.0,500000.0
+94,94,2021,Male,21,2020,BCSE,3,Yes,No,2,2,Online,Yes,Yes,3,Basic,90,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.42,No,3.56,23.0,50000.0
+95,95,2021,Male,20,2020,BCSE,2,Yes,No,3,2,Offline,Yes,Yes,3,Basic,85,No,No,No,Programming,1,Software,Single,No,Bachelor,No,2.49,No,3.03,25.0,40000.0
+96,96,2021,Female,19,2020,BCSE,3,No,Yes,2,1,Offline,Yes,Yes,3,Intermediate,95,No,No,Yes,Programming,1,"Software, Artificial Intelligence, Data Science",Single,No,Family,No,4.59,No,4.67,23.0,100000.0
+97,97,2021,Female,22,2017,BCSE,5,Yes,Yes,3,2,Offline,Yes,Yes,2,Intermediate,90,No,No,Yes,Programming,1,Software,Single,No,Family,Yes,3.86,No,3.67,49.0,30000.0
+98,98,2022,Male,20,2020,BCSE,1,Yes,Yes,3,1,Offline,Yes,Yes,1,Advance,100,No,No,Yes,Programming,1,"Software, Data Science",Single,No,Family,No,0.0,No,0.0,0.0,30000.0
+99,99,2021,Male,21,2020,BCSE,5,Yes,Yes,6,3,Online,Yes,Yes,2,Intermediate,90,No,No,No,"Programming, Software  Development skill",2,"Software, Hardware, Machine Learning / Deep Learning",Single,Yes,Family,No,3.82,No,3.7,55.0,50000.0
+100,100,2021,Male,21,2019,BCSE,3,Yes,No,2,1,Online,Yes,Yes,2,Intermediate,75,No,No,Yes,"Programming, Designing(Photoshop), video editing ",1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,No,3.58,No,3.1,23.0,40000.0
+101,101,2021,Male,21,2020,BCSE,5,No,No,5,2,Offline,Yes,Yes,2,Intermediate,98,No,No,Yes,Programming,2,Software,Single,No,Bachelor,No,2.57,No,2.8,45.0,30000.0
+102,102,2021,Male,22,2020,BCSE,3,Yes,No,5,2,Offline,Yes,Yes,2,Advance,95,No,No,Yes,"Programming, Mentoring ",2,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Bachelor,Yes,3.86,No,3.92,23.0,40000.0
+103,103,2022,Male,22,2019,BCSE,2,No,No,3,1,Offline,Yes,Yes,3,Intermediate,80,No,No,Yes,Programming,1,"Software, UI/UX",Single,Yes,Bachelor,No,4.0,No,0.0,11.0,40000.0
+104,104,2020,Male,23,2018,BCSE,6,No,No,1,2,Online,Yes,Yes,2,Intermediate,90,Yes,No,No,Programming,1,"Software, Data Science",Single,Yes,Bachelor,No,3.1,No,3.4,65.0,
+105,105,2021,Male,20,2020,BCSE,3,Yes,No,1,2,Offline,Yes,Yes,1,Basic,95,No,No,Yes,Programming,1,"Software, Hardware, NETWORKING, Artificial Intelligence, UI/UX",Single,No,Family,Yes,3.68,No,3.65,24.0,45000.0
+106,106,2022,Female,21,2020,BCSE,2,Yes,Yes,7,2,Offline,Yes,Yes,3,Basic,2,No,No,Yes,Programming,0,Software,Single,No,Family,No,3.4,No,3.4,11.0,40000.0
+107,107,2022,Male,19,2020,BCSE,4,Yes,No,8,8,Offline,Yes,Yes,2,Basic,100,No,No,Yes,"Data entry,  Data collection,  Google docs, Google sheets",1,"Software, NETWORKING",Single,Yes,Bachelor,No,,No,,11.0,10000.0
+108,108,2021,Male,20,2020,BCSE,3,Yes,Yes,3,2,Offline,Yes,Yes,2,Advance,70,No,No,Yes,Programming,2,"Software, Artificial Intelligence",Single,No,Family,Yes,2.45,No,2.95,25.0,50000.0
+109,109,2021,Female,20,2020,BCSE,3,Yes,Yes,4,3,Offline,Yes,Yes,1,Intermediate,99,No,No,Yes,Programming,3,Software,Married,Yes,Family,No,3.47,No,3.2,23.0,50000.0
+110,110,2019,Male,21,2018,BCSE,11,No,Yes,0,1,Offline,Yes,Yes,1,Intermediate,85,No,No,No,"Programming, Web development skill(Frontend), Cyber security, Networking",1,"Software, Hardware, NETWORKING, Cyber security",Single,No,Bachelor,No,2.53,No,3.05,115.0,37000.0
+111,111,2021,Female,23,2019,BCSE,3,Yes,Yes,1,1,Offline,Yes,No,3,Basic,50,Yes,No,Yes,Photographey,1,Software,Single,Yes,Family,Yes,2.56,No,2.72,26.0,45000.0
+112,112,2021,Female,20,2020,BCSE,3,Yes,Yes,2,2,Online,Yes,Yes,1,Intermediate,90,No,No,Yes,Programming,1,"NETWORKING, UI/UX",Single,No,Bachelor,No,3.19,Yes,2.73,24.0,40000.0
+113,113,2019,Female,22,2018,BCSE,11,No,Yes,6,3,Offline,Yes,Yes,2,Basic,98,No,No,No,Programming,2,Machine Learning / Deep Learning,Single,No,Family,No,3.1,No,3.07,107.0,
+114,114,2021,Male,21,2020,BCSE,3,Yes,No,4,2,Offline,Yes,Yes,5,Intermediate,95,No,No,No,Programming,2,"Software, Hardware, NETWORKING",Single,Yes,Bachelor,No,3.28,No,3.0,25.0,70000.0
+115,115,2022,Female,21,2020,BCSE,1,Yes,Yes,1,2,Offline,Yes,Yes,2,Basic,100,No,No,No,Programming,0,Software,Single,No,Family,No,0.0,No,0.0,11.0,35000.0
+116,116,2021,Female,21,2019,BCSE,3,Yes,No,3,1,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,"Programming, Web development skill(Frontend)",1,NETWORKING,Single,No,Bachelor,No,3.75,No,3.7,24.0,50000.0
+117,117,2021,Male,20,2020,BCSE,4,No,No,1,1,Online,Yes,Yes,3,Intermediate,90,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,"Software, Machine Learning / Deep Learning",Single,Yes,Family,No,3.85,No,3.92,34.0,40000.0
+118,118,2021,Female,21,2020,BCSE,2,Yes,No,3,2,Online,Yes,Yes,1,Intermediate,99,No,No,Yes,Programming,3,Software,Single,No,Bachelor,No,3.18,No,3.18,11.0,30000.0
+119,119,2019,Female,24,2018,BCSE,11,Yes,No,2,1,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,Web development skill(Frontend),2,Data Science,Married,No,Family,No,3.39,No,3.4,128.0,50000.0
+120,120,2021,Female,20,2020,BCSE,2,No,No,3,1,Online,Yes,Yes,4,Intermediate,100,No,No,Yes,Programming,1,Software,Single,No,Bachelor,Yes,2.98,No,3.38,25.0,60000.0
+121,121,2021,Female,21,2020,BCSE,2,No,No,9,2,Offline,Yes,Yes,3,Intermediate,97,Yes,No,No,Programming,5,Software,Single,No,Family,No,3.7,No,,23.0,50000.0
+122,122,2018,Female,23,2017,BCSE,2,No,Yes,1,1,Offline,Yes,Yes,2,Advance,80,Yes,No,Yes,Programming,2,Machine Learning / Deep Learning,Married,No,Family,No,3.25,No,2.95,130.0,40000.0
+123,123,2021,Female,22,2020,BCSE,5,No,No,2,2,Offline,Yes,Yes,3,Intermediate,95,No,No,No,Programming,1,Software,Single,No,Bachelor,No,3.1,No,3.18,48.0,50000.0
+124,124,2022,Female,21,2020,BCSE,2,Yes,Yes,2,1,Offline,Yes,Yes,3,Intermediate,98,No,No,Yes,Programming,1,"Software, Hardware, Artificial Intelligence",Single,No,Family,No,3.7,No,3.7,12.0,120000.0
+125,125,2021,Female,19,2020,BCSE,3,Yes,Yes,2,2,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.61,No,3.74,25.0,40000.0
+126,126,2021,Male,22,2017,BCSE,3,Yes,No,2,1,Online,Yes,Yes,0,Intermediate,70,No,No,No,Programming,1,"Software, Hardware, Machine Learning / Deep Learning",Single,No,Family,No,3.01,No,3.22,23.0,70000.0
+127,127,2021,Female,21,2020,BCSE,3,No,Yes,2,2,Offline,Yes,Yes,5,Basic,80,No,No,No,Programming,2,"Software, Artificial Intelligence",Single,No,Family,Yes,3.26,No,3.36,23.0,40000.0
+128,128,2016,Male,25,2016,BCSE,3,Yes,No,1,1,Offline,Yes,Yes,2,Intermediate,100,No,No,No,"Web development skill(Frontend), Multi Tasking",2,"Software, Machine Learning / Deep Learning, Data Science",Single,Yes,Bachelor,No,3.6,No,3.72,130.0,300000.0
+129,129,2021,Male,20,2019,BCSE,3,No,No,2,3,Offline,Yes,Yes,5,Basic,100,No,No,No,Programming,3,Artificial Intelligence,Single,No,Bachelor,Yes,3.12,No,3.01,23.0,50000.0
+130,130,2022,Female,20,2020,BCSE,1,Yes,No,4,3,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Software  Development skill,2,"Software, NETWORKING",Single,Yes,Bachelor,No,5.0,No,3.93,11.0,50000.0
+131,131,2021,Male,20,2020,BCSE,3,Yes,No,5,3,Online,Yes,Yes,6,Advance,95,Yes,No,No,Programming,1,"Software, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.0,No,3.55,23.0,150000.0
+132,132,2020,Male,22,2018,BCSE,6,Yes,Yes,1,1,Online,Yes,Yes,3,Basic,80,No,No,No,Web development skill(Frontend),1,Software,Single,No,Family,No,2.79,No,3.15,50.0,40000.0
+133,133,2021,Female,22,2020,BCSE,4,No,No,2,1,Offline,Yes,No,3,Intermediate,98,No,No,No,Programming,2,Software,Single,No,Bachelor,No,3.83,No,3.4,25.0,40000.0
+134,134,2018,Male,26,2018,BCSE,12,Yes,Yes,3,1,Online,Yes,Yes,2,Advance,100,No,No,Yes,"Web development skill(Frontend), Networking",3,"Hardware, NETWORKING",Single,No,Family,No,3.58,No,3.27,130.0,40000.0
+135,135,2021,Female,21,2020,BCSE,3,Yes,Yes,3,1,Offline,Yes,Yes,4,Basic,100,No,No,Yes,Web development skill(Backend),2,NETWORKING,Single,No,Family,No,3.39,No,3.19,25.0,70000.0
+136,136,2021,Male,20,2020,BCSE,3,Yes,No,3,3,Offline,Yes,Yes,2,Intermediate,100,No,No,No,"Programming, Web development skill(Backend), Cyber security",2,"Software, NETWORKING, Artificial Intelligence",Single,No,Bachelor,No,3.38,No,3.37,23.0,25000.0
+137,137,2021,Female,19,2020,BCSE,3,Yes,No,3,3,Offline,Yes,Yes,1,Intermediate,100,No,No,Yes,Web development skill(Backend),1,Data Science,Single,No,Bachelor,Yes,3.03,No,3.15,23.0,30000.0
+138,138,2022,Male,20,2020,BCSE,1,No,No,3,1,Offline,No,Yes,1,Intermediate,100,No,No,Yes,nothing in this serial,1,Cyber Security,Married,Yes,Family,No,,No,,,40000.0
+139,139,2021,Male,21,2020,BCSE,3,Yes,Yes,1,1,Offline,Yes,Yes,1,Intermediate,95,No,No,Yes,Programming,1,"Software, NETWORKING, Artificial Intelligence",Single,Yes,Family,No,3.65,No,3.7,30.0,40000.0
+140,140,2019,Female,22,2019,BCSE,9,No,Yes,3,1,Offline,Yes,Yes,2,Intermediate,80,No,No,Yes,Web development skill(Frontend),1,"Hardware, Machine Learning / Deep Learning",Single,No,Family,Yes,3.18,No,2.69,90.0,30000.0
+141,141,2020,Male,24,2017,BCSE,8,Yes,Yes,1,1,Offline,Yes,Yes,4,Intermediate,70,No,No,No,"Programming, Mechine Learning",3,"Machine Learning / Deep Learning, Data Science",In a relationship,Yes,Family,No,2.56,No,3.38,90.0,30000.0
+142,142,2021,Male,20,2020,BCSE,3,Yes,No,2,2,Offline,No,Yes,12,Basic,90,No,No,No,learner,0,"Software, Hardware, Data Science",Single,No,Family,Yes,2.94,No,3.1,24.0,45000.0
+143,143,2021,Female,19,2020,BCSE,3,No,No,3,2,Offline,Yes,Yes,4,Intermediate,75,Yes,No,Yes,Programming,2,"Software, NETWORKING, Artificial Intelligence",Single,No,Family,No,2.36,No,2.88,23.0,80000.0
+144,144,2022,Male,21,2021,BCSE,2,Yes,No,3,2,Online,Yes,No,5,Intermediate,100,No,No,Yes,Programming,2,Software,Single,No,Family,No,3.8,No,3.8,11.0,
+145,145,2021,Male,22,2020,BCSE,3,Yes,No,0,0,Offline,Yes,Yes,15,Basic,80,Yes,No,No,Programming,0,Software,Single,No,Bachelor,No,1.53,No,2.43,23.0,30000.0
+146,146,2020,Female,21,2019,BCSE,7,No,Yes,2,2,Online,Yes,Yes,5,Intermediate,80,No,No,Yes,"Programming, Web development skill(Backend)",3,UI/UX,In a relationship,No,Family,No,3.0,No,2.91,90.0,35000.0
+147,147,2021,Female,20,2020,BCSE,3,No,Yes,2,1,Offline,Yes,No,5,Basic,80,No,No,Yes,Programming,1,Software,Single,Yes,Family,No,2.32,No,2.66,23.0,40000.0
+148,148,2021,Female,21,2019,BCSE,3,Yes,No,0,0,Offline,Yes,Yes,12,Advance,50,No,No,Yes,No skill,0,NETWORKING,In a relationship,Yes,Family,Yes,3.37,No,,,50000.0
+149,149,2021,Female,22,2020,BCSE,3,Yes,No,2,1,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Backend),1,Machine Learning / Deep Learning,Single,Yes,Bachelor,Yes,2.89,No,3.37,24.0,50000.0
+150,150,2021,Female,21,2019,BCSE,3,Yes,Yes,2,3,Offline,Yes,Yes,2,Basic,90,No,No,No,Programming,2,Software,Single,No,Family,No,3.17,No,,24.0,40000.0
+151,151,2021,Female,20,2020,BCSE,3,Yes,Yes,2,2,Offline,Yes,Yes,5,Basic,100,Yes,No,No,Programming,1,Software,Single,No,Family,Yes,2.26,No,2.31,20.0,35000.0
+152,152,2022,Female,21,2020,BCSE,2,Yes,No,5,2,Offline,Yes,Yes,2,Basic,99,No,No,No,Programming,1,"Software, Hardware, NETWORKING, Artificial Intelligence",Single,No,Bachelor,No,3.65,No,3.65,12.0,35000.0
+153,153,2021,Female,22,2019,BCSE,3,Yes,Yes,2,1,Offline,Yes,Yes,5,Intermediate,96,No,No,Yes,Programming,30,Machine Learning / Deep Learning,Single,No,Family,No,3.03,No,3.02,25.0,49000.0
+154,154,2020,Male,22,2018,BCSE,2,Yes,Yes,2,1,Offline,Yes,Yes,4,Basic,80,No,No,Yes,"Web development skill(Backend), Web development skill(Frontend)",0,"Software, Hardware, NETWORKING, Data Science, Security Analyst",Single,No,Bachelor,Yes,3.93,No,3.44,53.0,15000.0
+155,155,2019,Female,22,2018,BCSE,9,No,Yes,4,3,Offline,Yes,Yes,2,Advance,80,No,No,Yes,Programming,2,Data Science,Single,Yes,Family,No,3.0,No,3.09,105.0,2000000.0
+156,156,2022,Female,20,2021,BCSE,1,Yes,Yes,2,1,Offline,Yes,Yes,3,Basic,98,No,No,Yes,"Programming, Software  Development skill",0,"Software, Hardware, NETWORKING",Single,No,Family,No,0.0,No,0.0,0.0,40000.0
+157,157,2021,Female,21,2020,BCSE,3,Yes,Yes,3,4,Offline,Yes,Yes,1,Basic,99,No,No,Yes,Programming,1,Software,Single,No,Family,No,2.94,No,3.03,23.0,50000.0
+158,158,2021,Male,21,2019,BCSE,3,Yes,Yes,8,2,Offline,Yes,Yes,1,Intermediate,100,No,No,No,Programming,3,Software,In a relationship,Yes,Family,No,3.93,No,3.95,25.0,50000.0
+159,159,2021,Male,21,2019,BCSE,3,Yes,Yes,1,1,Online,Yes,Yes,2,Intermediate,85,No,No,No,Programming,2,Data Science,Single,Yes,Family,Yes,3.86,No,3.84,24.0,50000.0
+160,160,2022,Male,20,2020,BCSE,3,No,Yes,4,2,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Programming,1,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,No,Family,No,2.93,No,2.84,26.0,30000.0
+161,161,2021,Male,20,2020,BCSE,4,Yes,No,5,3,Online,Yes,Yes,1,Intermediate,80,No,No,Yes,Programming,2,Software,Single,No,Bachelor,No,3.06,No,3.08,36.0,60000.0
+162,162,2021,Male,21,2019,BCSE,3,No,Yes,2,1,Offline,Yes,Yes,2,Intermediate,98,No,No,No,"Programming, Web development skill(Frontend)",1,Software,Single,Yes,Family,No,3.17,No,3.53,25.0,30000.0
+163,163,2021,Male,20,2020,BCSE,3,Yes,No,8,2,Offline,Yes,Yes,2,Intermediate,98,No,No,Yes,Programming,2,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,No,3.98,No,3.86,23.0,20000.0
+164,164,2021,Female,21,2020,BCSE,4,No,Yes,6,1,Offline,Yes,No,2,Intermediate,97,Yes,No,Yes,Programming,3,Software,Single,Yes,Family,No,3.39,No,2.8,20.0,40000.0
+165,165,2022,Male,21,2019,BCSE,2,Yes,No,5,3,Offline,Yes,Yes,4,Basic,90,Yes,No,Yes,Programming,3,Software,Single,Yes,Bachelor,No,3.83,No,3.83,11.0,20000.0
+166,166,2020,Male,22,2019,BCSE,8,No,No,3,1,Offline,Yes,Yes,4,Intermediate,100,No,No,Yes,Programming,2,"Software, Hardware, Machine Learning / Deep Learning",Single,No,Bachelor,No,3.64,No,3.74,87.0,50000.0
+167,167,2021,Male,20,2020,BCSE,3,Yes,Yes,2,1,Offline,Yes,Yes,1,Intermediate,100,No,No,Yes,Programming,1,Cyber security,Single,No,Family,No,2.96,No,3.38,25.0,25000.0
+168,168,2020,Male,22,2019,BCSE,6,No,Yes,3,2,Offline,Yes,Yes,1,Intermediate,100,Yes,No,Yes,Programming,2,"Software, NETWORKING, Machine Learning / Deep Learning",Single,Yes,Bachelor,No,2.25,No,,60.0,30000.0
+169,169,2021,Female,20,2018,BCSE,3,Yes,Yes,1,2,Online,Yes,Yes,5,Intermediate,90,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.49,No,3.5,23.0,30000.0
+170,170,2021,Male,21,2021,BCSE,3,Yes,Yes,2,1,Offline,Yes,Yes,2,Intermediate,60,No,No,No,Programming,1,"Software, Artificial Intelligence",Single,No,Family,No,2.11,No,3.0,26.0,50000.0
+171,171,2018,Male,23,2017,BCSE,12,No,Yes,7,3,Offline,Yes,Yes,2,Intermediate,90,Yes,No,Yes,Web development skill(Frontend),4,Software,Single,No,Bachelor,No,2.86,No,3.26,125.0,15000.0
+172,172,2022,Male,21,2020,BCSE,2,No,No,5,3,Offline,Yes,No,4,Basic,60,Yes,No,Yes,Programming,1,Software,Single,No,Bachelor,No,0.5,No,0.0,2.0,50000.0
+173,173,2022,Male,20,2020,BCSE,2,Yes,No,1,2,Offline,Yes,Yes,2,Basic,90,No,No,No,Programming,30,Software,Single,No,Family,No,2.52,No,0.0,12.0,50000.0
+174,174,2021,Male,21,2019,BCSE,3,No,Yes,4,1,Offline,Yes,Yes,2,Intermediate,98,No,No,No,Programming,3,Full stack web development,Single,No,Family,No,3.72,No,3.71,25.0,60000.0
+175,175,2019,Female,22,2018,BCSE,11,Yes,No,5,2,Online,Yes,Yes,2,Intermediate,95,No,No,Yes,System analysis,1,Hardware,In a relationship,Yes,Family,No,2.8,No,3.35,120.0,68000.0
+176,176,2020,Female,21,2019,BCSE,6,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,99,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.98,No,3.99,58.0,40000.0
+177,177,2021,Male,21,2019,BCSE,3,Yes,No,1,1,Offline,Yes,Yes,5,Intermediate,90,No,No,No,Programming,1,Software,Single,No,Family,Yes,3.03,No,2.94,25.0,50000.0
+178,178,2019,Female,22,2017,BCSE,11,No,No,3,2,Offline,Yes,Yes,4,Intermediate,95,No,No,Yes,Web development skill(Frontend),1,Machine Learning / Deep Learning,Single,No,Family,Yes,3.34,No,3.18,120.0,40000.0
+179,179,2021,Female,21,2020,BCSE,2,Yes,Yes,8,2,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Software  Development skill,1,Software,Single,Yes,Family,No,3.39,No,3.39,12.0,50000.0
+180,180,2019,Female,23,2018,BCSE,11,No,Yes,3,2,Offline,Yes,Yes,3,Intermediate,96,No,No,Yes,Web development skill(Frontend),1,"Software, Hardware, NETWORKING",Single,No,Family,No,3.78,No,3.55,141.0,23000.0
+181,181,2019,Male,24,2019,BCSE,5,No,Yes,2,2,Offline,Yes,Yes,8,Basic,100,Yes,No,Yes,Programming,5,Creating a game using a program language,Single,No,Family,No,1.05,No,2.97,42.0,50000.0
+182,182,2021,Female,20,2020,BCSE,3,No,No,2,3,Offline,Yes,Yes,4,Basic,85,Yes,No,No,Programming,2,NETWORKING,Single,No,Bachelor,No,2.06,No,2.2,23.0,
+183,183,2022,Female,20,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,3,Basic,95,No,No,No,Programming,2,"Software, Artificial Intelligence",Single,No,Family,No,3.67,No,,11.0,45000.0
+184,184,2021,Female,19,2020,BCSE,2,No,Yes,5,8,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Programming,3,Artificial Intelligence,Single,Yes,Family,No,3.78,No,0.0,11.0,
+185,185,2020,Female,20,2019,BCSE,2,Yes,No,1,1,Online,Yes,Yes,1,Intermediate,70,Yes,No,No,No skills,1,Machine Learning / Deep Learning,In a relationship,Yes,Family,Yes,1.63,No,2.61,79.0,60000.0
+186,186,2021,Male,21,2020,BCSE,3,Yes,No,2,1,Offline,Yes,Yes,6,Basic,70,No,No,Yes,Programming,2,UI/UX,Single,Yes,Bachelor,No,3.17,No,3.39,22.0,40000.0
+187,187,2021,Female,20,2019,BCSE,3,No,Yes,2,1,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Memorizing,2,"Data Science, BCS",Single,No,Family,Yes,3.82,No,3.91,23.0,100000.0
+188,188,2021,Male,22,2019,BCSE,3,Yes,Yes,2,3,Online,Yes,Yes,2,Intermediate,92,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.79,No,3.89,23.0,35000.0
+189,189,2019,Female,23,2017,BCSE,11,No,Yes,3,2,Offline,Yes,Yes,2,Intermediate,85,No,No,Yes,Web development skill(Frontend),2,"Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Bachelor,No,3.76,No,3.62,120.0,33000.0
+190,190,2020,Male,21,2019,BCSE,8,Yes,No,5,3,Offline,Yes,Yes,4,Basic,100,No,No,Yes,"Programming, Web development skill(Frontend)",2,"Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,Yes,3.74,No,3.91,88.0,15000.0
+191,191,2022,Male,20,2020,BCSE,1,Yes,No,1,1,Offline,Yes,Yes,2,Basic,98,No,No,Yes,Trying to learn,1,"Software, NETWORKING, Artificial Intelligence",Single,Yes,Bachelor,No,,No,,,20000.0
+192,192,2022,Male,20,2019,BCSE,3,Yes,Yes,2,1,Offline,Yes,Yes,30,Basic,99,Yes,No,Yes,"Programming, Software  Development skill, Cyber security, 2D/3D animation, Grafix design",2,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,No,5.0,No,,13.0,
+193,193,2021,Female,21,2020,BCSE,3,Yes,No,2,2,Offline,Yes,Yes,4,Intermediate,100,No,No,No,Programming,1,Software,Single,No,Family,No,3.38,No,3.2,23.0,50000.0
+194,194,2022,Male,22,2015,BCSE,2,Yes,No,2,2,Online,Yes,Yes,1,Basic,95,Yes,No,Yes,Programming,1,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,Yes,2.1,No,2.1,14.0,25000.0
+195,195,2020,Female,21,2019,BCSE,8,Yes,No,3,1,Offline,Yes,Yes,5,Intermediate,80,Yes,No,No,Web development skill(Frontend),1,Data Science,Single,Yes,Bachelor,No,2.72,No,2.25,62.0,60000.0
+196,196,2022,Male,20,2019,BCSE,2,No,No,2,2,Offline,Yes,Yes,3,Basic,90,No,Yes,Yes,Networking,2,NETWORKING,Single,No,Bachelor,No,3.1,No,3.1,12.0,20000.0
+197,197,2020,Female,20,2020,BCSE,2,Yes,Yes,2,3,Offline,Yes,Yes,12,Intermediate,80,No,No,No,Photography & videography,1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Engaged,Yes,Bachelor,Yes,3.21,No,3.21,12.0,
+198,198,2022,Female,19,2021,BCSE,1,Yes,Yes,6,2,Offline,Yes,Yes,2,Intermediate,95,No,No,No,Programming,2,Software,Single,No,Family,No,,No,,0.0,70000.0
+199,199,2022,Female,19,2021,BCSE,1,Yes,No,3,2,Offline,Yes,No,2,Basic,90,No,No,No,Programming,1,"Software, Artificial Intelligence",Single,No,Family,No,,No,,11.0,50000.0
+200,200,2022,Male,21,2020,BCSE,2,No,No,1,1,Offline,Yes,Yes,4,Basic,95,Yes,No,Yes,Programming,1,"Software, NETWORKING, UI/UX",Single,Yes,Bachelor,No,3.9,No,3.9,11.0,30000.0
+201,201,2022,Female,20,2020,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Programming,30,Artificial Intelligence,Single,No,Family,No,3.03,No,3.03,12.0,90000.0
+202,202,2018,Female,23,2017,BCSE,2,No,Yes,7,1,Offline,Yes,Yes,5,Intermediate,60,Yes,No,No,Cyber security,2,Artificial Intelligence,In a relationship,Yes,Bachelor,Yes,2.59,No,2.56,133.0,30000.0
+203,203,2021,Female,19,2020,BCSE,3,Yes,Yes,5,2,Offline,Yes,Yes,4,Intermediate,99,No,No,Yes,Programming,3,"Software, Hardware, NETWORKING, Data Science",Single,No,Family,No,3.45,No,3.295,25.0,25000.0
+204,204,2022,Male,20,2021,BCSE,2,No,Yes,1,1,Offline,Yes,No,4,Basic,85,No,No,No,Programming,1,Software,Single,Yes,Family,No,3.6,No,3.6,11.0,50000.0
+205,205,2022,Female,20,2020,BCSE,2,No,No,6,6,Online,Yes,Yes,1,Basic,98,Yes,No,Yes,Web development skill(Backend),5,Software,Single,Yes,Bachelor,No,3.53,No,3.53,11.0,40000.0
+206,206,2020,Female,20,2019,BCSE,8,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,99,No,No,Yes,Programming,1,Machine Learning / Deep Learning,Single,Yes,Family,No,3.86,No,3.69,90.0,50000.0
+207,207,2022,Female,19,2020,BCSE,2,No,Yes,3,2,Offline,Yes,Yes,4,Advance,100,No,No,Yes,Programming,2,Artificial Intelligence,Single,Yes,Family,No,3.48,No,2.4,11.0,25000.0
+208,208,2021,Male,21,2019,BCSE,5,No,No,2,1,Online,Yes,Yes,1,Intermediate,98,No,No,No,"Programming, SEO",6,"Software, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science, Block Chain development ",Single,No,Bachelor,No,3.7,No,3.77,54.0,30000.0
+209,209,2022,Female,20,2020,BCSE,2,No,Yes,3,1,Offline,Yes,Yes,1,Advance,100,No,No,Yes,Programming,2,Software,Single,No,Family,No,3.84,No,3.84,11.0,50000.0
+210,210,2020,Female,21,2019,BCSE,8,No,Yes,6,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Web development skill(Backend),3,Software,Single,No,Family,No,3.4,No,3.29,85.0,60000.0
+211,211,2021,Female,21,2020,BCSE,2,Yes,No,12,4,Offline,Yes,No,2,Intermediate,100,No,No,Yes,Programming,12,Software,Single,Yes,Bachelor,No,3.7,No,3.7,11.0,30000.0
+212,212,2020,Male,22,2019,BCSE,6,No,Yes,4,3,Offline,Yes,Yes,4,Advance,85,No,No,Yes,Programming,2,Data Science,In a relationship,No,Family,No,3.02,No,3.2,70.0,20000.0
+213,213,2021,Male,20,2020,BCSE,3,No,Yes,2,1,Offline,Yes,Yes,3,Basic,90,No,No,No,Web development skill(Backend),1,Software,Single,No,Bachelor,No,3.48,No,2.98,23.0,20000.0
+214,214,2022,Male,20,2020,BCSE,2,Yes,No,3,3,Offline,Yes,Yes,2,Advance,90,No,No,Yes,Programming,2,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.53,No,3.53,13.0,40000.0
+215,215,2020,Female,19,2019,BCSE,8,Yes,Yes,4,1,Offline,Yes,Yes,2,Advance,90,No,No,No,Programming,3,Data Science,Single,No,Bachelor,No,3.06,No,3.41,87.0,30000.0
+216,216,2021,Male,20,2020,BCSE,2,No,No,2,1,Offline,Yes,Yes,3,Basic,100,Yes,No,Yes,"Programming, Web development skill(Frontend), Networking",1,"Software, Hardware, NETWORKING, Artificial Intelligence",Single,No,Bachelor,No,,No,3.9,11.0,20000.0
+217,217,2022,Female,20,2018,BCSE,1,No,No,2,2,Offline,Yes,No,4,Intermediate,95,No,No,Yes,Networking,0,Software,Single,No,Bachelor,Yes,,No,,0.0,50000.0
+218,218,2019,Female,20,2019,BCSE,9,No,Yes,3,3,Offline,Yes,Yes,1,Intermediate,99,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",4,Software,Single,Yes,Family,No,3.19,No,3.37,101.0,40000.0
+219,219,2022,Female,21,2020,BCSE,2,No,No,4,2,Online,Yes,Yes,2,Basic,95,Yes,No,Yes,Programming,4,"Software, Hardware",Single,Yes,Bachelor,Yes,,No,,11.0,30000.0
+220,220,2022,Female,21,2020,BCSE,1,No,Yes,3,2,Offline,Yes,Yes,1,Advance,99,No,No,Yes,Programming,1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Family,No,4.5,No,4.0,75.0,80000.0
+221,221,2021,Female,20,2020,BCSE,2,Yes,No,4,1,Offline,Yes,Yes,3,Intermediate,98,No,No,Yes,Programming,3,"Software, NETWORKING, Artificial Intelligence",Married,Yes,Family,No,3.75,No,0.0,11.0,
+222,222,2021,Male,22,2019,BCSE,2,Yes,No,3,3,Offline,Yes,Yes,2,Intermediate,90,No,No,No,"Programming, Web development skill(Frontend)",4,Software,In a relationship,No,Bachelor,No,3.33,No,3.33,12.0,20000.0
+223,223,2021,Male,20,2020,BCSE,3,Yes,No,4,1,Online,Yes,Yes,1,Basic,80,Yes,No,Yes,"Programming, Web development skill(Frontend)",2,NETWORKING,Single,Yes,Bachelor,No,2.81,Yes,2.81,35.0,40000.0
+224,224,2022,Male,21,2019,BCSE,2,Yes,No,3,3,Offline,Yes,Yes,4,Intermediate,90,Yes,No,Yes,data entry,0,Software,Single,Yes,Bachelor,Yes,2.18,No,2.08,11.0,35000.0
+225,225,2018,Female,24,2016,BCSE,4,No,No,2,1,Online,Yes,Yes,1,Intermediate,90,No,No,Yes,Networking,1,"Hardware, NETWORKING, Data Science, Graphics design ",Engaged,No,Bachelor,Yes,3.62,No,3.0,140.0,50000.0
+226,226,2022,Female,21,2020,BCSE,2,Yes,Yes,3,2,Online,Yes,No,8,Basic,98,No,No,No,Programming,1,"Software, Machine Learning / Deep Learning, UI/UX, Data Science",Single,Yes,Family,Yes,3.55,Yes,3.59,11.0,100000.0
+227,227,2020,Male,23,2020,BCSE,3,Yes,No,4,2,Offline,Yes,Yes,2,Basic,100,No,No,No,"Programming, Web development skill(Frontend), Graphic Design",6,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,No,3.58,No,3.75,23.0,15000.0
+228,228,2022,Male,22,2020,BCSE,2,Yes,No,2,1,Offline,Yes,Yes,8,Basic,90,No,No,No,Programming,3,Software,Single,No,Bachelor,Yes,3.88,No,3.88,12.0,10000.0
+229,229,2022,Male,20,2020,BCSE,2,Yes,No,2,1,Offline,Yes,Yes,10,Basic,90,No,No,No,Programming,3,Software,Single,No,Bachelor,No,3.0,No,3.0,12.0,
+230,230,2022,Male,20,2020,BCSE,2,Yes,No,4,2,Offline,Yes,Yes,1,Intermediate,95,No,Yes,Yes,"Programming, Software  Development skill, Cyber security",2,"Software, NETWORKING",Single,Yes,Bachelor,No,4.0,No,4.0,11.0,40000.0
+231,231,2022,Male,22,2016,BCSE,2,Yes,Yes,2,2,Online,Yes,Yes,1,Basic,80,No,No,Yes,"Programming, Php",3,"NETWORKING, UI/UX",In a relationship,Yes,Family,No,3.97,No,3.97,11.0,30000.0
+232,232,2021,Male,22,2020,BCSE,3,Yes,Yes,3,2,Online,Yes,Yes,1,Intermediate,75,No,No,Yes,Programming,2,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,No,3.79,No,3.69,25.0,100000.0
+233,233,2019,Male,22,2018,BCSE,11,No,No,6,2,Offline,Yes,Yes,2,Intermediate,90,Yes,No,Yes,"Web development skill(Backend), Web development skill(Frontend)",1,Software,In a relationship,No,Bachelor,No,2.96,No,2.89,111.0,50000.0
+234,234,2019,Male,25,2017,BCSE,11,No,No,1,1,Offline,Yes,Yes,1,Intermediate,90,No,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",4,"Software, Artificial Intelligence",Single,No,Family,No,3.44,No,3.48,124.0,50000.0
+235,235,2022,Male,19,2021,BCSE,2,Yes,No,4,3,Offline,Yes,Yes,3,Advance,100,No,No,Yes,Web development skill(Backend),1,Software,Single,No,Bachelor,Yes,,No,,,40000.0
+236,236,2021,Female,21,2019,BCSE,3,Yes,Yes,2,2,Online,Yes,Yes,2,Intermediate,85,No,No,Yes,Programming,1,"Software, Machine Learning / Deep Learning",Single,No,Family,No,3.56,No,3.66,23.0,25000.0
+237,237,2020,Male,19,2019,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,1,Basic,100,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.56,No,3.56,12.0,40000.0
+238,238,2021,Female,20,2020,BCSE,4,Yes,No,1,1,Offline,Yes,No,2,Intermediate,100,No,No,No,Programming,0,Data Science,Single,No,Family,No,3.38,No,3.58,25.0,80000.0
+239,239,2021,Male,21,2019,BCSE,2,Yes,No,1,2,Online,Yes,Yes,2,Intermediate,80,No,No,Yes,"Programming, Web development skill(Frontend), graphics desingn",3,Software,Single,Yes,Bachelor,No,3.78,No,3.9,49.0,40000.0
+240,240,2019,Male,24,2017,BCSE,10,No,No,2,1,Offline,Yes,Yes,3,Intermediate,80,No,No,Yes,"Programming, Software  Development skill, App Developing ",5,"Software, App",Single,Yes,Family,No,2.58,No,2.93,106.0,65000.0
+241,241,2020,Male,21,2019,BCSE,8,No,No,1,1,Online,Yes,Yes,1,Advance,80,No,No,Yes,"Programming, Web development skill(Frontend)",1,"NETWORKING, Data Science",In a relationship,No,Bachelor,Yes,3.96,No,3.7,85.0,25000.0
+242,242,2021,Female,21,2020,BCSE,3,Yes,Yes,3,2,Offline,Yes,Yes,2,Intermediate,88,No,No,No,Programming,2,Software,Single,No,Family,No,3.58,No,3.76,25.0,40000.0
+243,243,2021,Male,20,2020,BCSE,3,Yes,No,2,2,Online,Yes,Yes,4,Intermediate,99,No,No,Yes,Programming,2,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",In a relationship,Yes,Bachelor,No,3.79,No,3.91,23.0,50000.0
+244,244,2021,Male,21,2019,BCSE,5,No,No,1,2,Offline,Yes,Yes,1,Intermediate,94,No,Yes,Yes,"Programming, Cyber security, Networking, Content Writing, Graphics , Animation. ",30,"Hardware, NETWORKING, Artificial Intelligence, Data Science",Single,Yes,Bachelor,No,2.17,No,3.06,44.0,15000.0
+245,245,2021,Male,22,2020,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,2,Intermediate,3,Yes,No,Yes,"Programming, Web development skill(Frontend), Networking",4,"Software, Artificial Intelligence, UI/UX, Freelancing",Single,No,Bachelor,No,1.12,No,1.88,32.0,60000.0
+246,246,2021,Female,21,2019,BCSE,3,Yes,Yes,4,3,Online,Yes,Yes,1,Intermediate,99,No,No,No,Programming,2,Software,Single,No,Family,No,3.72,No,3.67,25.0,35000.0
+247,247,2020,Female,22,2018,BCSE,8,No,No,4,2,Offline,Yes,Yes,2,Intermediate,98,No,No,No,Programming,2,"Software, Data Science",Single,No,Family,No,2.83,No,2.82,65.0,25000.0
+248,248,2022,Female,20,2020,BCSE,2,Yes,Yes,2,1,Offline,Yes,Yes,2,Basic,95,No,No,Yes,Networking,1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Family,Yes,3.88,No,3.88,11.0,35000.0
+249,249,2020,Female,21,2019,BCSE,8,No,Yes,3,1,Offline,Yes,Yes,3,Intermediate,97,No,No,No,Web development skill(Backend),1,Data Science,Single,Yes,Family,No,3.0,No,3.66,87.0,150000.0
+250,250,2018,Male,26,2018,BCSE,12,No,Yes,8,10,Online,Yes,Yes,2,Intermediate,90,Yes,Yes,Yes,"Web development skill(Frontend), Networking",5,"Software, NETWORKING",Single,Yes,Bachelor,No,2.44,No,2.44,90.0,20000.0
+251,251,2021,Male,21,2020,BCSE,3,Yes,No,3,2,Offline,Yes,Yes,1,Intermediate,98,No,No,Yes,"Programming, Web development skill(Backend)",1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,No,2.82,No,3.0,23.0,25000.0
+252,252,2022,Female,21,2019,BCSE,2,Yes,Yes,2,2,Offline,Yes,Yes,1,Intermediate,100,No,No,No,Programming,1,Software,Single,No,Family,No,3.9,No,3.9,11.0,50000.0
+253,253,2022,Male,21,2020,BCSE,2,Yes,No,5,1,Online,Yes,Yes,12,Basic,98,No,No,Yes,Programming,2,"Software, Hardware",Single,Yes,Bachelor,Yes,3.33,No,3.33,12.0,50000.0
+254,254,2022,Male,20,2020,BCSE,2,Yes,Yes,8,2,Offline,Yes,Yes,8,Basic,90,No,No,No,Programming,2,"Software, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.33,No,3.33,12.0,30000.0
+255,255,2021,Female,21,2020,BCSE,3,Yes,No,3,1,Offline,Yes,No,3,Intermediate,70,No,No,Yes,Programming,5,"Software, NETWORKING, Data Science",Single,No,Family,Yes,2.68,No,2.89,23.0,40000.0
+256,256,2021,Female,20,2019,BCSE,2,No,No,3,2,Online,Yes,No,2,Intermediate,95,No,No,Yes,Programming,1,Software,Single,No,Bachelor,Yes,3.84,No,3.84,11.0,30000.0
+257,257,2021,Female,20,2016,BCSE,3,Yes,No,2,1,Offline,Yes,No,1,Advance,75,No,No,Yes,Programming,1,NETWORKING,Single,Yes,Family,No,3.54,No,3.69,25.0,20000.0
+258,258,2021,Male,19,2020,BCSE,3,Yes,Yes,2,1,Offline,Yes,Yes,3,Intermediate,90,No,No,No,Programming,1,NETWORKING,Single,Yes,Family,Yes,2.32,No,2.8,24.0,35000.0
+259,259,2022,Male,20,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,3,Basic,90,No,No,No,Programming,2,Software,Single,No,Bachelor,No,4.0,No,4.0,11.0,50000.0
+260,260,2022,Male,20,2020,BCSE,2,No,No,5,2,Offline,Yes,Yes,30,Basic,90,No,No,Yes,Programming,2,"Software, BCS ",Single,No,Bachelor,No,3.8,No,3.8,12.0,20000.0
+261,261,2021,Male,22,2019,BCSE,5,No,Yes,0,0,Online,Yes,Yes,3,Basic,0,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",6,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Web developer",Single,No,Family,No,2.08,No,2.91,49.0,30000.0
+262,262,2022,Male,20,2020,BCSE,2,No,No,2,3,Offline,Yes,No,1,Basic,95,No,No,Yes,"Programming, Volunteering.",2,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Bachelor,No,3.05,No,3.05,12.0,25000.0
+263,263,2022,Male,21,2020,BCSE,2,Yes,Yes,3,2,Online,Yes,Yes,5,Advance,90,No,No,Yes,"Programming, Networking",0,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Family,No,3.45,No,3.45,12.0,
+264,264,2022,Male,20,2020,BCSE,4,Yes,Yes,4,2,Offline,Yes,Yes,3,Basic,95,Yes,Yes,Yes,Programming,2,Software,Single,No,Bachelor,No,2.73,No,2.73,12.0,20000.0
+265,265,2018,Male,22,2018,BCSE,11,No,No,1,1,Offline,Yes,Yes,2,Intermediate,80,No,No,Yes,"Web development skill(Backend), Web development skill(Frontend)",3,Software,Single,Yes,Bachelor,No,3.2,No,3.29,132.0,40000.0
+266,266,2019,Female,20,2019,BCSE,8,Yes,No,6,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",2,Software,Single,Yes,Family,No,3.96,No,3.94,85.0,100000.0
+267,267,2022,Male,23,2019,BCSE,1,Yes,Yes,2,1,Offline,Yes,Yes,8,Basic,100,No,No,No,Networking,1,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,No,Family,No,0.0,No,0.0,0.0,40000.0
+268,268,2022,Female,20,2020,BCSE,1,Yes,Yes,2,1,Offline,Yes,No,7,Intermediate,100,No,No,Yes,Networking,1,"Software, Hardware, NETWORKING, Artificial Intelligence, Data Science",Single,Yes,Family,No,0.0,No,0.0,0.0,50000.0
+269,269,2021,Female,26,2014,BCSE,3,Yes,No,4,3,Offline,Yes,Yes,3,Basic,50,No,No,No,Programming,1,Software,Married,No,Family,No,3.89,No,3.36,23.0,
+270,270,2022,Male,19,2020,BCSE,4,Yes,Yes,5,2,Offline,Yes,Yes,2,Intermediate,98,Yes,No,Yes,"Programming, Software  Development skill, Networking",2,"Software, Hardware, Data Science",Single,Yes,Family,No,2.93,No,2.93,11.0,35000.0
+271,271,2022,Male,20,2020,BCSE,2,Yes,No,4,3,Online,Yes,Yes,2,Basic,100,No,No,No,Programming,2,"Software, Artificial Intelligence",Single,No,Family,No,3.81,No,3.81,12.0,50000.0
+272,272,2021,Female,19,2020,BCSE,2,No,Yes,3,2,Offline,Yes,No,2,Intermediate,98,No,No,No,Programming,1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,Yes,3.37,Yes,0.0,11.0,25000.0
+273,273,2022,Male,19,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,Yes,"Programming, Strating....",1,confuse,Married,No,Family,No,3.25,No,3.25,10.0,50000.0
+274,274,2022,Male,20,2020,BCSE,2,Yes,No,3,2,Online,Yes,Yes,3,Basic,85,No,No,No,Programming,2,Artificial Intelligence,Single,No,Family,No,2.89,No,2.89,11.0,30000.0
+275,275,2022,Male,22,2019,BCSE,2,No,No,2,1,Offline,Yes,Yes,3,Basic,95,Yes,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend), Cyber security, Sports ",1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Web",Engaged,Yes,Bachelor,Yes,1.62,No,1.45,11.0,40000.0
+276,276,2022,Male,20,2020,BCSE,2,No,Yes,2,2,Offline,Yes,No,4,Intermediate,98,No,No,Yes,I have no skill but try to learn them.,2,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Data Science",Single,No,Family,No,3.73,No,0.0,11.0,35000.0
+277,277,2022,Male,19,2020,BCSE,2,Yes,No,30,1,Online,Yes,Yes,2,Basic,90,Yes,No,No,Programming,1,Software,Single,No,Bachelor,Yes,2.9,No,2.9,11.0,60000.0
+278,278,2022,Male,18,2020,BCSE,2,Yes,No,6,3,Offline,Yes,Yes,2,Basic,95,No,No,Yes,"Programming, Web development skill(Frontend)",2,Software,Single,No,Family,No,3.48,No,3.48,12.0,25000.0
+279,279,2021,Male,21,2019,BCSE,2,No,No,2,3,Online,Yes,Yes,2,Basic,90,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend), Networking",4,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,No,3.13,No,3.17,11.0,40000.0
+280,280,2021,Male,21,2019,BCSE,2,Yes,No,3,2,Online,Yes,Yes,2,Basic,90,Yes,No,Yes,Programming,2,"Software, NETWORKING, Artificial Intelligence, UI/UX",Single,No,Bachelor,No,142.0,No,1.42,5.0,50000.0
+281,281,2022,Male,20,2020,BCSE,2,Yes,No,3,2,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,Programming,1,"Software, Hardware, Data Science",Single,No,Bachelor,No,3.85,No,3.85,12.0,30000.0
+282,282,2022,Male,21,2020,BCSE,2,Yes,Yes,4,2,Online,Yes,Yes,1,Intermediate,100,No,No,Yes,Programming,1,"Software, Artificial Intelligence",Single,Yes,Family,Yes,3.6,No,3.6,11.0,35000.0
+283,283,2022,Female,18,2020,BCSE,2,Yes,No,2,2,Online,Yes,Yes,1,Intermediate,100,No,No,Yes,"Programming, Software  Development skill",1,Software,Single,Yes,Family,No,3.54,No,0.0,11.0,14000.0
+284,284,2022,Male,19,2020,BCSE,2,No,No,3,2,Online,Yes,Yes,4,Intermediate,95,Yes,No,No,Programming,6,Software,Single,No,Bachelor,No,2.1,No,2.1,12.0,10000.0
+285,285,2022,Male,20,2020,BCSE,2,Yes,No,3,2,Offline,Yes,Yes,5,Basic,90,No,No,Yes,Programming,1,"Software, Hardware",Single,Yes,Bachelor,No,2.5,No,2.5,12.0,25000.0
+286,286,2019,Male,24,2017,BCSE,11,Yes,No,7,1,Offline,Yes,Yes,1,Intermediate,90,No,No,No,"Programming, Web development skill(Frontend)",5,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",In a relationship,Yes,Bachelor,No,3.31,No,3.76,139.0,30000.0
+287,287,2022,Male,21,2020,BCSE,2,No,No,1,2,Online,Yes,Yes,4,Advance,80,No,No,Yes,"Cyber security, Networking, I have quite good knowledge about Kali-Linux. I am using Linux from 2018. For that, I've some knowledge about some Tools.But currently I'm not working with Kali. That's why I'm forgetting everything day by day",0,"Software, NETWORKING, Hacking With Kali-Linux ",Single,No,Bachelor,No,3.75,No,0.0,12.0,50000.0
+288,288,2021,Male,21,2020,BCSE,2,No,No,3,3,Online,Yes,Yes,1,Intermediate,97,No,No,Yes,Programming,3,Machine Learning / Deep Learning,Single,No,Bachelor,Yes,3.5,No,0.0,13.0,33000.0
+289,289,2020,Female,20,,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,4,Basic,90,Yes,No,No,Programming,2,Hardware,Single,No,Family,No,3.7,No,3.7,11.0,60000.0
+290,290,2022,Male,20,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,3,Basic,70,Yes,Yes,Yes,Programming,2,Software,Single,No,Bachelor,No,3.24,No,3.24,11.0,40000.0
+291,291,2019,Female,22,2018,BCSE,11,No,Yes,2,1,Offline,Yes,Yes,2,Intermediate,99,Yes,No,No,Programming,1,Software,Single,No,Family,No,2.3,No,2.8,113.0,60000.0
+292,292,2020,Male,22,2020,BCSE,3,Yes,Yes,3,4,Offline,Yes,Yes,4,Intermediate,37,No,No,Yes,Programming,1,Artificial Intelligence,Single,Yes,Family,No,3.24,Yes,3.5,27.0,25000.0
+293,293,2021,Male,21,2019,BCSE,3,Yes,No,4,2,Offline,Yes,Yes,3,Intermediate,80,No,No,Yes,"Programming, Networking, Digital Marketing, Drop Servicing, Performance marketing management",2,"Software, NETWORKING, UI/UX",Single,Yes,Bachelor,No,3.52,No,3.5,21.0,25000.0
+294,294,2022,Male,20,2020,BCSE,2,Yes,No,3,1,Offline,Yes,Yes,2,Basic,95,No,No,No,Programming,4,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,No,2.73,No,2.73,11.0,21000.0
+295,295,2021,Male,24,2020,BCSE,3,Yes,No,3,4,Offline,Yes,Yes,1,Basic,90,No,No,Yes,Programming,2,"Software, Machine Learning / Deep Learning, UI/UX",Single,No,Family,No,3.79,No,3.88,23.0,13000.0
+296,296,2019,Female,23,2016,BCSE,11,Yes,No,2,1,Offline,Yes,Yes,1,Basic,70,No,No,No,Nothing,0,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Engaged,No,Bachelor,No,3.96,No,3.91,116.0,30000.0
+297,297,2022,Female,20,2019,BCSE,2,No,Yes,5,2,Online,Yes,Yes,2,Basic,90,Yes,No,Yes,"Programming, Web development skill(Frontend)",1,"Software, Machine Learning / Deep Learning, Data Science",Single,No,Family,No,,No,,11.0,60000.0
+298,298,2022,Female,21,2020,BCSE,2,No,Yes,7,2,Offline,Yes,No,30,Intermediate,100,No,No,No,Programming,2,Software,Single,Yes,Family,Yes,3.4,No,3.4,12.0,15000.0
+299,299,2019,Female,22,2018,BCSE,11,No,Yes,2,4,Online,Yes,Yes,1,Intermediate,90,No,No,No,"Programming, Software  Development skill, Web development skill(Frontend)",2,Software,Single,No,Family,No,3.49,No,3.39,126.0,
+300,300,2022,Male,23,2020,BCSE,2,No,Yes,6,2,Online,Yes,Yes,1,Intermediate,100,No,No,No,Programming,2,Software,Single,Yes,Family,No,3.85,No,3.85,12.0,30000.0
+301,301,2020,Male,21,2018,BCSE,8,No,Yes,4,2,Offline,Yes,Yes,1,Intermediate,90,Yes,No,No,Web development skill(Frontend),2,Software,Single,Yes,Family,No,2.02,No,2.4,71.0,
+302,302,2022,Male,22,2020,BCSE,2,Yes,Yes,2,1,Online,Yes,Yes,1,Intermediate,90,No,No,Yes,Its on learning phase,3,Software,Single,No,Family,No,3.93,No,3.93,12.0,55000.0
+303,303,2021,Female,20,2020,BCSE,2,No,Yes,5,2,Offline,Yes,Yes,2,Basic,99,No,No,No,Programming,1,Machine Learning / Deep Learning,Single,No,Family,No,3.9,No,0.0,11.0,20000.0
+304,304,2022,Male,20,2020,BCSE,2,Yes,Yes,3,3,Offline,Yes,Yes,3,Intermediate,95,Yes,No,Yes,Programming,1,Software,Single,No,Bachelor,No,3.47,No,3.47,12.0,30000.0
+305,305,2022,Female,20,2019,BCSE,2,No,Yes,2,5,Offline,Yes,Yes,2,Intermediate,90,No,No,Yes,Graphics designing,1,Software,Single,Yes,Family,No,3.7,No,,12.0,30000.0
+306,306,2022,Male,20,2020,BCSE,2,Yes,Yes,4,1,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Programming,2,"Software, NETWORKING, UI/UX",Single,Yes,Family,Yes,3.45,No,0.0,11.0,20000.0
+307,307,2022,Male,22,2020,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,2,Intermediate,98,Yes,No,Yes,Programming,1,Software,Single,No,Family,No,3.73,No,3.73,11.0,100000.0
+308,308,2021,Male,21,2019,BCSE,3,Yes,Yes,4,4,Online,Yes,Yes,2,Intermediate,95,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",3,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Bachelor,Yes,3.73,Yes,3.68,26.0,35000.0
+309,309,2022,Female,22,2020,BCSE,2,Yes,Yes,3,2,Online,Yes,Yes,1,Intermediate,95,No,No,Yes,"Programming, Networking",2,"Software, NETWORKING, Artificial Intelligence",Single,No,Bachelor,No,3.65,No,0.0,11.0,20000.0
+310,310,2022,Female,21,2020,BCSE,2,Yes,Yes,4,2,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Programming,2,Software,Single,No,Family,No,3.45,No,,11.0,35000.0
+311,311,2022,Male,21,2020,BCSE,2,Yes,Yes,4,2,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Programming,2,Software,Single,No,Bachelor,No,2.58,No,,11.0,35000.0
+312,312,2021,Female,20,2020,BCSE,3,Yes,No,4,4,Online,Yes,No,2,Advance,98,Yes,No,Yes,Programming,5,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Bachelor,Yes,1.87,No,3.5,32.0,20000.0
+313,313,2020,Male,21,2019,BCSE,7,No,No,1,1,Offline,Yes,Yes,2,Intermediate,93,No,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",1,"Software, Artificial Intelligence, UI/UX",Single,No,Family,No,0.0,No,0.0,0.0,40000.0
+314,314,2020,Female,20,2019,BCSE,7,Yes,Yes,4,2,Online,Yes,Yes,1,Intermediate,98,No,No,Yes,Programming,3,"Software, Artificial Intelligence",Single,Yes,Family,No,3.96,No,3.99,76.0,25000.0
+315,315,2019,Male,22,2019,BCSE,8,Yes,Yes,4,2,Online,Yes,Yes,1,Intermediate,90,No,No,No,working on web development,2,Software,Single,No,Family,Yes,3.68,No,3.73,84.0,45000.0
+316,316,2019,Male,20,2019,BCSE,9,Yes,No,5,2,Offline,Yes,Yes,10,Basic,50,Yes,No,No,Programming,2,"Software, Hardware, NETWORKING, Artificial Intelligence",Married,Yes,Bachelor,No,0.35,No,2.3,90.0,50000.0
+317,317,2019,Male,22,2017,BCSE,9,No,Yes,4,2,Offline,Yes,Yes,4,Intermediate,90,No,No,Yes,"Programming, Software  Development skill, Web development skill(Frontend)",6,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Family,No,2.04,No,2.86,93.0,50000.0
+318,318,2020,Male,21,2019,BCSE,8,Yes,Yes,0,1,Offline,Yes,Yes,2,Advance,90,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",1,Software,Single,No,Family,No,3.74,No,3.67,90.0,30000.0
+319,319,2020,Female,21,2019,BCSE,8,No,No,4,2,Offline,Yes,Yes,2,Intermediate,95,No,No,No,Programming,1,Software,Single,No,Bachelor,No,3.75,No,3.75,110.0,200000.0
+320,320,2020,Female,22,2018,BCSE,8,No,No,2,3,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,Programming,2,Data Science,Single,No,Bachelor,No,3.3,No,3.26,86.0,50000.0
+321,321,2019,Male,23,2019,BCSE,8,Yes,No,5,3,Offline,Yes,Yes,4,Intermediate,98,No,No,Yes,Programming,3,NETWORKING,Single,Yes,Bachelor,Yes,3.72,No,3.45,90.0,25000.0
+322,322,2019,Male,24,2018,BCSE,8,No,No,4,2,Offline,Yes,Yes,2,Intermediate,88,No,No,Yes,Programming,2,Machine Learning / Deep Learning,Single,Yes,Bachelor,No,3.21,No,,85.0,40000.0
+323,323,2020,Female,21,2018,BCSE,7,Yes,Yes,1,1,Offline,Yes,Yes,2,Intermediate,95,No,No,No,Nothing much,0,"Artificial Intelligence, Data Science",Married,Yes,Family,No,3.64,No,3.65,76.0,60000.0
+324,324,2019,Male,22,2018,BCSE,3,Yes,Yes,4,2,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,Programming,2,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,No,Family,No,3.78,No,3.88,93.0,30000.0
+325,325,2016,Male,24,2014,BCSE,3,No,Yes,5,4,Offline,Yes,Yes,5,Basic,99,Yes,No,No,Software  Development skill,2,"Software, Artificial Intelligence",Single,Yes,Bachelor,No,2.66,No,2.76,115.0,50000.0
+326,326,2020,Male,20,2019,BCSE,8,No,No,1,1,Offline,Yes,Yes,4,Intermediate,80,No,No,No,Programming,1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,No,Family,No,1.76,No,2.55,64.0,35000.0
+327,327,2020,Male,22,2019,BCSE,8,Yes,Yes,3,3,Online,Yes,Yes,2,Advance,98,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,"Software, Blockchain Engineering",Single,No,Family,No,3.15,No,3.71,84.0,5000.0
+328,328,2020,Male,22,2019,BCSE,8,Yes,Yes,2,2,Offline,Yes,Yes,1,Intermediate,100,No,No,Yes,"Programming, Software  Development skill",4,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Bachelor,No,4.0,No,3.62,86.0,50000.0
+329,329,2022,Female,20,2020,BCSE,2,No,Yes,3,1,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Programming,3,Software,Single,No,Family,No,3.58,No,3.58,14.0,45000.0
+330,330,2020,Male,22,2019,BCSE,8,No,Yes,2,1,Online,Yes,Yes,16,Advance,78,Yes,No,No,"Programming, Cyber security, Networking",2,"Software, Hardware, NETWORKING, Artificial Intelligence, Data Science",Single,No,Family,Yes,2.44,No,2.77,76.0,30000.0
+331,331,2020,Male,22,2019,BCSE,7,Yes,Yes,6,3,Online,Yes,Yes,1,Advance,97,No,No,No,"Programming, Web development skill(Frontend)",1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science, Cyber security,AI",Single,Yes,Family,No,3.94,No,3.91,75.0,40000.0
+332,332,2018,Male,24,2016,BCSE,10,Yes,No,30,1,Offline,Yes,Yes,30,Intermediate,80,No,No,Yes,Teaching,0,Teaching,Single,Yes,Bachelor,Yes,3.0,No,2.85,90.0,50000.0
+333,333,2020,Female,21,2019,BCSE,8,Yes,Yes,1,1,Offline,Yes,Yes,3,Intermediate,85,No,No,No,Programming,1,"Software, NETWORKING, Artificial Intelligence, Data Science",Engaged,No,Family,Yes,3.32,No,3.27,88.0,50000.0
+334,334,2022,Male,22,2020,BCSE,2,Yes,Yes,2,1,Offline,Yes,Yes,5,Basic,90,No,No,Yes,Programming,2,Software,Single,No,Family,No,2.8,No,2.8,11.0,30000.0
+335,335,2020,Female,22,2018,BCSE,6,No,No,3,2,Offline,Yes,Yes,3,Intermediate,99,No,No,Yes,Web development skill(Frontend),2,Artificial Intelligence,Single,Yes,Bachelor,No,3.39,No,3.33,,40000.0
+336,336,2018,Male,23,2017,BCSE,3,No,Yes,5,2,Online,No,Yes,4,Intermediate,80,Yes,No,Yes,"Programming, Web development skill(Frontend)",1,"Software, Hardware, UI/UX",Single,Yes,Family,No,2.96,No,3.06,136.0,50000.0
+337,337,2022,Male,20,2020,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,4,Basic,99,No,No,No,Programming,2,Software,Single,No,Family,No,3.68,No,3.68,11.0,35000.0
+338,338,2022,Female,20,2018,BCSE,2,No,Yes,4,2,Online,Yes,Yes,6,Basic,100,No,No,Yes,Programming,2,"Software, NETWORKING, Artificial Intelligence",Single,Yes,Family,No,0.0,No,3.78,11.0,4000.0
+339,339,2020,Male,21,2019,BCSE,7,Yes,No,4,3,Offline,Yes,Yes,1,Intermediate,95,No,No,No,Programming,3,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,Yes,Bachelor,Yes,3.87,No,3.68,86.0,15000.0
+340,340,2022,Male,21,2020,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.9,No,3.9,11.0,20000.0
+341,341,2020,Male,22,2019,BCSE,8,No,No,2,1,Offline,Yes,Yes,3,Intermediate,85,No,No,No,"Programming, Cyber security",1,Cybersecurity,Single,No,Bachelor,No,3.29,No,3.65,100.0,
+342,342,2020,Female,20,2019,BCSE,8,No,Yes,3,2,Online,Yes,Yes,2,Intermediate,97,No,No,Yes,Web development skill(Frontend),2,Machine Learning / Deep Learning,Single,Yes,Family,No,3.14,No,3.62,95.0,48400.0
+343,343,2017,Male,24,2016,BCSE,4,No,No,4,2,Offline,Yes,Yes,8,Intermediate,80,Yes,Yes,Yes,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",10,"Software, UI/UX",Single,No,Family,Yes,3.15,No,3.39,140.0,30000.0
+344,344,2020,Female,21,2019,BCSE,8,Yes,Yes,2,2,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,Web development skill(Frontend),3,Software,Single,No,Family,No,3.46,No,3.55,88.0,80000.0
+345,345,2020,Female,22,2019,BCSE,4,No,No,1,1,Online,Yes,Yes,3,Intermediate,99,No,No,Yes,Software  Development skill,0,Software,Single,No,Family,No,3.32,No,3.17,85.0,40000.0
+346,346,2020,Female,21,2019,BCSE,2,Yes,Yes,3,1,Offline,Yes,Yes,4,Intermediate,95,No,No,No,Programming,2,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,No,3.21,No,3.36,76.0,25000.0
+347,347,2022,Male,19,2020,BCSE,2,Yes,No,5,2,Offline,Yes,Yes,1,Basic,100,No,No,Yes,Programming,4,Artificial Intelligence,Single,No,Bachelor,No,3.93,No,3.93,11.0,15000.0
+348,348,2019,Male,24,2017,BCSE,11,No,No,6,2,Offline,Yes,Yes,1,Intermediate,90,No,No,No,"Programming, Web development skill(Frontend), Networking",3,"Software, NETWORKING",Single,No,Family,No,3.94,No,3.76,130.0,40000.0
+349,349,2021,Female,22,2021,BCSE,3,No,No,4,4,Online,Yes,Yes,3,Intermediate,95,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,2.87,No,2.31,24.0,200000.0
+350,350,2021,Male,21,2020,BCSE,5,No,No,3,3,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Programming,2,Software,Single,No,Bachelor,No,3.31,No,3.27,49.0,30000.0
+351,351,2022,Female,19,2020,BCSE,2,Yes,Yes,5,2,Online,Yes,Yes,1,Intermediate,99,No,No,Yes,Programming,1,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Family,No,4.0,Yes,4.0,11.0,35000.0
+352,352,2021,Male,20,2020,BCSE,3,Yes,No,1,1,Online,Yes,Yes,2,Intermediate,75,Yes,No,Yes,Programming,1,Machine Learning / Deep Learning,Single,No,Bachelor,Yes,2.08,No,2.68,20.0,50000.0
+353,353,2022,Male,19,2020,BCSE,10,Yes,Yes,2,1,Offline,Yes,Yes,12,Basic,100,No,No,Yes,"Programming, Web development skill(Frontend), Content Creating, freelancing, marketing,",2,"Software, Hardware, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,Yes,Bachelor,No,3.89,No,3.89,12.0,35000.0
+354,354,2018,Female,23,2016,BCSE,4,No,Yes,2,1,Offline,Yes,Yes,20,Advance,70,Yes,No,Yes,Networking,1,Machine Learning / Deep Learning,In a relationship,No,Family,No,2.75,No,2.88,111.0,70000.0
+355,355,2020,Male,22,2018,BCSE,12,No,No,5,2,Online,No,Yes,2,Intermediate,98,No,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",3,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science, Mathematics",Single,No,Family,No,4.0,No,3.97,87.0,30000.0
+356,356,2020,Male,22,2018,BCSE,8,Yes,No,3,2,Online,Yes,Yes,2,Intermediate,95,No,No,No,"Programming, Web development skill(Frontend)",2,Software,Single,No,Bachelor,No,3.57,No,3.57,90.0,40000.0
+357,357,2020,Female,22,2018,BCSE,8,Yes,No,2,4,Offline,Yes,Yes,2,Intermediate,98,No,No,Yes,Software  Development skill,0,Software,Single,No,Bachelor,Yes,3.19,No,3.41,,70000.0
+358,358,2019,Male,23,2018,BCSE,11,Yes,No,8,5,Offline,Yes,Yes,1,Intermediate,99,No,No,No,"Programming, Web development skill(Frontend), Networking",3,Software,Single,No,Bachelor,No,3.6,No,3.9,130.0,20000.0
+359,359,2020,Female,20,2019,BCSE,7,No,Yes,6,2,Offline,Yes,Yes,6,Intermediate,85,Yes,No,Yes,Software  Development skill,3,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Family,No,2.88,No,2.88,68.0,100000.0
+360,360,2022,Male,20,2020,BCSE,2,Yes,No,3,4,Offline,Yes,No,6,Basic,90,Yes,No,Yes,Programming,2,Software,Single,No,Bachelor,No,2.74,No,2.74,23.0,20000.0
+361,361,2021,Female,20,2019,BCSE,3,No,Yes,5,3,Offline,Yes,No,3,Basic,50,Yes,No,No,Programming,3,Hardware,Single,No,Family,No,1.41,No,2.55,25.0,10000.0
+362,362,2019,Female,22,2017,BCSE,11,No,No,5,2,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),2,"Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Bachelor,No,3.42,No,3.32,122.0,40000.0
+363,363,2019,Female,22,2017,BCSE,11,No,No,5,2,Offline,Yes,Yes,3,Intermediate,99,No,No,Yes,Web development skill(Frontend),2,"Machine Learning / Deep Learning, Artificial Intelligence",Single,No,Bachelor,No,3.1,No,3.08,118.0,40000.0
+364,364,2022,Male,20,2020,BCSE,2,Yes,No,3,2,Online,Yes,Yes,2,Intermediate,70,No,No,Yes,Programming,1,Data Science,Single,No,Bachelor,No,3.29,No,3.29,11.0,40000.0
+365,365,2022,Female,22,2017,BCSE,2,Yes,Yes,3,3,Offline,Yes,Yes,3,Basic,100,No,No,No,Programming,2,Software,Single,No,Family,No,3.75,No,3.75,12.0,50000.0
+366,366,2022,Female,20,2019,BCSE,1,Yes,Yes,2,3,Offline,Yes,Yes,1,Basic,97,No,No,Yes,"Programming, Software  Development skill",2,"NETWORKING, Artificial Intelligence",Single,Yes,Family,No,,No,,11.0,45000.0
+367,367,2019,Male,21,2019,BCSE,8,Yes,No,4,2,Offline,Yes,Yes,1,Intermediate,90,No,No,Yes,"Cyber security, Networking",2,NETWORKING,Single,No,Bachelor,No,3.88,No,3.71,92.0,30000.0
+368,368,2019,Male,21,2018,BCSE,8,Yes,Yes,2,2,Offline,No,Yes,2,Intermediate,90,No,No,Yes,"Web development skill(Frontend), Computer Application as well.",2,"Software, Machine Learning / Deep Learning, UI/UX",Single,Yes,Bachelor,No,,No,,,25000.0
+369,369,2018,Male,25,2016,BCSE,4,Yes,Yes,2,2,Online,Yes,Yes,3,Intermediate,90,Yes,Yes,Yes,Programming,2,"Software, Hardware, Artificial Intelligence",Single,No,Family,No,2.4,No,2.41,86.0,50000.0
+370,370,2021,Female,22,2018,BCSE,2,Yes,No,4,2,Offline,Yes,Yes,3,Basic,80,Yes,No,Yes,Programming,3,"Software, Hardware, NETWORKING, Artificial Intelligence",Married,No,Family,Yes,2.86,No,2.86,15.0,50000.0
+371,371,2021,Male,20,2020,BCSE,3,Yes,No,1,1,Online,Yes,Yes,2,Intermediate,80,No,No,No,Programming,0,"Software, UI/UX",Single,Yes,Bachelor,Yes,2.63,No,3.07,27.0,25000.0
+372,372,2020,Female,21,2018,BCSE,8,No,Yes,3,2,Online,Yes,Yes,1,Intermediate,96,No,No,Yes,Web development skill(Backend),2,Machine Learning / Deep Learning,Single,No,Family,Yes,3.48,No,3.74,87.0,20000.0
+373,373,2022,Male,19,2020,BCSE,2,Yes,Yes,1,1,Offline,Yes,Yes,4,Intermediate,99,No,No,No,Programming,1,"Software, Artificial Intelligence",Single,No,Family,No,3.75,No,3.75,12.0,30000.0
+374,374,2022,Female,21,2019,BCSE,1,Yes,Yes,2,1,Offline,Yes,No,5,Intermediate,100,No,No,Yes,Networking,1,Software,Single,No,Family,No,0.0,No,0.0,0.0,40000.0
+375,375,2022,Female,20,2020,BCSE,11,Yes,No,2,1,Offline,Yes,Yes,2,Basic,99,No,No,Yes,"Programming, Web development skill(Frontend)",2,"Software, Artificial Intelligence",Single,No,Family,No,4.0,No,4.0,13.0,40000.0
+376,376,2020,Female,21,2018,BCSE,8,Yes,No,2,2,Offline,Yes,Yes,2,Intermediate,80,No,No,Yes,Web development skill(Backend),1,"Software, NETWORKING",Engaged,No,Family,Yes,3.5,No,3.63,87.0,90000.0
+377,377,2022,Male,20,2021,BCSE,2,Yes,Yes,2,2,Offline,Yes,Yes,1,Basic,90,No,No,No,i don't,1,"Software, Hardware, Artificial Intelligence",Single,No,Family,No,3.85,No,3.85,11.0,30000.0
+378,378,2022,Male,20,2020,BCSE,2,Yes,Yes,2,1,Offline,Yes,Yes,2,Intermediate,98,No,No,Yes,Programming,3,"Software, NETWORKING, Artificial Intelligence",Single,No,Family,No,3.51,No,3.51,11.0,40000.0
+379,379,2022,Male,21,2019,BCSE,2,No,No,3,2,Offline,Yes,Yes,2,Basic,95,No,No,Yes,Programming,2,Artificial Intelligence,Single,No,Bachelor,No,3.85,No,3.85,11.0,
+380,380,2022,Female,20,2020,BCSE,2,Yes,Yes,3,3,Offline,Yes,Yes,5,Basic,90,No,No,Yes,Programming,2,Software,Single,No,Family,No,4.0,No,4.0,11.0,50000.0
+381,381,2022,Male,19,2020,BCSE,2,No,No,4,2,Offline,Yes,Yes,45,Basic,90,No,No,Yes,Programming,1,Artificial Intelligence,Single,No,Bachelor,No,3.21,No,3.21,11.0,40000.0
+382,382,2022,Male,21,2020,BCSE,2,Yes,No,4,4,Offline,Yes,Yes,1,Basic,80,Yes,Yes,Yes,Programming,1,"Software, Hardware",In a relationship,Yes,Bachelor,Yes,3.1,No,3.1,14.0,20000.0
+383,383,2021,Female,22,2019,BCSE,3,Yes,Yes,3,2,Offline,Yes,Yes,4,Intermediate,70,No,No,No,Programming,2,"Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,No,Family,No,3.52,No,3.77,23.0,25000.0
+384,384,2021,Female,20,2020,BCSE,3,Yes,No,2,2,Offline,Yes,Yes,2,Intermediate,85,No,No,Yes,Programming,1,Software,Single,No,Family,No,3.24,No,3.32,23.0,80000.0
+385,385,2019,Male,23,2017,BCSE,11,No,Yes,0,0,Offline,Yes,Yes,0,Intermediate,90,No,No,No,"Programming, Software  Development skill, Web development skill(Backend), Web development skill(Frontend)",4,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Bachelor,Yes,3.94,Yes,3.95,126.0,25000.0
+386,386,2020,Female,22,2018,BCSE,8,No,No,4,1,Online,Yes,Yes,7,Intermediate,80,No,No,No,Graphics design,1,"Machine Learning / Deep Learning, Artificial Intelligence, UI/UX",Single,Yes,Family,No,2.5,No,2.85,,60000.0
+387,387,2021,Male,20,2020,BCSE,2,Yes,Yes,1,4,Online,Yes,No,6,Intermediate,80,No,No,No,Software  Development skill,1,Software,Single,No,Family,No,2.91,No,2.91,11.0,25000.0
+388,388,2020,Male,21,2019,BCSE,7,Yes,Yes,2,2,Offline,Yes,Yes,1,Basic,100,No,No,No,Web development skill(Frontend),1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science, For now, I am interesting in Machine Learning , Artificial Intelligence , Data Science, Software . Also Web Development ",Single,Yes,Family,No,3.67,No,3.48,,30000.0
+389,389,2019,Male,23,2018,BCSE,11,No,No,6,4,Online,Yes,Yes,6,Advance,90,No,No,Yes,Web development skill(Frontend),5,UI/UX,Single,No,Bachelor,No,3.02,No,3.05,123.0,40000.0
+390,390,2020,Female,21,2019,BCSE,8,No,Yes,13,2,Online,Yes,Yes,1,Advance,100,No,No,No,"Programming, Web development skill(Frontend)",2,NETWORKING,Single,No,Family,No,3.77,No,3.69,88.0,5000.0
+391,391,2021,Male,21,2020,BCSE,4,No,Yes,2,1,Offline,Yes,Yes,2,Intermediate,96,No,No,Yes,Programming,1,"Software, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science, Problem Solving,QA, Graphics Design",Single,Yes,Family,No,3.89,No,3.7,35.0,90000.0
+392,392,2014,Female,25,2013,BCSE,3,No,Yes,4,3,Offline,Yes,Yes,1,Intermediate,90,Yes,No,Yes,Networking,2,"Software, Hardware, NETWORKING",Married,No,Family,No,3.06,No,2.86,140.0,40000.0
+393,393,2019,Male,21,2019,BCSE,8,No,Yes,1,2,Online,Yes,Yes,4,Intermediate,57,Yes,No,No,Programming,3,"Software, Machine Learning / Deep Learning, Artificial Intelligence",Single,Yes,Family,Yes,3.66,No,3.01,77.0,45000.0
+394,394,2020,Female,22,2018,BCSE,8,Yes,Yes,3,1,Offline,Yes,Yes,3,Basic,100,Yes,No,Yes,Networking,4,"NETWORKING, Data Science",Single,No,Bachelor,No,2.15,No,2.54,70.0,25000.0
+395,395,2017,Male,24,2017,BCSE,9,Yes,Yes,1,1,Online,Yes,Yes,1,Intermediate,85,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,Software,Single,No,Family,No,3.39,No,3.29,90.0,40000.0
+396,396,2020,Male,22,2016,BCSE,7,No,Yes,1,1,Offline,Yes,Yes,2,Intermediate,60,No,No,Yes,Programming,1,"Hardware, NETWORKING",Single,No,Bachelor,Yes,2.92,No,2.9,58.0,0.0
+397,397,2019,Female,21,2019,BCSE,8,No,Yes,5,2,Offline,Yes,Yes,3,Advance,90,Yes,No,Yes,Networking,2,NETWORKING,Engaged,Yes,Bachelor,No,2.13,No,2.45,87.0,40000.0
+398,398,2020,Male,22,2019,BCSE,4,No,No,2,1,Offline,Yes,Yes,2,Intermediate,80,No,No,No,"Programming, Web development skill(Backend)",1,"Software, NETWORKING, Artificial Intelligence",Single,No,Bachelor,Yes,3.4,No,2.8,80.0,35000.0
+399,399,2022,Female,20,2020,BCSE,1,Yes,Yes,3,2,Offline,Yes,Yes,2,Intermediate,98,No,No,Yes,"Programming, Cyber security",1,"Software, NETWORKING",Single,Yes,Family,No,,No,,0.0,30000.0
+400,400,2020,Female,21,2019,BCSE,8,Yes,Yes,2,2,Offline,Yes,Yes,1,Intermediate,80,No,No,Yes,Machine Learning,3,Machine Learning / Deep Learning,Single,Yes,Family,Yes,3.4,No,3.5,87.0,40000.0
+401,401,2021,Male,20,2020,BCSE,2,No,Yes,1,1,Offline,Yes,Yes,1,Basic,100,No,No,Yes,Market Analysis,1,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Family,No,2.59,No,3.01,24.0,40000.0
+402,402,2022,Male,20,2020,BCSE,2,Yes,Yes,2,1,Online,Yes,Yes,10,Basic,95,No,No,No,Programming,2,"Software, NETWORKING",Single,No,Family,No,1.75,No,,11.0,30000.0
+403,403,2020,Male,22,2019,BCSE,7,No,No,0,0,Offline,Yes,Yes,2,Intermediate,96,No,No,No,Programming,0,"Hardware, NETWORKING, Machine Learning / Deep Learning, Data Science",Single,Yes,Bachelor,Yes,3.4,No,3.65,75.0,
+404,404,2021,Female,21,2021,BCSE,3,Yes,No,7,7,Offline,Yes,Yes,3,Basic,99,Yes,Yes,Yes,Programming,1,"Hardware, Machine Learning / Deep Learning",Single,No,Bachelor,No,1.52,No,1.64,8.0,60000.0
+405,405,2019,Female,22,2018,BCSE,11,No,Yes,2,1,Offline,Yes,Yes,4,Advance,90,No,No,Yes,"Programming, Networking",3,"NETWORKING, Artificial Intelligence, UI/UX, Data Science",Single,Yes,Family,Yes,3.66,No,3.37,123.0,60000.0
+406,406,2020,Male,20,2019,BCSE,8,No,No,1,3,Offline,Yes,Yes,2,Intermediate,90,Yes,No,No,"Web development skill(Frontend), Wordpress",3,Web Development,Single,Yes,Bachelor,No,3.5,No,3.12,90.0,25000.0
+407,407,2019,Female,23,2017,BCSE,11,No,Yes,2,1,Offline,Yes,Yes,4,Intermediate,70,No,No,Yes,"Programming, Web development skill(Frontend)",2,"Software, NETWORKING, Machine Learning / Deep Learning",Single,Yes,Family,No,3.59,No,3.55,123.0,50000.0
+408,408,2021,Male,20,2019,BCSE,3,Yes,No,4,2,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Programming,3,"Software, NETWORKING, Artificial Intelligence, Data Science",Single,No,Bachelor,No,3.03,No,3.03,23.0,7000.0
+409,409,2020,Male,23,2018,BCSE,8,Yes,No,2,3,Offline,Yes,Yes,2,Basic,90,No,No,Yes,Programming,1,"Software, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,Yes,3.94,No,3.9,91.0,20000.0
+410,410,2021,Male,21,2020,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,2,Intermediate,95,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend)",3,Hardware,Single,Yes,Family,No,4.0,No,,12.0,40000.0
+411,411,2020,Female,21,2019,BCSE,8,Yes,Yes,1,30,Online,Yes,Yes,1,Intermediate,90,No,No,Yes,Cyber security,1,UI/UX,Single,Yes,Family,Yes,3.0,No,3.1,87.0,30000.0
+412,412,2019,Male,24,2018,BCSE,11,No,Yes,3,2,Online,Yes,Yes,20,Intermediate,90,No,No,Yes,"Web development skill(Frontend), Networking, IOT, WordPress, UI & UX,  ISP maintenance, Digital Marketing, Cyber forensic, Cyber attacks , Entrepreneur.",6,"Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Cyber security, IOT, ISP maintenance, MIS, Cyber Forensic, Digital Marketing, Cyber attact , Making Cyber Tools, Security Analyst, Entrepreneur etc",Single,Yes,Family,No,3.45,No,3.34,117.0,19000.0
+413,413,2019,Female,21,2018,BCSE,11,No,No,4,3,Online,Yes,Yes,3,Advance,80,Yes,Yes,Yes,Programming,1,NETWORKING,Married,No,Family,No,2.96,No,2.61,96.0,100000.0
+414,414,2021,Female,21,2019,BCSE,3,Yes,No,2,1,Offline,Yes,Yes,2,Intermediate,90,No,No,Yes,Programming,1,Software,Single,Yes,Bachelor,No,3.38,No,3.53,24.0,40000.0
+415,415,2021,Female,20,2020,BCSE,3,Yes,No,2,1,Offline,Yes,Yes,3,Intermediate,95,No,No,Yes,Programming,1,Software,Single,Yes,Bachelor,No,3.12,No,3.07,24.0,50000.0
+416,416,2018,Male,24,2017,BCSE,10,No,No,3,1,Online,Yes,Yes,1,Basic,98,Yes,No,Yes,Programming,2,UI/UX,Married,No,Bachelor,No,2.86,No,2.88,133.0,
+417,417,2019,Female,20,2019,BCSE,2,No,No,4,2,Offline,Yes,Yes,1,Basic,90,No,No,Yes,Web development skill(Frontend),1,Data Science,Single,No,Family,No,3.1,No,3.27,88.0,45000.0
+418,418,2018,Male,24,2017,BCSE,2,No,No,3,3,Offline,Yes,Yes,5,Advance,95,Yes,No,No,Programming,2,"Software, Hardware, Data Science",In a relationship,No,Family,No,2.76,No,2.64,136.0,25000.0
+419,419,2019,Female,22,2018,BCSE,10,Yes,No,1,1,Offline,Yes,Yes,6,Intermediate,70,No,No,Yes,learning python,1,Machine Learning / Deep Learning,Single,Yes,Bachelor,Yes,3.52,No,3.78,112.0,30000.0
+420,420,2019,Male,23,2017,BCSE,11,Yes,No,3,2,Offline,No,Yes,1,Intermediate,90,No,No,No,Web development skill(Backend),3,Software,In a relationship,Yes,Bachelor,No,4.0,No,3.9,123.0,25000.0
+421,421,2020,Male,23,2019,BCSE,8,Yes,Yes,3,1,Offline,Yes,Yes,3,Advance,90,No,No,No,Programming,2,"Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Family,No,3.84,No,3.78,90.0,30000.0
+422,422,2019,Female,22,2018,BCSE,11,No,Yes,1,1,Offline,Yes,Yes,6,Intermediate,86,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,"Software, UI/UX",Single,No,Family,No,3.44,No,3.46,,300000.0
+423,423,2019,Male,21,2018,BCSE,10,No,Yes,3,3,Online,Yes,Yes,1,Basic,99,No,No,Yes,Programming,1,Software,Single,No,Bachelor,No,,No,,105.0,35000.0
+424,424,2022,Male,21,2020,BCSE,2,Yes,Yes,4,1,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Programming,1,Software,Single,Yes,Bachelor,No,2.98,No,0.0,11.0,30000.0
+425,425,2022,Male,20,2020,BCSE,2,Yes,No,3,2,Offline,Yes,Yes,6,Basic,100,No,No,No,Programming,3,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, UI/UX, Data Science",Single,No,Bachelor,No,3.43,No,,12.0,25000.0
+426,426,2022,Male,21,2020,BCSE,2,Yes,No,9,3,Offline,Yes,Yes,3,Advance,90,No,No,Yes,"Programming, vedio editing & poster design",2,Software,Single,Yes,Bachelor,No,3.98,No,3.98,28.0,40000.0
+427,427,2013,Female,26,2012,BCSE,9,No,Yes,2,2,Offline,Yes,Yes,2,Basic,90,Yes,No,Yes,Networking,3,NETWORKING,Married,Yes,Family,No,3.08,No,3.15,89.0,50000.0
+428,428,2019,Female,22,2017,BCSE,11,No,No,2,2,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,"Programming, Cyber security",5,"Machine Learning / Deep Learning, Cyber security ",Single,Yes,Family,Yes,3.1,No,3.16,122.0,20000.0
+429,429,2021,Male,19,2020,BCSE,4,No,Yes,3,4,Offline,Yes,Yes,1,Basic,95,Yes,No,No,Problem solving,1,Software,Single,No,Family,No,2.37,No,2.46,31.0,50000.0
+430,430,2022,Male,20,2018,BCSE,1,Yes,No,4,2,Offline,Yes,Yes,2,Intermediate,85,No,No,No,Programming,2,"Software, Artificial Intelligence",Single,Yes,Bachelor,No,5.0,No,,,30000.0
+431,431,2022,Male,21,2019,BCSE,2,Yes,No,1,2,Offline,Yes,Yes,2,Basic,90,No,No,No,Programming,1,Software,Single,No,Bachelor,No,3.58,No,3.58,12.0,40000.0
+432,432,2022,Female,18,2021,BCSE,1,Yes,Yes,3,2,Offline,Yes,Yes,2,Advance,95,No,No,Yes,Have not started yet,1,"Software, Machine Learning / Deep Learning, UI/UX, Data Science",Single,No,Family,No,,No,,,150000.0
+433,433,2022,Male,19,2021,BCSE,2,Yes,Yes,3,2,Offline,Yes,Yes,2,Basic,50,No,No,Yes,"Web development skill(Frontend), Basic html and css project and also cultural activities ",2,"Software, NETWORKING, UI/UX",Single,Yes,Bachelor,No,0.0,No,0.0,0.0,20000.0
+434,434,2021,Male,22,2020,BCSE,5,No,Yes,3,3,Offline,Yes,Yes,3,Intermediate,90,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,Yes,2.9,No,2.19,36.0,60000.0
+435,435,2022,Male,20,2019,BCSE,2,No,No,4,2,Offline,Yes,Yes,3,Intermediate,90,No,No,Yes,Programming,1,"Software, Artificial Intelligence",Single,Yes,Bachelor,No,3.32,No,3.25,12.0,30000.0
+436,436,2020,Male,22,2019,BCSE,8,No,No,6,2,Offline,Yes,Yes,2,Intermediate,0,Yes,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend), design logo",1,"Software, Data Science",Single,No,Bachelor,No,3.3,No,3.15,90.0,36000.0
+437,437,2019,Male,23,2017,BCSE,2,No,No,4,2,Offline,Yes,Yes,3,Intermediate,95,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend), Networking",6,"Software, NETWORKING, Artificial Intelligence, Data Science",Single,No,Bachelor,No,3.92,No,3.78,123.0,30000.0
+438,438,2014,Female,25,2013,BCSE,3,No,No,1,1,Online,Yes,Yes,12,Intermediate,80,Yes,Yes,Yes,"Software  Development skill, Web development skill(Frontend)",4,Software,Married,No,Family,Yes,2.8,Yes,2.5,115.0,20000.0
+439,439,2022,Male,21,2020,BCSE,2,Yes,No,4,2,Online,Yes,No,3,Intermediate,98,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,3.33,No,2.9,12.0,25000.0
+440,440,2020,Male,23,2018,BCSE,8,Yes,Yes,5,6,Offline,Yes,Yes,2,Intermediate,98,No,No,No,Programming,2,NETWORKING,Single,No,Bachelor,No,3.66,No,3.81,87.0,38000.0
+441,441,2019,Male,24,2018,BCSE,11,No,No,2,2,Offline,Yes,Yes,2,Intermediate,80,No,No,Yes,Software  Development skill,3,Software,Single,Yes,Bachelor,No,3.78,No,3.13,124.0,15000.0
+442,442,2020,Male,21,2019,BCSE,8,No,No,5,4,Offline,Yes,Yes,3,Intermediate,99,No,No,Yes,Programming,1,Software,Single,Yes,Family,Yes,3.82,No,3.81,89.0,15000.0
+443,443,2019,Female,23,2018,BCSE,11,Yes,Yes,4,1,Offline,Yes,Yes,1,Intermediate,95,No,No,Yes,Networking,4,NETWORKING,Single,Yes,Bachelor,Yes,4.0,No,3.93,118.0,50000.0
+444,444,2022,Male,21,2019,BCSE,2,Yes,No,4,2,Offline,Yes,Yes,2,Basic,95,No,No,Yes,Programming,2,Software,Single,No,Bachelor,No,2.55,No,2.55,11.0,20000.0
+445,445,2018,Male,25,2016,BCSE,12,Yes,No,3,2,Offline,Yes,Yes,2,Advance,90,No,No,No,"Web development skill(Backend), Web development skill(Frontend), Networking",2,"Software, NETWORKING, Web development ",Single,No,Bachelor,Yes,,Yes,3.4,136.0,20000.0
+446,446,2019,Female,22,2017,BCSE,11,No,No,3,1,Online,Yes,Yes,5,Intermediate,90,No,No,No,"Software  Development skill, Web development skill(Backend)",2,Software,Single,No,Bachelor,No,3.65,No,3.59,1.0,30000.0
+447,447,2020,Female,21,2019,BCSE,8,Yes,Yes,3,2,Offline,Yes,Yes,4,Intermediate,93,No,No,No,Programming,2,Machine Learning / Deep Learning,Single,No,Family,No,3.62,No,3.62,85.0,
+448,448,2019,Male,20,2018,BCSE,9,No,Yes,2,2,Offline,Yes,Yes,1,Basic,90,No,No,No,Learning frontend,1,NETWORKING,Single,No,Family,No,3.7,No,3.45,101.0,30000.0
+449,449,2022,Male,21,2020,BCSE,2,Yes,Yes,5,2,Online,Yes,Yes,3,Intermediate,100,No,No,Yes,Programming,4,Competitive programming,Single,No,Family,No,3.48,No,3.48,11.0,50000.0
+450,450,2018,Male,25,2016,BCSE,11,Yes,Yes,4,2,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Backend),2,Software,Single,Yes,Family,No,3.86,No,3.56,129.0,60000.0
+451,451,2019,Male,23,2017,BCSE,10,Yes,Yes,4,4,Online,Yes,Yes,10,Intermediate,98,No,No,Yes,"Programming, Web development skill(Frontend)",2,Software,In a relationship,No,Family,No,3.38,No,3.81,117.0,15000.0
+452,452,2020,Female,22,2019,BCSE,8,Yes,Yes,5,1,Offline,Yes,Yes,2,Intermediate,90,No,No,Yes,Programming,1,Software,Married,No,Family,No,3.07,No,3.42,75.0,500000.0
+453,453,2019,Male,25,2017,BCSE,11,No,No,2,1,Offline,Yes,Yes,6,Intermediate,90,No,No,Yes,"Programming, Web development skill(Backend), Web development skill(Frontend), Networking",4,Software,Single,Yes,Bachelor,No,2.59,No,3.06,130.0,50000.0
+454,454,2019,Male,23,2018,BCSE,11,No,No,2,3,Offline,Yes,Yes,2,Intermediate,99,Yes,No,No,"Web development skill(Backend), Networking",0,"Hardware, NETWORKING",Single,No,Bachelor,No,3.3,No,3.24,130.0,15000.0
+455,455,2019,Female,22,2018,BCSE,11,Yes,Yes,4,4,Offline,Yes,Yes,10,Intermediate,99,No,No,Yes,"Web development skill(Frontend), Networking",2,NETWORKING,Single,Yes,Family,No,3.72,No,3.78,127.0,40000.0
+456,456,2018,Male,23,2016,BCSE,3,No,No,2,2,Offline,Yes,Yes,5,Basic,75,Yes,Yes,Yes,Programming,1,Hardware,Single,Yes,Bachelor,No,2.55,No,2.65,120.0,20000.0
+457,457,2021,Male,20,2020,BCSE,4,Yes,No,4,2,Offline,Yes,Yes,2,Basic,85,No,No,No,"Programming, Web development skill(Frontend)",3,"Software, Hardware, NETWORKING, Machine Learning / Deep Learning, Artificial Intelligence, Data Science",Single,No,Bachelor,No,3.0,No,2.8,36.0,20000.0
+458,458,2022,Male,20,2020,BCSE,2,Yes,Yes,2,4,Offline,Yes,Yes,1,Intermediate,80,No,No,Yes,"Programming, Game development ",1,"Software, Hardware, NETWORKING, Artificial Intelligence, UI/UX",Single,No,Bachelor,No,3.7,No,3.7,10.0,25000.0
+459,459,2020,Male,22,2019,BCSE,7,No,No,3,2,Offline,Yes,Yes,2,Intermediate,95,No,No,No,"Programming, Web development skill(Backend), Web development skill(Frontend)",2,"Software, Data Science",Single,Yes,Bachelor,Yes,3.2,No,3.51,,100000.0
+460,460,2021,Male,21,2020,BCSE,3,Yes,Yes,5,2,Offline,Yes,Yes,3,Intermediate,90,No,No,Yes,Web development skill(Frontend),4,"Software, Artificial Intelligence",Single,No,Family,No,3.57,No,3.67,23.0,35000.0
+461,461,2021,Male,21,2020,BCSE,3,Yes,No,4,2,Offline,Yes,Yes,1,Advance,97,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,3.17,No,2.85,20.0,30000.0
+462,462,2022,Male,20,2020,BCSE,2,No,No,4,2,Offline,Yes,Yes,1,Basic,90,No,No,Yes,Programming,3,"Software, Artificial Intelligence",Single,No,Bachelor,No,3.78,No,3.78,28.0,25000.0
+463,463,2019,Male,25,2017,BCSE,10,Yes,Yes,2,2,Offline,Yes,Yes,1,Intermediate,85,No,No,Yes,"Programming, Software  Development skill, Web development skill(Frontend)",3,"Software, Machine Learning / Deep Learning",Single,Yes,Bachelor,Yes,3.9,No,3.59,,40000.0
+464,464,2021,Male,21,2020,BCSE,3,No,Yes,4,2,Offline,Yes,Yes,4,Intermediate,50,No,No,No,Programming,1,"Software, Hardware, NETWORKING, Data Science",Single,No,Family,No,2.94,No,2.5,23.0,0.0
+465,465,2021,Female,21,2020,BCSE,5,Yes,Yes,3,2,Offline,Yes,Yes,5,Basic,80,No,No,No,Programming,2,Software,Single,No,Family,No,2.89,No,2.8,,20000.0
+466,466,2021,Female,22,2020,BCSE,4,No,No,4,4,Offline,Yes,Yes,2,Intermediate,90,No,No,No,Programming,1,Software,Single,No,Bachelor,No,1.8,No,2.56,23.0,20000.0
+467,467,2020,Female,22,2019,BCSE,8,No,No,4,3,Online,Yes,Yes,3,Intermediate,85,No,No,No,Programming,4,Hardware,Single,No,Bachelor,No,2.78,No,3.75,78.0,30000.0
+468,468,2022,Female,20,2021,BCSE,6,No,No,1,5,Offline,Yes,No,2,Basic,100,Yes,No,Yes,Programming,4,Data Science,Single,No,Family,No,1.45,No,2.38,50.0,30000.0
+469,469,2019,Female,25,2018,BCSE,10,No,No,5,3,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,Cyber security,2,Data Science,In a relationship,Yes,Bachelor,No,2.45,No,3.54,140.0,34000.0
+470,470,2019,Male,23,2019,BCSE,10,Yes,No,6,3,Offline,Yes,No,4,Advance,80,No,No,No,Programming,1,Software,Single,Yes,Family,No,1.45,No,2.45,126.0,35000.0
+471,471,2021,Female,20,2019,BCSE,6,No,No,3,2,Offline,Yes,Yes,7,Intermediate,100,No,No,No,Machine Learning,2,Hardware,Single,No,Family,No,2.0,No,3.19,78.0,35000.0
+472,472,2020,Male,24,2018,BCSE,11,Yes,No,1,2,Offline,Yes,Yes,8,Advance,100,No,No,Yes,Programming,2,Hardware,Single,No,Bachelor,No,2.89,No,3.99,140.0,36000.0
+473,473,2020,Female,20,2019,BCSE,10,No,No,2,1,Offline,Yes,Yes,8,Intermediate,70,No,No,Yes,Cyber security,1,Data Science,In a relationship,No,Bachelor,No,2.88,No,3.75,141.0,36000.0
+474,474,2021,Male,20,2020,BCSE,7,No,No,3,2,Offline,Yes,Yes,7,Basic,60,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,1.87,No,2.98,101.0,37000.0
+475,475,2020,Male,20,2020,BCSE,9,No,No,1,1,Offline,Yes,No,3,Advance,54,Yes,No,Yes,Networking,3,Hardware,Single,Yes,Family,No,2.44,No,3.53,127.0,39000.0
+476,476,2019,Female,22,2019,BCSE,10,No,No,4,2,Offline,Yes,No,2,Intermediate,90,No,No,Yes,Programming,1,Software,Single,No,Family,Yes,2.8,No,3.65,126.0,40000.0
+477,477,2019,Male,21,2019,BCSE,7,No,No,5,3,Online,Yes,Yes,2,Intermediate,100,No,No,Yes,Programming,2,Artificial Intelligence,Single,No,Family,No,2.11,No,3.47,103.0,40000.0
+478,478,2022,Male,22,2021,BCSE,5,No,No,4,1,Offline,Yes,Yes,3,Advance,87,No,No,No,Machine Learning,2,Data Science,Married,No,Bachelor,No,2.37,No,3.49,67.0,41000.0
+479,479,2021,Male,23,2019,BCSE,9,No,No,3,1,Offline,Yes,Yes,3,Intermediate,87,Yes,No,No,Networking,2,Hardware,Married,No,Family,No,2.75,No,3.8,116.0,44000.0
+480,480,2021,Female,21,2020,BCSE,9,No,No,3,2,Online,Yes,Yes,4,Intermediate,100,No,No,Yes,Cyber security,3,Software,In a relationship,No,Bachelor,No,1.98,No,2.91,117.0,44000.0
+481,481,2020,Female,20,2020,BCSE,11,No,No,2,1,Online,Yes,Yes,3,Intermediate,100,No,No,Yes,Networking,2,Hardware,Single,Yes,Family,No,2.64,No,3.7,143.0,44000.0
+482,482,2019,Male,22,2018,BCSE,9,No,No,5,2,Online,Yes,Yes,11,Intermediate,77,No,No,No,Networking,6,UI/UX,Single,Yes,Bachelor,No,1.77,No,2.66,133.0,45000.0
+483,483,2022,Female,21,2020,BCSE,5,No,No,5,2,Offline,Yes,Yes,7,Intermediate,95,No,No,No,Programming,1,Data Science,Single,Yes,Family,No,2.19,No,2.77,42.0,45000.0
+484,484,2021,Male,22,2020,BCSE,6,Yes,No,5,5,Online,Yes,Yes,7,Advance,70,Yes,Yes,Yes,Web development skill(Frontend),3,Hardware,In a relationship,Yes,Bachelor,No,2.19,No,3.19,63.0,45000.0
+485,485,2020,Female,20,2020,BCSE,8,No,No,3,1,Online,Yes,Yes,9,Intermediate,86,Yes,No,No,Programming,2,Data Science,Single,No,Bachelor,Yes,1.98,No,2.98,119.0,45000.0
+486,486,2021,Female,20,2020,BCSE,9,No,No,4,2,Offline,Yes,Yes,2,Intermediate,78,Yes,No,No,Machine Learning,4,Data Science,In a relationship,Yes,Family,No,1.83,No,2.9,97.0,45000.0
+487,487,2020,Female,21,2019,BCSE,9,No,No,3,1,Online,Yes,Yes,9,Intermediate,100,No,No,Yes,Web development skill(Backend),2,Software,In a relationship,No,Bachelor,No,1.87,No,2.82,139.0,46000.0
+488,488,2020,Female,25,2019,BCSE,11,No,No,1,1,Online,Yes,Yes,3,Intermediate,68,No,No,No,Programming,2,UI/UX,Single,No,Bachelor,No,2.65,No,3.71,143.0,49000.0
+489,489,2020,Female,23,2018,BCSE,11,Yes,No,6,2,Offline,Yes,Yes,4,Advance,90,Yes,No,Yes,Programming,5,Software,Single,No,Family,No,2.19,No,3.45,122.0,50000.0
+490,490,2022,Male,24,2019,BCSE,4,Yes,No,3,2,Offline,Yes,Yes,4,Intermediate,100,No,No,Yes,Networking,1,Software,Single,No,Family,No,2.5,No,3.4,46.0,50000.0
+491,491,2020,Male,25,2019,BCSE,11,No,No,2,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Networking,4,Hardware,In a relationship,No,Bachelor,No,2.82,No,3.85,143.0,50000.0
+492,492,2020,Female,22,2020,BCSE,8,No,No,2,1,Online,Yes,Yes,2,Basic,50,Yes,No,No,Cyber security,2,Data Science,In a relationship,No,Bachelor,No,1.34,No,2.68,98.0,50000.0
+493,493,2022,Female,19,2021,BCSE,5,No,No,1,1,Offline,Yes,Yes,4,Basic,78,No,No,Yes,Programming,2,UI/UX,Single,No,Bachelor,No,2.68,No,3.79,80.0,50000.0
+494,494,2019,Female,22,2017,BCSE,10,No,No,2,1,Online,Yes,Yes,1,Intermediate,80,Yes,No,No,Networking,1,Data Science,In a relationship,Yes,Family,No,1.97,No,2.98,79.0,52000.0
+495,495,2021,Female,20,2020,BCSE,9,Yes,No,5,2,Offline,Yes,Yes,3,Advance,100,No,No,No,Web development skill(Backend),4,Data Science,Single,No,Family,No,2.76,No,3.86,127.0,52000.0
+496,496,2019,Female,25,2019,BCSE,10,No,No,4,2,Offline,Yes,Yes,7,Advance,45,No,No,Yes,Programming,2,Software,Single,Yes,Family,No,1.72,No,2.79,140.0,54000.0
+497,497,2020,Male,21,2020,BCSE,10,No,No,2,2,Offline,Yes,Yes,2,Basic,100,No,No,No,Cyber security,4,Data Science,Single,Yes,Bachelor,No,2.62,No,3.75,136.0,55000.0
+498,498,2021,Female,20,2020,BCSE,7,No,No,2,1,Offline,Yes,Yes,2,Advance,87,No,No,No,Networking,4,Hardware,In a relationship,No,Bachelor,No,1.51,No,2.59,99.0,55000.0
+499,499,2022,Female,22,2021,BCSE,5,No,No,2,3,Offline,Yes,No,2,Intermediate,95,Yes,No,No,Networking,2,Hardware,Single,No,Bachelor,No,1.45,No,2.53,65.0,55000.0
+500,500,2022,Male,21,2021,BCSE,5,No,No,2,1,Offline,Yes,No,4,Intermediate,100,No,No,No,Machine Learning,2,UI/UX,Single,No,Bachelor,No,2.16,No,3.24,66.0,57000.0
+501,501,2022,Male,21,2021,BCSE,6,No,No,2,1,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Web development skill(Frontend),2,Software,Married,Yes,Family,No,2.56,No,3.62,143.0,58000.0
+502,502,2019,Male,21,2018,BCSE,11,Yes,No,1,1,Offline,Yes,Yes,7,Advance,100,No,No,Yes,Programming,3,UI/UX,Single,No,Bachelor,No,1.97,No,3.1,144.0,59000.0
+503,503,2020,Female,23,2019,BCSE,7,No,No,2,2,Offline,Yes,Yes,3,Intermediate,90,Yes,No,No,Networking,1,Data Science,In a relationship,Yes,Family,No,2.33,No,3.31,32.0,60000.0
+504,504,2020,Female,20,2020,BCSE,11,No,No,2,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Networking,2,Hardware,Single,No,Bachelor,No,1.6,No,2.68,143.0,60000.0
+505,505,2021,Male,20,2021,BCSE,7,No,No,4,3,Offline,Yes,Yes,6,Intermediate,80,No,No,No,Machine Learning,3,Hardware,In a relationship,Yes,Bachelor,No,2.11,No,3.22,97.0,60000.0
+506,506,2021,Female,20,2021,BCSE,7,No,No,3,1,Online,Yes,Yes,7,Basic,100,Yes,Yes,No,Programming,2,Software,Single,Yes,Bachelor,No,1.19,No,2.16,103.0,60000.0
+507,507,2020,Male,21,2019,BCSE,9,No,No,4,2,Online,Yes,Yes,5,Advance,100,No,No,Yes,Machine Learning,2,Software,Single,No,Bachelor,No,2.65,No,3.78,121.0,61000.0
+508,508,2020,Male,20,2020,BCSE,10,No,No,2,2,Offline,Yes,Yes,2,Intermediate,100,Yes,No,Yes,Artificial Intelligence,1,Data Science,In a relationship,Yes,Bachelor,No,2.67,No,3.7,135.0,61000.0
+509,509,2020,Male,24,2019,BCSE,11,No,No,3,3,Online,Yes,Yes,3,Intermediate,46,Yes,No,No,Cyber security,2,Data Science,Single,No,Family,No,2.44,No,3.51,144.0,64000.0
+510,510,2020,Male,24,2019,BCSE,11,No,No,3,3,Offline,Yes,Yes,3,Advance,75,Yes,No,Yes,Networking,1,Hardware,In a relationship,Yes,Bachelor,No,1.65,No,2.68,143.0,65000.0
+511,511,2020,Male,20,2020,BCSE,11,No,No,2,1,Online,Yes,Yes,2,Advance,100,Yes,No,No,Cyber security,2,Data Science,Married,Yes,Family,No,2.5,No,3.61,143.0,65000.0
+512,512,2021,Female,20,2020,BCSE,6,No,No,4,2,Online,Yes,Yes,8,Intermediate,100,No,No,No,Web development skill(Frontend),2,Software,In a relationship,Yes,Family,No,2.07,No,3.39,84.0,66000.0
+513,513,2020,Female,20,2020,BCSE,8,No,No,4,2,Online,Yes,Yes,6,Advance,100,No,No,Yes,Web development skill(Backend),1,UI/UX,Single,No,Family,No,1.77,No,2.64,119.0,66000.0
+514,514,2021,Male,20,2020,BCSE,7,Yes,No,3,1,Offline,Yes,Yes,5,Intermediate,90,No,No,No,Networking,2,Hardware,Single,No,Bachelor,No,2.11,No,3.21,102.0,66000.0
+515,515,2022,Female,21,2021,BCSE,5,No,No,2,1,Offline,Yes,No,2,Intermediate,46,Yes,No,Yes,Artificial Intelligence,4,Data Science,Single,Yes,Bachelor,No,2.33,No,3.41,63.0,66000.0
+516,516,2022,Female,20,2021,BCSE,5,No,No,3,1,Offline,Yes,Yes,3,Basic,100,Yes,No,Yes,Web development skill(Frontend),4,Software,In a relationship,Yes,Bachelor,No,2.77,No,3.84,58.0,66000.0
+517,517,2019,Male,21,2018,BCSE,11,Yes,No,5,4,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Programming,3,Software,Single,No,Family,No,2.87,No,3.98,140.0,67000.0
+518,518,2019,Male,22,2017,BCSE,10,No,No,4,1,Online,Yes,Yes,7,Intermediate,100,No,No,No,Web development skill(Backend),2,Software,Single,No,Bachelor,No,2.19,No,3.43,140.0,68000.0
+519,519,2020,Male,22,2019,BCSE,10,No,No,2,1,Offline,Yes,Yes,8,Advance,100,No,No,Yes,Artificial Intelligence,2,Hardware,Single,No,Family,No,2.11,No,3.39,132.0,68000.0
+520,520,2020,Male,25,2019,BCSE,11,No,No,1,2,Offline,Yes,Yes,2,Intermediate,51,No,No,Yes,Artificial Intelligence,4,Data Science,Single,Yes,Bachelor,Yes,2.51,No,3.57,143.0,68000.0
+521,521,2020,Male,22,2019,BCSE,9,No,No,3,2,Online,Yes,Yes,3,Basic,100,No,No,No,Networking,2,Hardware,Single,Yes,Bachelor,No,2.22,No,3.38,124.0,68000.0
+522,522,2021,Female,20,2020,BCSE,8,No,No,2,2,Offline,Yes,Yes,2,Intermediate,34,Yes,No,No,Cyber security,3,Data Science,Single,No,Bachelor,No,1.86,No,2.91,102.0,68000.0
+523,523,2021,Female,22,2021,BCSE,9,No,No,1,1,Offline,Yes,No,8,Basic,50,No,No,No,Artificial Intelligence,1,Data Science,Married,Yes,Family,No,1.87,No,2.95,140.0,68000.0
+524,524,2022,Female,21,2021,BCSE,8,Yes,No,5,2,Online,Yes,Yes,3,Basic,87,No,No,Yes,Cyber security,2,Data Science,Single,No,Bachelor,No,2.88,No,3.91,127.0,68000.0
+525,525,2020,Female,23,2018,BCSE,10,No,No,3,3,Online,Yes,Yes,6,Intermediate,99,Yes,Yes,No,Web development skill(Backend),1,Data Science,Single,No,Family,No,1.91,No,310.0,123.0,70000.0
+526,526,2021,Female,20,2020,BCSE,8,No,No,3,3,Online,Yes,Yes,2,Intermediate,100,No,No,No,Programming,2,UI/UX,In a relationship,No,Family,No,1.81,No,2.9,101.0,70000.0
+527,527,2022,Male,20,2020,BCSE,6,No,No,2,2,Offline,Yes,Yes,2,Intermediate,56,Yes,No,Yes,Programming,2,UI/UX,Single,No,Family,Yes,1.72,No,2.8,80.0,70000.0
+528,528,2021,Female,20,2020,BCSE,9,No,No,1,1,Offline,Yes,Yes,3,Intermediate,76,No,No,Yes,Web development skill(Backend),2,Software,In a relationship,No,Bachelor,No,1.56,No,2.63,104.0,70000.0
+529,529,2021,Female,24,2021,BCSE,6,No,No,1,1,Offline,Yes,Yes,4,Basic,100,No,No,No,Programming,2,Software,Single,Yes,Family,Yes,2.23,No,3.39,98.0,70000.0
+530,530,2022,Female,21,2021,BCSE,6,No,No,2,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,Yes,Networking,2,Hardware,In a relationship,No,Bachelor,No,2.67,No,3.74,77.0,70000.0
+531,531,2022,Female,19,2022,BCSE,3,No,No,4,3,Online,Yes,Yes,4,Intermediate,63,No,No,No,Web development skill(Frontend),2,Software,In a relationship,No,Bachelor,Yes,1.65,No,2.87,35.0,70000.0
+532,532,2021,Female,20,2020,BCSE,9,No,No,2,1,Online,Yes,Yes,6,Advance,90,No,No,Yes,Machine Learning,2,Software,In a relationship,No,Family,No,2.44,No,3.88,132.0,71000.0
+533,533,2022,Male,20,2021,BCSE,6,No,No,4,2,Offline,Yes,Yes,3,Intermediate,68,Yes,No,No,Networking,4,Hardware,Married,Yes,Family,No,1.56,No,2.63,70.0,74000.0
+534,534,2020,Female,21,2019,BCSE,10,No,No,6,4,Offline,Yes,Yes,4,Intermediate,80,No,No,No,Networking,4,Hardware,In a relationship,No,Bachelor,Yes,2.21,No,3.21,145.0,75000.0
+535,535,2020,Male,20,2020,BCSE,11,No,No,1,3,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Networking,1,Hardware,In a relationship,No,Bachelor,No,2.61,No,3.68,143.0,75000.0
+536,536,2021,Female,24,2019,BCSE,10,No,No,3,3,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Artificial Intelligence,2,Data Science,In a relationship,No,Bachelor,No,2.41,No,3.5,136.0,76000.0
+537,537,2021,Male,20,2020,BCSE,9,Yes,No,4,1,Offline,Yes,Yes,2,Advance,100,Yes,No,Yes,Machine Learning,2,Data Science,In a relationship,Yes,Bachelor,No,2.73,No,3.8,121.0,76000.0
+538,538,2020,Male,22,2020,BCSE,9,No,No,2,1,Offline,Yes,Yes,2,Advance,100,Yes,No,Yes,Networking,4,Hardware,Married,No,Family,Yes,2.87,No,3.93,121.0,76000.0
+539,539,2022,Male,20,2021,BCSE,5,No,No,3,2,Online,Yes,Yes,3,Intermediate,100,No,No,No,Networking,3,Hardware,Single,No,Bachelor,No,1.56,No,2.66,71.0,76000.0
+540,540,2022,Male,25,2018,BCSE,6,No,No,3,2,Online,Yes,Yes,8,Advance,100,No,No,No,Programming,3,UI/UX,Single,No,Bachelor,Yes,2.87,No,3.98,143.0,77000.0
+541,541,2021,Male,23,2019,BCSE,8,No,No,3,1,Online,Yes,Yes,7,Advance,89,No,No,No,Machine Learning,1,Data Science,Single,No,Bachelor,No,1.79,No,2.85,104.0,77000.0
+542,542,2019,Male,21,2019,BCSE,10,Yes,No,7,3,Online,Yes,Yes,3,Advance,100,No,No,No,Programming,2,UI/UX,Single,No,Family,No,2.88,No,3.93,139.0,77000.0
+543,543,2020,Female,22,2019,BCSE,9,No,No,4,2,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Artificial Intelligence,1,Data Science,In a relationship,No,Bachelor,Yes,2.78,No,3.84,120.0,77000.0
+544,544,2021,Female,22,2020,BCSE,6,Yes,No,1,1,Online,Yes,Yes,4,Basic,98,No,No,No,Cyber security,3,Hardware,In a relationship,Yes,Family,Yes,2.36,Yes,3.19,70.0,77000.0
+545,545,2020,Female,21,2020,BCSE,7,No,No,3,2,Offline,Yes,Yes,4,Intermediate,100,No,No,Yes,Machine Learning,3,Software,Single,No,Family,No,2.03,No,3.15,65.0,78000.0
+546,546,2020,Female,20,2019,BCSE,7,Yes,No,5,3,Offline,Yes,Yes,4,Advance,100,No,No,No,Networking,1,UI/UX,Single,Yes,Family,No,2.44,No,3.78,88.0,79000.0
+547,547,2021,Male,20,2020,BCSE,7,No,No,5,3,Offline,Yes,Yes,5,Intermediate,50,No,No,Yes,Web development skill(Backend),3,UI/UX,Single,No,Family,No,1.66,No,2.99,97.0,79000.0
+548,548,2019,Male,21,2018,BCSE,10,No,Yes,6,4,Offline,Yes,Yes,3,Advance,80,No,No,No,Cyber security,2,UI/UX,Single,Yes,Family,No,2.54,No,3.76,126.0,80000.0
+549,549,2020,Female,22,2019,BCSE,11,Yes,No,2,1,Online,Yes,Yes,4,Intermediate,99,No,No,No,Programming,1,Hardware,Single,No,Family,No,2.79,No,3.59,125.0,80000.0
+550,550,2019,Male,20,2019,BCSE,11,No,No,2,1,Offline,Yes,Yes,6,Basic,77,Yes,Yes,Yes,Cyber security,2,Hardware,In a relationship,No,Bachelor,No,1.55,No,2.67,144.0,80000.0
+551,551,2021,Male,21,2020,BCSE,8,No,No,4,2,Offline,Yes,Yes,2,Advance,100,Yes,No,No,Networking,2,Data Science,Single,No,Family,Yes,1.25,No,2.57,101.0,80000.0
+552,552,2020,Female,20,2020,BCSE,10,No,No,4,2,Offline,Yes,Yes,2,Advance,100,No,No,No,Networking,2,Hardware,Single,No,Bachelor,No,2.56,No,3.61,131.0,80000.0
+553,553,2022,Male,20,2021,BCSE,8,No,No,3,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Networking,1,Hardware,Single,Yes,Family,No,2.64,No,3.7,99.0,81000.0
+554,554,2020,Male,20,2020,BCSE,10,Yes,No,4,2,Offline,Yes,Yes,7,Advance,78,No,No,No,Cyber security,2,Data Science,Married,Yes,Family,Yes,1.45,No,2.67,142.0,82000.0
+555,555,2020,Male,21,2018,BCSE,10,No,No,3,2,Offline,Yes,Yes,3,Basic,70,No,No,No,Programming,3,UI/UX,In a relationship,No,Bachelor,Yes,1.56,No,2.87,133.0,85000.0
+556,556,2022,Female,21,2021,BCSE,6,Yes,No,6,4,Offline,Yes,Yes,5,Intermediate,70,No,No,Yes,Programming,5,UI/UX,In a relationship,No,Family,No,2.1,No,3.37,86.0,85000.0
+557,557,2022,Female,20,2022,BCSE,3,No,No,2,1,Online,Yes,No,3,Intermediate,60,No,No,No,Artificial Intelligence,1,Hardware,Married,No,Family,No,2.1,No,3.28,77.0,85000.0
+558,558,2021,Female,20,2020,BCSE,10,No,No,2,2,Online,Yes,Yes,2,Intermediate,100,Yes,No,Yes,Artificial Intelligence,4,Data Science,Married,No,Family,No,1.54,No,2.64,137.0,86000.0
+559,559,2019,Male,24,2019,BCSE,10,No,No,1,3,Offline,Yes,Yes,2,Basic,80,Yes,Yes,Yes,Programming,1,Software,In a relationship,Yes,Family,Yes,2.39,No,3.43,45.0,87000.0
+560,560,2020,Female,21,2020,BCSE,8,No,No,4,3,Online,Yes,Yes,2,Advance,80,No,No,No,Cyber security,3,UI/UX,Married,No,Family,No,2.51,No,3.87,103.0,87000.0
+561,561,2020,Male,21,2020,BCSE,11,Yes,No,2,2,Offline,Yes,Yes,1,Basic,79,No,No,No,Machine Learning,2,Data Science,Single,Yes,Bachelor,No,2.81,No,3.89,143.0,87000.0
+562,562,2021,Female,20,2020,BCSE,9,No,No,2,1,Offline,Yes,Yes,2,Advance,88,No,No,Yes,Programming,1,UI/UX,Single,No,Bachelor,No,2.45,No,3.54,117.0,88000.0
+563,563,2021,Male,20,2021,BCSE,8,No,No,3,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Family,Yes,2.66,No,3.72,98.0,88000.0
+564,564,2020,Female,21,2019,BCSE,9,Yes,No,6,1,Offline,No,Yes,4,Intermediate,80,No,No,Yes,Programming,1,UI/UX,In a relationship,Yes,Family,Yes,2.04,No,3.23,145.0,89000.0
+565,565,2021,Male,21,2020,BCSE,8,No,No,4,2,Online,Yes,Yes,6,Advance,100,No,Yes,No,Web development skill(Backend),2,Software,Single,Yes,Bachelor,No,2.29,No,3.56,100.0,89000.0
+566,566,2021,Male,20,2020,BCSE,8,No,No,4,2,Offline,Yes,Yes,7,Advance,88,No,No,Yes,Machine Learning,3,Software,Single,No,Family,No,2.55,No,3.77,137.0,89000.0
+567,567,2018,Male,22,2017,BCSE,11,Yes,No,4,2,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Programming,3,UI/UX,Single,Yes,Bachelor,Yes,2.9,No,3.89,135.0,90000.0
+568,568,2019,Male,25,2018,BCSE,11,No,No,3,2,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Web development skill(Backend),2,Software,In a relationship,Yes,Bachelor,No,2.34,No,3.42,143.0,90000.0
+569,569,2020,Male,21,2019,BCSE,10,No,No,4,2,Online,Yes,Yes,4,Advance,100,No,No,Yes,Cyber security,2,Data Science,Married,No,Family,No,2.08,No,3.11,138.0,90000.0
+570,570,2021,Female,20,2020,BCSE,9,No,No,3,1,Online,Yes,Yes,10,Advance,100,No,No,Yes,Networking,3,Hardware,Married,No,Family,No,2.51,No,3.5,130.0,90000.0
+571,571,2022,Female,21,2021,BCSE,5,No,No,3,1,Online,Yes,Yes,8,Intermediate,100,No,No,No,Machine Learning,3,Software,Single,No,Family,No,2.13,No,3.33,107.0,90000.0
+572,572,2019,Male,25,2018,BCSE,11,No,No,2,1,Offline,Yes,Yes,2,Intermediate,35,No,Yes,No,Cyber security,1,Data Science,Single,No,Bachelor,No,1.43,No,2.56,143.0,91000.0
+573,573,2022,Female,20,2020,BCSE,4,No,No,2,3,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Programming,1,UI/UX,Married,Yes,Family,No,1.26,No,2.33,59.0,93000.0
+574,574,2021,Female,20,2020,BCSE,9,No,No,2,3,Offline,Yes,Yes,3,Advance,56,Yes,No,Yes,Networking,4,Hardware,Single,No,Bachelor,No,1.56,No,2.6,130.0,95000.0
+575,575,2020,Male,23,2019,BCSE,10,No,No,2,3,Offline,Yes,Yes,1,Basic,100,No,No,No,Programming,4,UI/UX,Single,No,Bachelor,No,1.75,No,2.81,137.0,98000.0
+576,576,2019,Male,25,2018,BCSE,11,No,No,2,1,Offline,Yes,Yes,7,Basic,100,No,No,No,Programming,3,Software,Married,Yes,Family,No,1.76,No,2.87,144.0,100000.0
+577,577,2021,Male,21,2019,BCSE,5,No,No,6,4,Online,Yes,Yes,4,Intermediate,100,Yes,No,Yes,Cyber security,2,Data Science,Single,Yes,Bachelor,No,1.34,No,2.53,96.0,100000.0
+578,578,2020,Male,21,2019,BCSE,8,No,No,5,3,Offline,Yes,Yes,4,Advance,100,No,No,Yes,Programming,3,UI/UX,Single,No,Bachelor,No,2.91,No,3.95,119.0,100000.0
+579,579,2020,Male,22,2019,BCSE,10,No,No,2,3,Online,Yes,Yes,2,Intermediate,45,Yes,No,No,Networking,4,Hardware,In a relationship,Yes,Family,Yes,2.46,No,3.52,140.0,100000.0
+580,580,2021,Female,20,2020,BCSE,5,No,No,3,1,Offline,Yes,Yes,7,Intermediate,70,No,No,No,Cyber security,3,Software,In a relationship,No,Bachelor,No,1.67,No,2.98,75.0,100000.0
+581,581,2023,Female,20,2021,BCSE,2,Yes,No,2,4,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Programming,3,Hardware,In a relationship,Yes,Family,Yes,2.66,Yes,4.0,12.0,100000.0
+582,582,2018,Male,24,2018,BCSE,10,No,No,1,3,Online,Yes,Yes,3,Advance,65,Yes,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Family,NO,2.65,No,3.68,140.0,110000.0
+583,583,2022,Male,20,2020,BCSE,6,No,No,2,1,Offline,Yes,Yes,5,Intermediate,100,No,No,No,Networking,4,Hardware,Single,No,Family,No,2.8,No,3.91,77.0,110000.0
+584,584,2021,Female,20,2020,BCSE,8,No,No,5,3,Offline,Yes,Yes,6,Intermediate,100,No,No,No,Networking,1,Hardware,Married,Yes,Family,No,1.46,No,2.67,101.0,110000.0
+585,585,2021,Female,21,2020,BCSE,10,No,No,2,3,Offline,Yes,Yes,2,Intermediate,89,Yes,No,No,Programming,4,UI/UX,Single,No,Bachelor,No,1.67,No,2.73,134.0,110000.0
+586,586,2021,Male,21,2020,BCSE,7,No,No,3,1,Offline,Yes,Yes,2,Advance,78,No,No,No,Web development skill(Backend),2,Software,In a relationship,No,Family,No,2.56,No,3.66,88.0,115000.0
+587,587,2022,Female,19,2022,BCSE,3,No,No,1,1,Online,Yes,Yes,5,Advance,100,No,No,No,Cyber security,3,UI/UX,Single,No,Family,No,2.67,No,3.78,32.0,115000.0
+588,588,2022,Female,20,2020,BCSE,5,No,No,2,2,Offline,Yes,Yes,1,Advance,41,No,No,Yes,Machine Learning,2,Data Science,Single,Yes,Bachelor,No,2.56,No,3.61,68.0,116000.0
+589,589,2020,Male,25,2019,BCSE,10,No,No,2,3,Offline,Yes,Yes,2,Intermediate,86,Yes,No,No,Networking,2,Hardware,Single,No,Bachelor,No,2.67,No,3.75,140.0,117000.0
+590,590,2022,Male,20,2021,BCSE,6,No,No,3,3,Offline,Yes,Yes,2,Basic,100,No,No,Yes,Web development skill(Frontend),1,Software,In a relationship,No,Bachelor,No,2.46,No,3.55,89.0,120000.0
+591,591,2020,Male,24,2019,BCSE,10,No,No,1,2,Offline,Yes,Yes,3,Intermediate,83,Yes,No,Yes,Networking,2,Hardware,Married,Yes,Family,No,1.44,No,2.65,136.0,123000.0
+592,592,2020,Female,24,2019,BCSE,11,No,No,3,2,Offline,Yes,Yes,1,Basic,100,No,No,No,Web development skill(Backend),4,Software,In a relationship,Yes,Bachelor,No,2.53,No,3.62,143.0,128000.0
+593,593,2019,Female,25,2019,BCSE,11,No,No,2,2,Offline,Yes,Yes,5,Basic,100,No,No,No,Programming,3,Software,Single,Yes,Family,No,2.79,No,3.88,141.0,130000.0
+594,594,2021,Female,20,2020,BCSE,9,Yes,No,3,1,Offline,Yes,Yes,3,Intermediate,100,Yes,No,Yes,Web development skill(Backend),4,Software,Single,Yes,Family,No,2.75,No,3.82,103.0,130000.0
+595,595,2022,Male,21,2021,BCSE,6,No,No,1,3,Offline,Yes,Yes,2,Advance,100,Yes,No,No,Programming,4,UI/UX,Married,Yes,Family,Yes,1.68,No,2.73,88.0,130000.0
+596,596,2022,Female,20,2021,BCSE,5,No,No,4,1,Online,Yes,Yes,2,Intermediate,77,Yes,No,Yes,Programming,4,Software,Married,No,Family,No,1.67,No,2.77,58.0,130000.0
+597,597,2020,Male,20,2020,BCSE,10,Yes,No,2,2,Offline,Yes,Yes,3,Advance,84,No,No,Yes,Web development skill(Backend),4,Software,In a relationship,No,Bachelor,No,1.76,No,2.8,122.0,134000.0
+598,598,2021,Female,25,2019,BCSE,10,No,No,4,2,Online,Yes,Yes,4,Advance,100,No,No,Yes,Networking,2,Hardware,In a relationship,No,Bachelor,No,2.88,No,3.9,139.0,135000.0
+599,599,2021,Female,22,2020,BCSE,9,No,No,4,2,Offline,Yes,Yes,1,Advance,100,Yes,Yes,No,Cyber security,2,Data Science,Married,Yes,Family,No,1.76,No,2.82,121.0,135000.0
+600,600,2020,Male,21,2020,BCSE,8,No,No,3,2,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Family,Yes,2.54,No,3.64,97.0,135000.0
+601,601,2019,Male,25,2018,BCSE,11,No,No,3,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Networking,1,Hardware,Single,Yes,Family,No,1.54,No,2.68,143.0,144000.0
+602,602,2021,Female,21,2020,BCSE,9,No,No,2,1,Offline,Yes,Yes,2,Intermediate,35,No,No,No,Machine Learning,2,Data Science,In a relationship,Yes,Bachelor,Yes,1.46,No,2.5,119.0,144000.0
+603,603,2019,Male,22,2019,BCSE,11,Yes,No,6,3,Offline,Yes,Yes,7,Advance,100,No,No,No,Cyber security,4,Data Science,Single,No,Family,No,2.91,No,3.97,141.0,150000.0
+604,604,2021,Female,20,2020,BCSE,9,No,No,3,3,Online,Yes,Yes,3,Advance,100,No,No,No,Networking,2,Hardware,In a relationship,Yes,Bachelor,No,1.8,No,2.89,116.0,155000.0
+605,605,2021,Female,20,2020,BCSE,8,Yes,No,5,2,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Web development skill(Frontend),4,Software,In a relationship,Yes,Bachelor,No,2.78,No,3.8,89.0,158000.0
+606,606,2021,Female,21,2021,BCSE,5,Yes,No,3,2,Offline,Yes,Yes,8,Advance,67,No,No,Yes,Programming,2,Software,Single,Yes,Family,No,1.65,No,2.56,64.0,165000.0
+607,607,2020,Female,22,2019,BCSE,8,Yes,No,2,1,Offline,Yes,Yes,4,Advance,100,No,No,No,Programming,2,UI/UX,Single,Yes,Family,No,2.32,No,3.87,113.0,170000.0
+608,608,2020,Female,25,2019,BCSE,11,No,No,3,3,Online,Yes,Yes,1,Advance,35,No,No,No,Networking,2,Hardware,In a relationship,No,Bachelor,No,1.57,No,2.63,143.0,170000.0
+609,609,2021,Female,20,2020,BCSE,8,Yes,No,3,3,Offline,Yes,Yes,3,Intermediate,100,Yes,No,No,Artificial Intelligence,4,Data Science,Single,Yes,Family,No,2.85,No,3.93,100.0,190000.0
+610,610,2020,Male,21,2020,BCSE,10,No,No,3,2,Offline,Yes,Yes,1,Intermediate,68,No,No,No,Networking,4,Hardware,Married,No,Family,No,2.74,No,3.84,137.0,190000.0
+611,611,2020,Female,22,2020,BCSE,7,No,No,3,2,Offline,Yes,Yes,7,Intermediate,100,No,Yes,No,Web development skill(Backend),3,UI/UX,Single,Yes,Bachelor,No,2.13,No,3.03,107.0,235000.0
+612,612,2021,Female,20,2021,BCSE,5,Yes,No,6,2,Offline,Yes,Yes,1,Advance,100,No,No,No,Programming,4,UI/UX,Single,Yes,Family,No,2.91,No,3.91,81.0,250000.0
+613,613,2019,Female,25,2018,BCSE,11,No,No,3,3,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Cyber security,1,Data Science,Single,No,Bachelor,No,1.43,No,2.49,143.0,255000.0
+614,614,2019,Male,25,2017,BCSE,11,No,No,2,1,Offline,Yes,No,5,Basic,86,No,No,No,Networking,3,Data Science,In a relationship,No,Family,No,1.98,No,2.89,145.0,300000.0
+615,615,2020,Male,23,2019,BCSE,9,Yes,No,1,2,Offline,Yes,Yes,5,Basic,100,No,No,Yes,Web development skill(Frontend),1,Data Science,In a relationship,No,Family,No,2.91,No,3.89,103.0,10000.0
+616,616,2020,Female,22,2019,BCSE,11,Yes,No,2,1,Offline,Yes,Yes,3,Intermediate,95,No,No,Yes,Programming,1,Data Science,Single,No,Family,No,2.5,No,3.48,128.0,25000.0
+617,617,2023,Female,21,2022,BCSE,2,No,No,5,5,Offline,Yes,Yes,5,Intermediate,100,No,No,No,Programming,3,Software,Single,Yes,Family,No,2.85,No,3.65,28.0,25000.0
+618,618,2020,Female,24,2019,BCSE,9,No,No,5,1,Offline,Yes,Yes,6,Basic,90,No,No,No,Networking,2,Hardware,Single,Yes,Family,Yes,2.2,Yes,3.5,60.0,28000.0
+619,619,2020,Male,25,2019,BCSE,10,Yes,No,3,1,Online,Yes,Yes,5,Advance,99,No,No,Yes,Networking,3,Software,In a relationship,Yes,Bachelor,No,2.48,No,3.48,105.0,30000.0
+620,620,2022,Male,22,2020,BCSE,5,Yes,No,2,2,Offline,Yes,No,4,Intermediate,99,No,No,Yes,Programming,2,Hardware,Single,No,Family,No,2.56,No,3.35,54.0,30000.0
+621,621,2021,Female,20,2020,BCSE,7,No,No,4,2,Offline,Yes,Yes,7,Intermediate,100,No,No,Yes,Artificial Intelligence,1,Hardware,In a relationship,No,Family,No,2.31,No,3.45,109.0,30000.0
+622,622,2018,Male,25,2018,BCSE,11,No,No,3,1,Offline,Yes,Yes,3,Basic,100,No,Yes,Yes,Cyber security,2,Data Science,Married,No,Family,No,2.45,No,3.56,143.0,32000.0
+623,623,2022,Female,19,2021,BCSE,7,No,No,4,2,Online,Yes,Yes,5,Intermediate,90,No,No,Yes,Artificial Intelligence,2,Hardware,In a relationship,Yes,Family,Yes,2.09,No,3.34,100.0,34000.0
+624,624,2020,Female,20,2020,BCSE,11,No,No,2,2,Online,Yes,Yes,3,Intermediate,72,No,No,No,Cyber security,4,Data Science,Married,No,Family,No,2.67,No,3.77,143.0,37000.0
+625,625,2022,Male,21,2021,BCSE,6,No,No,1,2,Offline,Yes,Yes,3,Advance,42,No,No,Yes,Cyber security,3,Data Science,Single,No,Bachelor,Yes,1.89,No,2.97,97.0,37000.0
+626,626,2021,Female,20,2020,BCSE,8,No,No,2,2,Online,Yes,No,3,Basic,68,No,No,No,Web development skill(Frontend),4,Software,Married,Yes,Family,No,2.67,No,3.74,90.0,38000.0
+627,627,2022,Female,22,2021,BCSE,5,Yes,No,2,2,Offline,Yes,Yes,2,Intermediate,47,Yes,No,No,Cyber security,2,Data Science,Single,No,Bachelor,No,2.74,No,3.8,68.0,39000.0
+628,628,2018,Female,22,2017,BCSE,10,No,No,3,2,Online,Yes,Yes,8,Advance,90,Yes,No,Yes,Programming,2,UI/UX,Single,No,Family,No,1.61,No,2.88,123.0,40000.0
+629,629,2018,Female,24,2018,BCSE,11,No,No,4,2,Offline,Yes,Yes,2,Intermediate,86,Yes,Yes,No,Cyber security,4,Data Science,In a relationship,No,Bachelor,No,2.54,No,3.63,144.0,40000.0
+630,630,2020,Male,21,2020,BCSE,10,No,No,2,3,Offline,Yes,Yes,3,Intermediate,79,Yes,No,Yes,Cyber security,2,Data Science,In a relationship,No,Bachelor,No,1.46,No,2.55,139.0,40000.0
+631,631,2020,Male,20,2020,BCSE,10,Yes,No,2,2,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Networking,4,Hardware,In a relationship,No,Bachelor,No,2.65,No,3.79,138.0,40000.0
+632,632,2021,Female,21,2020,BCSE,9,No,No,3,2,Online,Yes,Yes,3,Advance,46,No,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Bachelor,No,1.88,No,2.92,124.0,42000.0
+633,633,2022,Female,21,2021,BCSE,6,Yes,No,2,1,Offline,Yes,Yes,3,Advance,78,Yes,No,Yes,Programming,1,UI/UX,Married,Yes,Family,No,2.77,No,3.8,77.0,42000.0
+634,634,2020,Male,20,2020,BCSE,5,No,No,4,2,Online,Yes,Yes,6,Intermediate,90,No,No,No,Machine Learning,2,Software,Single,No,Bachelor,No,1.98,No,2.97,66.0,45000.0
+635,635,2022,Male,22,2021,BCSE,5,No,No,2,1,Online,Yes,Yes,3,Basic,23,No,No,Yes,Networking,4,Hardware,In a relationship,No,Bachelor,No,1.81,No,2.88,72.0,45000.0
+636,636,2021,Female,20,2020,BCSE,9,No,No,2,3,Offline,Yes,Yes,3,Advance,55,No,No,Yes,Networking,1,Hardware,In a relationship,No,Bachelor,No,2.87,No,3.9,125.0,46000.0
+637,637,2022,Male,20,2021,BCSE,4,No,No,1,2,Offline,Yes,Yes,4,Intermediate,100,No,No,Yes,Networking,8,Software,Single,No,Family,No,1.76,No,2.67,27.0,46000.0
+638,638,2022,Female,21,2021,BCSE,7,No,No,3,2,Offline,Yes,Yes,2,Intermediate,32,No,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Bachelor,No,2.34,No,3.4,109.0,47000.0
+639,639,2021,Female,20,2019,BCSE,9,No,No,5,2,Offline,Yes,Yes,5,Intermediate,100,No,No,Yes,Artificial Intelligence,1,Hardware,Single,No,Bachelor,No,2.07,No,3.28,132.0,48000.0
+640,640,2020,Male,23,2019,BCSE,10,No,No,2,3,Online,Yes,Yes,2,Intermediate,89,No,No,No,Networking,4,Hardware,In a relationship,No,Family,Yes,2.45,No,3.51,132.0,48000.0
+641,641,2020,Female,23,2019,BCSE,11,Yes,No,5,3,Offline,Yes,Yes,2,Intermediate,100,No,No,No,Cyber security,4,Data Science,In a relationship,No,Family,No,2.77,No,3.85,144.0,49000.0
+642,642,2022,Female,21,2021,BCSE,6,No,No,5,3,Online,Yes,Yes,3,Basic,100,Yes,No,No,Networking,2,Hardware,Single,No,Family,No,2.63,No,3.7,75.0,49000.0
+643,643,2020,Male,23,2018,BCSE,8,Yes,No,3,3,Online,Yes,Yes,2,Advance,80,No,No,No,Cyber security,2,UI/UX,In a relationship,Yes,Family,No,2.81,No,3.79,135.0,50000.0
+644,644,2021,Female,21,2019,BCSE,6,No,No,2,1,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Programming,1,Data Science,Single,No,Family,No,2.44,No,3.44,56.0,50000.0
+645,645,2021,Male,23,2019,BCSE,7,No,No,1,1,Online,Yes,Yes,5,Advance,70,No,No,Yes,Cyber security,5,Hardware,Single,Yes,Family,No,2.5,No,3.22,66.0,50000.0
+646,646,2021,Female,21,2020,BCSE,7,No,No,5,3,Offline,Yes,Yes,6,Advance,100,No,No,Yes,Programming,1,UI/UX,In a relationship,Yes,Family,No,2.55,No,3.8,112.0,50000.0
+647,647,2022,Female,20,2021,BCSE,5,No,No,3,2,Offline,Yes,Yes,5,Basic,100,No,No,Yes,Programming,2,UI/UX,Single,No,Family,No,2.22,No,3.35,79.0,50000.0
+648,648,2021,Female,20,2020,BCSE,9,No,No,3,3,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Web development skill(Frontend),2,Software,Single,Yes,Family,No,2.56,No,3.64,108.0,53000.0
+649,649,2020,Female,23,2019,BCSE,8,No,No,3,2,Offline,Yes,Yes,7,Intermediate,100,No,No,No,Programming,2,Software,Single,No,Family,No,1.99,No,3.0,121.0,55000.0
+650,650,2020,Female,24,2019,BCSE,11,No,No,3,2,Offline,Yes,Yes,2,Intermediate,34,No,No,Yes,Networking,1,Hardware,Married,No,Family,No,1.56,No,2.62,143.0,55000.0
+651,651,2020,Female,21,2019,BCSE,11,No,No,4,3,Offline,Yes,Yes,2,Advance,79,No,No,Yes,Artificial Intelligence,2,Data Science,In a relationship,No,Bachelor,No,2.67,No,3.77,143.0,55000.0
+652,652,2020,Female,20,2020,BCSE,9,No,No,4,2,Offline,Yes,No,6,Advance,100,No,No,No,Artificial Intelligence,2,Software,Single,Yes,Family,No,2.31,No,3.44,138.0,55000.0
+653,653,2020,Male,24,2019,BCSE,11,No,No,2,2,Offline,Yes,Yes,3,Intermediate,76,Yes,No,Yes,Networking,4,Hardware,Married,Yes,Family,No,1.26,No,2.37,143.0,56000.0
+654,654,2019,Female,25,2018,BCSE,11,No,No,1,2,Online,Yes,Yes,4,Basic,66,No,No,Yes,Networking,4,Hardware,Single,Yes,Family,No,1.55,No,2.78,143.0,57000.0
+655,655,2021,Female,20,2020,BCSE,9,No,No,2,3,Offline,Yes,Yes,2,Advance,100,Yes,No,No,Programming,4,UI/UX,In a relationship,Yes,Bachelor,No,2.64,No,3.71,129.0,59000.0
+656,656,2021,Male,20,2020,BCSE,10,No,No,1,2,Offline,Yes,Yes,2,Advance,100,Yes,No,No,Programming,2,UI/UX,In a relationship,Yes,Bachelor,No,2.76,No,3.81,134.0,59000.0
+657,657,2020,Male,25,2018,BCSE,8,No,No,4,2,Offline,Yes,Yes,7,Basic,88,No,No,No,Cyber security,1,Data Science,Single,Yes,Bachelor,No,1.62,No,2.45,99.0,60000.0
+658,658,2020,Female,23,2019,BCSE,11,Yes,No,2,3,Online,Yes,Yes,4,Basic,80,No,No,No,Networking,2,Software,Single,Yes,Family,No,2.88,No,3.6,109.0,
+659,659,2021,Female,23,2019,BCSE,5,No,No,3,2,Offline,Yes,Yes,6,Intermediate,90,Yes,No,Yes,Programming,4,Software,In a relationship,Yes,Family,No,2.61,No,3.57,130.0,60000.0
+660,660,2021,Female,23,2019,BCSE,7,Yes,No,1,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Networking,2,Artificial Intelligence,Single,Yes,Family,No,2.85,No,3.79,66.0,60000.0
+661,661,2019,Male,23,2019,BCSE,12,No,No,1,2,Offline,Yes,No,10,Advance,100,No,No,No,Networking,1,Networking,Single,No,Family,No,2.19,No,3.7,111.0,60000.0
+662,662,2021,Female,22,2019,BCSE,7,No,No,5,2,Offline,Yes,Yes,4,Intermediate,60,Yes,No,Yes,Networking,2,Software,Single,Yes,Bachelor,No,1.9,No,2.81,97.0,60000.0
+663,663,2020,Female,21,2019,BCSE,8,No,No,5,2,Online,Yes,Yes,7,Advance,75,No,No,No,Networking,3,Hardware,Single,Yes,Bachelor,Yes,1.89,No,3.08,117.0,60000.0
+664,664,2021,Female,21,2019,BCSE,10,No,No,6,3,Offline,Yes,Yes,10,Advance,100,No,No,Yes,Web development skill(Backend),1,Software,In a relationship,No,Bachelor,No,2.77,No,3.81,136.0,60000.0
+665,665,2021,Male,22,2020,BCSE,6,No,No,1,1,Offline,Yes,Yes,8,Intermediate,95,No,No,No,Programming,1,Data Science,Single,Yes,Family,Yes,1.4,No,2.95,61.0,60000.0
+666,666,2021,Female,20,2020,BCSE,6,Yes,No,5,3,Offline,Yes,Yes,4,Advance,50,No,No,No,Machine Learning,1,UI/UX,Single,No,Bachelor,No,1.76,No,2.87,68.0,60000.0
+667,667,2021,Female,20,2021,BCSE,7,Yes,No,5,3,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Networking,1,Hardware,Married,No,Family,No,2.66,No,3.83,102.0,60000.0
+668,668,2021,Male,20,2020,BCSE,9,No,No,2,2,Offline,Yes,Yes,2,Intermediate,35,Yes,No,Yes,Programming,1,UI/UX,Single,No,Family,No,1.56,No,2.62,107.0,62000.0
+669,669,2022,Female,20,2021,BCSE,5,No,No,3,2,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Networking,4,Hardware,Married,No,Family,No,2.87,No,3.91,61.0,62000.0
+670,670,2019,Male,24,2019,BCSE,10,Yes,No,2,1,Offline,Yes,Yes,7,Intermediate,87,Yes,No,No,Cyber security,3,Data Science,Single,No,Bachelor,No,2.09,No,3.23,129.0,64000.0
+671,671,2021,Female,20,2020,BCSE,9,No,No,4,2,Online,Yes,Yes,2,Advance,86,No,No,Yes,Artificial Intelligence,2,Data Science,Single,Yes,Bachelor,No,1.56,No,2.66,120.0,64000.0
+672,672,2020,Female,21,2020,BCSE,10,Yes,No,7,3,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Networking,4,Hardware,Married,No,Family,Yes,2.78,No,3.89,138.0,65000.0
+673,673,2021,Male,20,2020,BCSE,9,No,No,1,1,Offline,Yes,Yes,2,Intermediate,67,No,No,Yes,Cyber security,2,Data Science,Married,Yes,Family,No,2.45,No,3.51,103.0,65000.0
+674,674,2022,Female,19,2022,BCSE,3,No,No,3,1,Offline,Yes,Yes,3,Advance,95,No,No,No,Machine Learning,1,Hardware,Single,No,Bachelor,No,2.78,No,3.89,35.0,65000.0
+675,675,2019,Male,24,2018,BCSE,11,No,No,5,2,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),2,Software,In a relationship,No,Bachelor,Yes,1.67,No,2.73,143.0,66000.0
+676,676,2020,Male,22,2019,BCSE,10,No,No,2,2,Offline,Yes,No,9,Advance,100,No,No,No,Programming,4,Software,In a relationship,Yes,Bachelor,No,1.55,No,2.68,134.0,66000.0
+677,677,2023,Female,19,2021,BCSE,2,No,No,2,2,Online,Yes,Yes,10,Advance,77,No,No,No,Machine Learning,2,Software,In a relationship,No,Family,No,1.87,No,2.88,35.0,66000.0
+678,678,2022,Male,21,2021,BCSE,5,No,No,4,2,Offline,Yes,Yes,2,Advance,85,No,No,No,Web development skill(Frontend),4,Software,In a relationship,Yes,Bachelor,No,1.56,No,2.63,65.0,66000.0
+679,679,2021,Female,23,2019,BCSE,7,No,No,2,2,Online,Yes,Yes,6,Intermediate,100,No,No,Yes,Programming,1,Hardware,In a relationship,No,Family,No,2.7,No,3.5,66.0,67000.0
+680,680,2021,Female,20,2020,BCSE,9,No,No,2,2,Offline,Yes,No,2,Intermediate,89,Yes,No,Yes,Networking,4,Hardware,Single,No,Family,No,2.76,No,3.8,113.0,67000.0
+681,681,2021,Male,22,2021,BCSE,8,No,No,2,2,Offline,Yes,Yes,3,Intermediate,68,Yes,No,No,Cyber security,4,Data Science,Single,Yes,Bachelor,No,1.45,No,2.56,88.0,67000.0
+682,682,2020,Male,20,2020,BCSE,8,No,No,5,3,Online,Yes,Yes,6,Advance,90,No,No,No,Programming,2,UI/UX,Married,Yes,Family,No,1.55,No,2.76,77.0,68000.0
+683,683,2021,Male,20,2020,BCSE,9,No,No,2,3,Offline,Yes,Yes,2,Intermediate,87,No,No,No,Networking,4,Hardware,Single,No,Bachelor,No,2.67,No,3.73,101.0,68000.0
+684,684,2021,Female,21,2020,BCSE,9,No,No,2,2,Offline,Yes,Yes,3,Advance,86,No,No,Yes,Artificial Intelligence,1,Data Science,Single,Yes,Bachelor,Yes,2.86,No,3.9,119.0,68000.0
+685,685,2020,Female,22,2018,BCSE,6,No,No,4,3,Offline,Yes,Yes,2,Intermediate,80,No,No,No,Cyber security,3,UI/UX,Single,No,Family,Yes,2.03,No,3.25,59.0,70000.0
+686,686,2019,Female,22,2018,BCSE,10,No,No,4,2,Offline,Yes,Yes,7,Advance,95,No,No,No,Networking,2,Software,In a relationship,No,Family,No,2.31,No,3.65,140.0,70000.0
+687,687,2021,Female,22,2019,BCSE,8,Yes,No,4,3,Offline,Yes,No,3,Advance,100,No,No,No,Networking,3,Hardware,Single,Yes,Bachelor,No,2.66,No,3.78,109.0,70000.0
+688,688,2022,Female,20,2021,BCSE,5,No,No,6,2,Online,Yes,Yes,3,Intermediate,100,No,No,No,Programming,2,Software,In a relationship,No,Family,No,2.11,No,3.26,87.0,70000.0
+689,689,2022,Male,19,2021,BCSE,5,No,No,3,3,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Networking,4,Hardware,Single,No,Family,No,1.67,No,2.7,77.0,70000.0
+690,690,2019,Male,23,2019,BCSE,11,Yes,No,3,2,Offline,Yes,Yes,5,Advance,97,No,No,Yes,Programming,3,UI/UX,Single,Yes,Bachelor,No,2.4,No,3.44,139.0,71000.0
+691,691,2021,Female,21,2020,BCSE,3,No,No,3,2,Online,Yes,Yes,10,Basic,30,Yes,No,No,Machine Learning,1,Hardware,Single,No,Family,No,1.55,No,2.81,34.0,73000.0
+692,692,2022,Female,20,2020,BCSE,5,Yes,No,5,2,Online,Yes,Yes,9,Intermediate,90,No,No,Yes,Cyber security,1,Data Science,Single,Yes,Bachelor,No,2.55,No,3.59,72.0,73000.0
+693,693,2021,Male,20,2021,BCSE,9,No,No,1,3,Offline,Yes,Yes,3,Intermediate,87,Yes,No,Yes,Web development skill(Frontend),4,Software,In a relationship,Yes,Family,No,2.45,No,3.56,123.0,74000.0
+694,694,2019,Male,21,2019,BCSE,11,Yes,No,6,4,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Programming,3,UI/UX,Single,No,Bachelor,No,2.77,No,3.87,139.0,75000.0
+695,695,2021,Female,20,2020,BCSE,8,No,No,3,1,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Programming,2,UI/UX,Single,Yes,Bachelor,No,2.53,No,3.6,95.0,75000.0
+696,696,2022,Female,19,2021,BCSE,6,No,No,3,1,Online,Yes,Yes,3,Intermediate,43,Yes,No,Yes,Machine Learning,2,Data Science,In a relationship,Yes,Bachelor,Yes,1.65,No,2.71,73.0,75000.0
+697,697,2021,Female,19,2020,BCSE,4,No,No,3,1,Online,Yes,Yes,9,Basic,70,No,No,No,Artificial Intelligence,3,Hardware,In a relationship,No,Bachelor,Yes,2.32,No,3.68,46.0,77000.0
+698,698,2020,Female,20,2020,BCSE,11,No,No,1,3,Offline,Yes,Yes,2,Intermediate,76,No,No,No,Programming,2,UI/UX,Married,Yes,Family,No,2.61,No,3.7,144.0,77000.0
+699,699,2020,Male,20,2020,BCSE,11,No,No,2,1,Online,Yes,Yes,3,Intermediate,54,Yes,No,No,Programming,4,UI/UX,Single,Yes,Family,No,1.55,No,2.61,143.0,77000.0
+700,700,2021,Male,19,2021,BCSE,4,No,No,4,2,Online,Yes,Yes,8,Intermediate,100,No,No,Yes,Machine Learning,2,Data Science,Single,Yes,Family,No,2.23,No,3.67,45.0,77000.0
+701,701,2018,Male,25,2017,BCSE,12,No,No,1,3,Online,Yes,Yes,3,Advance,60,Yes,No,Yes,Programming,3,Software,In a relationship,Yes,Bachelor,No,2.45,No,3.34,122.0,78000.0
+702,702,2020,Female,22,2017,BCSE,11,No,No,1,1,Online,Yes,Yes,3,Intermediate,90,No,No,No,Networking,1,Artificial Intelligence,Married,No,Family,Yes,2.11,No,3.56,132.0,78000.0
+703,703,2020,Male,24,2019,BCSE,10,No,No,3,2,Offline,Yes,Yes,5,Intermediate,77,No,No,No,Artificial Intelligence,1,Data Science,Single,No,Bachelor,No,1.59,No,2.62,132.0,78000.0
+704,704,2019,Male,25,2019,BCSE,11,No,No,5,1,Offline,Yes,Yes,3,Advance,100,Yes,No,No,Web development skill(Frontend),4,Software,In a relationship,Yes,Family,No,2.56,No,3.67,143.0,78000.0
+705,705,2021,Male,20,2020,BCSE,6,No,No,6,3,Online,Yes,No,3,Advance,100,No,No,No,Networking,1,Data Science,Single,Yes,Bachelor,No,2.76,No,3.77,97.0,78000.0
+706,706,2021,Male,21,2020,BCSE,9,No,No,2,3,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),4,Software,Single,Yes,Bachelor,No,2.76,No,3.8,124.0,78000.0
+707,707,2021,Male,20,2020,BCSE,8,No,No,3,3,Offline,Yes,No,2,Intermediate,100,No,No,No,Cyber security,4,Data Science,Single,No,Bachelor,No,2.61,No,3.7,98.0,79000.0
+708,708,2020,Female,20,2020,BCSE,11,Yes,No,1,3,Offline,Yes,Yes,3,Basic,100,No,No,No,Programming,4,UI/UX,In a relationship,No,Family,No,2.75,No,3.86,143.0,79000.0
+709,709,2020,Male,21,2019,BCSE,10,Yes,No,2,3,Offline,Yes,Yes,3,Basic,90,No,Yes,No,Programming,3,Data Science,In a relationship,Yes,Family,No,1.98,No,,125.0,80000.0
+710,710,2020,Male,20,2019,BCSE,9,Yes,No,6,4,Offline,Yes,Yes,3,Advance,100,No,No,No,Programming,3,UI/UX,Single,No,Family,No,2.77,No,3.87,125.0,80000.0
+711,711,2022,Male,21,2021,BCSE,5,No,No,2,2,Offline,Yes,Yes,5,Intermediate,78,No,No,Yes,Artificial Intelligence,2,Hardware,Single,Yes,Family,No,1.79,No,2.82,71.0,80000.0
+712,712,2020,Male,21,2020,BCSE,8,No,No,3,1,Online,Yes,Yes,7,Intermediate,71,No,No,No,Machine Learning,1,Software,In a relationship,Yes,Bachelor,Yes,2.38,No,3.49,109.0,81000.0
+713,713,2021,Male,20,2020,BCSE,9,No,No,4,2,Online,Yes,Yes,5,Intermediate,100,No,No,Yes,Web development skill(Backend),1,Software,In a relationship,No,Bachelor,No,2.08,No,3.21,113.0,83000.0
+714,714,2022,Female,21,2021,BCSE,4,No,No,5,2,Online,Yes,Yes,7,Intermediate,70,No,No,No,Programming,1,Hardware,In a relationship,No,Family,No,1.89,No,3.4,56.0,86000.0
+715,715,2021,Male,20,2019,BCSE,6,No,No,2,1,Online,Yes,Yes,5,Advance,31,Yes,Yes,Yes,Programming,1,Software,Married,Yes,Family,No,1.21,No,2.47,139.0,87000.0
+716,716,2020,Male,20,2019,BCSE,8,No,No,3,2,Offline,Yes,Yes,6,Intermediate,60,No,No,Yes,Machine Learning,2,Software,Single,Yes,Bachelor,No,1.81,No,2.86,117.0,87000.0
+717,717,2022,Male,20,2021,BCSE,8,No,No,5,3,Offline,Yes,Yes,8,Advance,100,No,No,Yes,Programming,3,UI/UX,Single,Yes,Bachelor,Yes,2.45,No,3.68,124.0,87000.0
+718,718,2018,Male,25,2018,BCSE,11,No,No,2,2,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Web development skill(Backend),2,Software,Married,Yes,Family,No,1.56,No,2.66,143.0,88000.0
+719,719,2020,Female,25,2019,BCSE,11,No,No,3,1,Offline,Yes,Yes,3,Advance,100,Yes,No,No,Web development skill(Frontend),2,Software,Single,Yes,Bachelor,No,1.6,No,2.68,143.0,88000.0
+720,720,2020,Female,20,2020,BCSE,11,No,No,3,2,Online,Yes,Yes,3,Advance,56,Yes,No,No,Programming,2,UI/UX,In a relationship,No,Bachelor,No,1.81,No,2.89,144.0,88000.0
+721,721,2020,Female,21,2020,BCSE,10,No,No,2,1,Offline,Yes,Yes,2,Basic,86,Yes,No,Yes,Artificial Intelligence,4,Data Science,Single,No,Bachelor,No,1.57,No,2.65,135.0,89000.0
+722,722,2020,Male,24,2019,BCSE,10,No,No,3,4,Offline,Yes,Yes,5,Advance,100,No,No,No,Networking,2,Hardware,Single,Yes,Bachelor,No,2.05,No,3.45,85.0,90000.0
+723,723,2021,Male,20,2020,BCSE,9,No,No,3,2,Offline,Yes,Yes,1,Advance,67,Yes,No,No,Programming,2,UI/UX,Single,No,Family,No,2.38,No,3.47,130.0,90000.0
+724,724,2021,Female,20,2020,BCSE,8,No,No,2,2,Offline,Yes,No,2,Advance,100,Yes,No,No,Programming,1,UI/UX,In a relationship,Yes,Family,No,2.67,No,3.73,93.0,90000.0
+725,725,2022,Male,22,2021,BCSE,6,No,No,3,1,Offline,Yes,Yes,2,Intermediate,100,No,No,Yes,Web development skill(Backend),2,Software,Single,No,Bachelor,No,1.56,No,2.67,71.0,90000.0
+726,726,2020,Male,24,2017,BCSE,9,No,No,3,2,Online,Yes,Yes,2,Intermediate,70,Yes,No,No,Networking,2,UI/UX,In a relationship,Yes,Family,Yes,1.89,No,3.18,113.0,95000.0
+727,727,2021,Female,20,2019,BCSE,7,No,No,4,2,Offline,Yes,Yes,6,Advance,100,No,No,No,Web development skill(Backend),1,UI/UX,Single,No,Family,No,2.76,No,3.88,109.0,95000.0
+728,728,2022,Male,20,2021,BCSE,6,Yes,No,5,3,Offline,Yes,Yes,2,Advance,76,Yes,No,No,Programming,1,UI/UX,In a relationship,Yes,Bachelor,No,2.7,No,3.87,78.0,97000.0
+729,729,2022,Male,20,2020,BCSE,5,No,No,1,1,Online,Yes,Yes,2,Intermediate,78,Yes,No,Yes,Networking,1,Hardware,In a relationship,No,Family,No,1.81,No,2.84,71.0,98000.0
+730,730,2020,Male,24,2018,BCSE,8,No,No,2,4,Offline,Yes,Yes,8,Basic,98,No,No,No,Networking,3,Hardware,Single,No,Family,Yes,2.53,No,3.36,76.0,100000.0
+731,731,2019,Female,23,2019,BCSE,5,No,No,2,1,Offline,Yes,Yes,7,Basic,90,Yes,No,Yes,Networking,2,Hardware,Single,Yes,Bachelor,No,2.54,No,3.57,84.0,100000.0
+732,732,2019,Female,22,2019,BCSE,6,No,No,4,2,Offline,Yes,Yes,4,Intermediate,80,No,No,Yes,Programming,1,Software,Single,Yes,Family,No,2.45,No,3.5,16.0,100000.0
+733,733,2020,Female,21,2020,BCSE,8,Yes,Yes,8,3,Offline,Yes,Yes,2,Advance,100,No,No,No,Networking,4,UI/UX,Single,No,Family,No,2.91,No,4.0,97.0,100000.0
+734,734,2022,Male,20,2021,BCSE,6,No,No,1,2,Offline,Yes,Yes,2,Intermediate,54,No,No,Yes,Networking,4,Hardware,Married,Yes,Family,No,2.67,No,3.77,78.0,100000.0
+735,735,2019,Female,22,2018,BCSE,11,No,No,5,3,Offline,Yes,Yes,8,Intermediate,77,No,No,Yes,Machine Learning,2,Software,Single,No,Bachelor,No,2.33,No,3.88,144.0,110000.0
+736,736,2021,Male,24,2019,BCSE,10,No,No,1,2,Online,Yes,Yes,3,Basic,100,Yes,No,No,Networking,4,Hardware,Married,Yes,Family,No,2.87,No,3.91,140.0,110000.0
+737,737,2020,Female,20,2020,BCSE,10,No,No,4,2,Online,Yes,No,9,Advance,100,No,No,No,Artificial Intelligence,4,Hardware,In a relationship,Yes,Bachelor,No,2.09,No,3.23,119.0,110000.0
+738,738,2020,Female,25,2018,BCSE,9,No,No,3,3,Online,Yes,Yes,3,Intermediate,77,Yes,No,Yes,Networking,2,Hardware,Married,Yes,Family,No,1.67,No,2.73,124.0,112000.0
+739,739,2022,Female,20,2021,BCSE,5,No,No,1,1,Online,Yes,Yes,10,Intermediate,45,Yes,No,No,Cyber security,1,Data Science,In a relationship,Yes,Family,No,1.15,No,2.39,75.0,112000.0
+740,740,2022,Female,21,2021,BCSE,5,No,No,2,2,Offline,Yes,Yes,3,Advance,100,Yes,No,Yes,Web development skill(Frontend),4,Software,Married,No,Family,No,2.56,No,3.64,68.0,113000.0
+741,741,2021,Male,20,2020,BCSE,7,No,No,3,2,Offline,Yes,No,3,Basic,100,No,No,No,Programming,3,Software,Single,No,Bachelor,No,1.99,No,2.94,88.0,120000.0
+742,742,2023,Female,19,2021,BCSE,2,Yes,No,6,4,Offline,Yes,Yes,4,Intermediate,100,No,Yes,No,Cyber security,3,Data Science,Single,Yes,Bachelor,No,2.78,No,3.8,29.0,120000.0
+743,743,2020,Male,20,2020,BCSE,11,No,No,3,3,Offline,Yes,Yes,3,Advance,100,No,No,No,Artificial Intelligence,1,Data Science,In a relationship,No,Bachelor,No,1.46,No,2.51,143.0,122000.0
+744,744,2020,Male,20,2020,BCSE,10,Yes,No,2,2,Offline,Yes,Yes,2,Intermediate,64,Yes,No,No,Networking,4,Hardware,Single,No,Bachelor,Yes,2.67,No,3.78,136.0,127000.0
+745,745,2020,Male,21,2018,BCSE,9,No,No,5,3,Online,Yes,No,7,Intermediate,100,No,No,Yes,Networking,2,Hardware,Single,No,Bachelor,No,2.32,No,3.78,123.0,130000.0
+746,746,2022,Female,21,2020,BCSE,4,No,No,4,2,Offline,Yes,Yes,7,Intermediate,79,No,No,No,Artificial Intelligence,3,Hardware,Married,Yes,Family,No,2.22,No,3.41,59.0,133000.0
+747,747,2022,Female,20,2020,BCSE,3,No,No,4,2,Offline,Yes,Yes,7,Intermediate,80,No,No,Yes,Programming,1,UI/UX,Single,No,Bachelor,No,1.88,No,2.97,29.0,140000.0
+748,748,2020,Male,25,2018,BCSE,9,No,No,3,1,Offline,Yes,Yes,2,Advance,87,Yes,No,No,Networking,4,Hardware,Single,Yes,Family,No,1.54,No,2.62,121.0,144000.0
+749,749,2021,Male,20,2020,BCSE,8,No,No,3,3,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Networking,1,Hardware,Single,Yes,Family,No,2.78,No,3.86,89.0,145000.0
+750,750,2019,Male,21,2018,BCSE,11,No,No,2,2,Offline,Yes,Yes,3,Intermediate,80,No,No,No,Programming,4,UI/UX,Single,No,Bachelor,No,2.1,No,3.41,139.0,150000.0
+751,751,2020,Male,24,2019,BCSE,11,No,No,2,3,Offline,Yes,No,2,Advance,100,Yes,No,Yes,Networking,1,Hardware,Single,No,Family,No,2.57,No,3.63,144.0,150000.0
+752,752,2022,Female,19,2021,BCSE,4,No,No,5,2,Offline,Yes,Yes,4,Intermediate,100,No,No,No,Artificial Intelligence,1,Software,In a relationship,Yes,Family,No,2.44,No,3.59,68.0,155000.0
+753,753,2019,Male,23,2019,BCSE,10,No,No,3,1,Online,Yes,Yes,2,Basic,78,Yes,Yes,No,Networking,1,Hardware,Married,No,Family,No,1.67,No,2.77,139.0,160000.0
+754,754,2021,Female,21,2020,BCSE,6,No,No,3,3,Online,Yes,Yes,5,Advance,100,No,No,No,Artificial Intelligence,1,Hardware,In a relationship,Yes,Bachelor,No,1.55,No,2.61,92.0,165000.0
+755,755,2021,Female,20,2020,BCSE,9,No,No,2,1,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Cyber security,1,Data Science,Single,Yes,Family,Yes,2.34,No,3.42,103.0,165000.0
+756,756,2021,Male,20,2020,BCSE,7,No,No,2,1,Offline,Yes,Yes,6,Basic,80,Yes,No,No,Web development skill(Backend),2,Hardware,Single,Yes,Family,No,1.54,No,2.95,90.0,169000.0
+757,757,2020,Male,21,2020,BCSE,5,No,No,4,3,Offline,Yes,Yes,5,Basic,70,No,No,Yes,Web development skill(Backend),2,Software,In a relationship,No,Family,No,2.0,No,3.03,71.0,170000.0
+758,758,2020,Female,21,2018,BCSE,9,No,No,2,1,Online,Yes,Yes,10,Intermediate,50,Yes,No,Yes,Cyber security,2,Hardware,In a relationship,No,Family,No,1.35,No,2.66,105.0,200000.0
+759,759,2020,Female,20,2019,BCSE,7,No,No,6,5,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Programming,4,Software,Single,No,Family,No,2.64,Yes,3.34,70.0,200000.0
+760,760,2020,Female,22,2019,BCSE,9,No,No,3,4,Offline,Yes,Yes,8,Intermediate,50,Yes,No,No,Cyber security,1,UI/UX,In a relationship,No,Bachelor,No,1.7,No,3.0,95.0,200000.0
+761,761,2020,Female,22,2019,BCSE,10,No,No,3,2,Online,Yes,Yes,7,Intermediate,88,No,No,No,Web development skill(Frontend),5,Networking,In a relationship,No,Family,No,2.9,No,3.93,125.0,200000.0
+762,762,2020,Female,21,2020,BCSE,10,No,No,5,2,Offline,Yes,Yes,6,Advance,80,No,No,Yes,Programming,3,UI/UX,Single,No,Bachelor,No,1.9,No,3.1,99.0,200000.0
+763,763,2020,Male,22,2019,BCSE,10,No,No,3,2,Offline,Yes,Yes,9,Intermediate,75,No,No,No,Cyber security,2,Hardware,Single,No,Bachelor,No,2.01,No,3.08,126.0,250000.0
+764,764,2021,Female,20,2021,BCSE,7,Yes,No,5,4,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Programming,4,UI/UX,Single,No,Family,No,2.33,No,3.89,104.0,277000.0
+765,765,2020,Male,20,2020,BCSE,7,Yes,Yes,6,2,Online,Yes,Yes,4,Advance,70,No,No,No,Programming,3,Software,Single,No,Family,No,1.6,No,2.9,30.0,20000.0
+766,766,2020,Male,23,2019,BCSE,11,Yes,Yes,4,6,Online,Yes,Yes,3,Intermediate,96,No,No,No,Networking,3,Data Science,Single,No,Family,No,2.67,No,3.4,140.0,30000.0
+767,767,2022,Male,21,2021,BCSE,5,No,Yes,2,1,Online,Yes,Yes,1,Intermediate,95,No,No,Yes,Web development skill(Backend),4,Software,Single,Yes,Bachelor,No,1.05,No,2.8,18.0,
+768,768,2022,Female,21,2021,BCSE,6,No,Yes,2,2,Offline,Yes,No,3,Advance,100,Yes,No,Yes,Programming,2,UI/UX,In a relationship,Yes,Bachelor,No,1.47,No,2.54,88.0,32000.0
+769,769,2022,Male,23,2020,BCSE,5,No,Yes,7,5,Offline,Yes,Yes,1,Basic,100,Yes,No,Yes,Programming,3,Software,Single,Yes,Bachelor,No,1.58,Yes,1.42,14.0,35000.0
+770,770,2021,Male,23,2020,BCSE,5,No,Yes,6,5,Offline,Yes,Yes,4,Basic,90,No,No,No,Web development skill(Backend),5,Software,Single,Yes,Bachelor,No,2.45,No,2.39,40.0,35000.0
+771,771,2021,Male,19,2021,BCSE,8,No,Yes,3,3,Online,Yes,Yes,2,Advance,89,No,No,No,Cyber security,4,Data Science,Single,No,Family,No,1.87,No,2.8,136.0,35000.0
+772,772,2020,Male,21,2019,BCSE,9,No,Yes,3,2,Online,Yes,Yes,8,Intermediate,70,No,No,No,Programming,1,Software,Single,No,Family,No,2.33,No,3.47,128.0,37000.0
+773,773,2020,Male,24,2019,BCSE,11,No,Yes,1,3,Offline,Yes,Yes,2,Advance,100,Yes,No,No,Cyber security,2,Data Science,In a relationship,No,Bachelor,No,2.9,No,3.92,144.0,37000.0
+774,774,2021,Female,19,2021,BCSE,6,No,Yes,3,1,Offline,Yes,Yes,5,Advance,60,Yes,No,No,Cyber security,3,Data Science,Single,No,Bachelor,No,1.78,No,2.63,97.0,37000.0
+775,775,2020,Female,21,2019,BCSE,11,No,Yes,4,2,Offline,Yes,Yes,7,Advance,100,No,No,No,Cyber security,2,Software,Single,No,Family,No,2.77,No,3.91,139.0,38000.0
+776,776,2021,Female,22,2021,BCSE,7,No,Yes,4,2,Offline,Yes,Yes,5,Advance,100,No,No,No,Cyber security,2,Hardware,In a relationship,No,Family,No,1.98,No,3.03,111.0,39000.0
+777,777,2020,Male,23,2018,BCSE,11,No,Yes,5,2,Online,Yes,Yes,11,Basic,35,No,No,Yes,Programming,2,Software,In a relationship,Yes,Bachelor,No,1.43,No,2.65,107.0,40000.0
+778,778,2021,Male,20,2020,BCSE,9,Yes,Yes,5,4,Offline,Yes,Yes,3,Advance,100,No,No,No,Cyber security,3,Software,Single,No,Family,No,2.77,No,3.96,129.0,42000.0
+779,779,2020,Female,20,2020,BCSE,11,Yes,Yes,2,2,Online,Yes,Yes,3,Advance,43,Yes,No,No,Networking,4,Hardware,Married,No,Family,No,2.81,No,3.9,144.0,43000.0
+780,780,2020,Female,21,2019,BCSE,11,No,Yes,3,1,Online,Yes,Yes,3,Intermediate,70,No,No,No,Programming,2,Software,In a relationship,No,Bachelor,Yes,2.1,No,3.2,137.0,45000.0
+781,781,2020,Female,25,2019,BCSE,11,No,Yes,2,2,Offline,Yes,Yes,2,Intermediate,67,Yes,No,No,Machine Learning,4,Data Science,In a relationship,Yes,Bachelor,No,1.87,No,2.92,144.0,45000.0
+782,782,2022,Female,22,2020,BCSE,5,Yes,Yes,1,2,Offline,Yes,Yes,7,Intermediate,100,No,No,Yes,Programming,1,Software,Single,Yes,Family,Yes,2.58,No,3.74,39.0,45000.0
+783,783,2021,Female,22,2021,BCSE,6,No,Yes,3,1,Offline,Yes,Yes,7,Intermediate,80,Yes,No,Yes,Cyber security,2,Hardware,In a relationship,No,Bachelor,No,1.77,No,2.82,109.0,45000.0
+784,784,2018,Male,24,2018,BCSE,11,No,Yes,3,1,Offline,Yes,Yes,7,Intermediate,88,Yes,No,Yes,Artificial Intelligence,3,Hardware,Single,No,Family,No,2.16,No,3.33,143.0,46000.0
+785,785,2020,Female,23,2018,BCSE,11,Yes,Yes,1,1,Offline,Yes,No,2,Advance,100,No,No,No,Programming,3,Hardware,Single,Yes,Family,Yes,2.53,No,3.81,132.0,50000.0
+786,786,2022,Male,23,2020,BCSE,8,No,Yes,3,4,Offline,Yes,Yes,3,Advance,98,No,No,Yes,Web development skill(Frontend),2,Software,In a relationship,No,Family,No,2.75,No,3.64,18.0,50000.0
+787,787,2020,Female,20,2020,BCSE,9,No,Yes,3,2,Online,Yes,Yes,7,Advance,70,No,No,Yes,Web development skill(Backend),1,UI/UX,Single,Yes,Family,No,2.01,No,3.15,131.0,50000.0
+788,788,2021,Female,20,2020,BCSE,9,Yes,Yes,6,3,Online,Yes,Yes,3,Intermediate,76,No,No,Yes,Artificial Intelligence,3,Hardware,Single,Yes,Family,No,2.77,No,3.8,129.0,50000.0
+789,789,2019,Female,22,2018,BCSE,11,No,Yes,3,2,Online,Yes,Yes,11,Intermediate,80,No,No,No,Web development skill(Backend),2,UI/UX,Single,No,Bachelor,No,2.04,No,3.16,143.0,51000.0
+790,790,2021,Male,20,2020,BCSE,7,Yes,Yes,5,3,Online,Yes,Yes,4,Intermediate,55,No,No,Yes,Cyber security,2,Data Science,Single,No,Family,No,2.01,No,3.13,101.0,51000.0
+791,791,2021,Female,20,2020,BCSE,8,No,Yes,3,2,Online,Yes,Yes,3,Basic,24,No,No,Yes,Programming,4,UI/UX,In a relationship,Yes,Bachelor,No,1.87,No,2.93,117.0,52000.0
+792,792,2020,Male,24,2019,BCSE,10,Yes,Yes,6,2,Offline,Yes,Yes,3,Advance,100,No,No,No,Cyber security,1,Data Science,Married,Yes,Family,No,2.02,No,3.11,134.0,53000.0
+793,793,2021,Male,21,2021,BCSE,9,No,Yes,4,2,Offline,Yes,Yes,6,Intermediate,70,No,No,Yes,Programming,2,UI/UX,In a relationship,Yes,Bachelor,No,1.98,No,2.97,105.0,53000.0
+794,794,2020,Male,21,2019,BCSE,9,No,Yes,3,2,Online,Yes,Yes,5,Advance,100,No,No,No,Cyber security,1,Software,Single,Yes,Family,No,2.56,No,3.79,132.0,55000.0
+795,795,2019,Male,23,2019,BCSE,11,No,Yes,3,1,Online,Yes,Yes,2,Intermediate,100,Yes,No,No,Networking,1,Hardware,Married,Yes,Family,No,1.54,No,2.66,143.0,55000.0
+796,796,2020,Male,23,2019,BCSE,11,No,Yes,3,3,Offline,Yes,Yes,1,Intermediate,100,No,No,No,Programming,1,Software,Single,Yes,Bachelor,No,1.56,No,2.65,143.0,55000.0
+797,797,2022,Female,20,2020,BCSE,6,No,Yes,3,2,Offline,Yes,Yes,3,Basic,30,No,No,Yes,Networking,1,Hardware,In a relationship,Yes,Family,No,1.88,No,2.98,77.0,55000.0
+798,798,2020,Male,22,2020,BCSE,10,No,Yes,1,2,Offline,Yes,No,2,Intermediate,100,No,No,No,Web development skill(Backend),2,Data Science,Single,No,Bachelor,Yes,2.76,No,3.8,136.0,55000.0
+799,799,2022,Female,20,2021,BCSE,4,No,Yes,3,2,Offline,Yes,Yes,2,Intermediate,85,No,No,Yes,Programming,2,Data Science,Single,Yes,Bachelor,No,1.56,No,2.97,67.0,55000.0
+800,800,2019,Female,21,2018,BCSE,10,No,Yes,1,1,Online,Yes,Yes,9,Intermediate,57,Yes,No,No,Cyber security,1,Hardware,In a relationship,Yes,Bachelor,Yes,1.24,No,2.35,137.0,56000.0
+801,801,2020,Female,21,2019,BCSE,10,No,Yes,5,2,Online,Yes,Yes,4,Advance,90,No,No,Yes,Machine Learning,2,Software,Single,Yes,Family,No,1.95,No,2.92,139.0,58000.0
+802,802,2021,Female,21,2021,BCSE,9,No,Yes,1,1,Offline,Yes,Yes,2,Advance,50,Yes,No,No,Cyber security,2,Data Science,Married,Yes,Family,Yes,1.65,No,2.7,139.0,59000.0
+803,803,2018,Female,24,2016,BCSE,8,No,Yes,3,2,Online,Yes,Yes,8,Intermediate,89,Yes,No,No,Networking,1,Data Science,Married,No,Family,No,1.11,No,2.35,95.0,60000.0
+804,804,2020,Female,24,2018,BCSE,9,No,Yes,1,2,Offline,Yes,Yes,8,Intermediate,70,No,No,No,Networking,2,Hardware,Single,No,Bachelor,No,1.71,No,2.82,118.0,60000.0
+805,805,2020,Male,23,2019,BCSE,11,Yes,Yes,4,2,Online,Yes,Yes,5,Intermediate,95,Yes,No,Yes,Networking,5,Data Science,In a relationship,Yes,Bachelor,No,1.33,No,2.99,104.0,60000.0
+806,806,2021,Female,20,2020,BCSE,9,No,Yes,2,1,Offline,Yes,No,3,Intermediate,100,Yes,No,Yes,Artificial Intelligence,2,Data Science,In a relationship,Yes,Bachelor,No,2.56,No,3.63,106.0,60000.0
+807,807,2022,Male,22,2022,BCSE,3,Yes,Yes,4,2,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Web development skill(Frontend),2,UI/UX,Single,No,Bachelor,No,2.81,No,3.97,51.0,60000.0
+808,808,2021,Female,19,2021,BCSE,6,No,Yes,7,3,Offline,Yes,Yes,3,Intermediate,89,No,No,No,Programming,1,UI/UX,In a relationship,No,Family,No,1.88,No,2.9,132.0,64000.0
+809,809,2022,Male,23,2020,BCSE,5,Yes,Yes,2,3,Online,Yes,Yes,3,Basic,90,No,No,No,Networking,3,Hardware,Single,Yes,Family,No,2.33,No,3.68,43.0,65000.0
+810,810,2019,Male,24,2018,BCSE,11,No,Yes,3,2,Online,Yes,Yes,5,Intermediate,100,No,No,Yes,Web development skill(Frontend),2,Software,Single,No,Bachelor,Yes,2.22,No,3.45,132.0,66000.0
+811,811,2021,Male,20,2020,BCSE,9,No,Yes,2,1,Offline,Yes,Yes,3,Advance,45,No,No,No,Networking,2,Hardware,Single,No,Bachelor,No,1.45,No,2.53,117.0,66000.0
+812,812,2022,Female,20,2021,BCSE,5,No,Yes,4,2,Online,Yes,Yes,3,Intermediate,100,No,No,No,Programming,1,Software,Single,Yes,Bachelor,Yes,1.76,No,2.82,62.0,66000.0
+813,813,2022,Female,20,2021,BCSE,5,Yes,Yes,5,3,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Backend),2,Software,Single,Yes,Family,Yes,2.66,No,3.79,58.0,67000.0
+814,814,2020,Female,25,2019,BCSE,11,No,Yes,2,2,Offline,Yes,Yes,2,Intermediate,43,Yes,No,Yes,Networking,2,Hardware,In a relationship,Yes,Bachelor,No,2.55,No,3.6,143.0,68000.0
+815,815,2020,Female,21,2020,BCSE,11,No,Yes,4,2,Offline,Yes,Yes,3,Intermediate,87,No,No,Yes,Networking,4,Hardware,Married,No,Family,No,2.71,No,3.78,143.0,68000.0
+816,816,2022,Female,20,2021,BCSE,5,No,Yes,3,1,Offline,Yes,Yes,8,Intermediate,88,No,No,No,Web development skill(Frontend),3,UI/UX,In a relationship,No,Bachelor,Yes,2.22,No,3.19,87.0,68000.0
+817,817,2021,Male,21,2021,BCSE,4,No,Yes,1,1,Online,Yes,Yes,7,Intermediate,80,Yes,Yes,No,Machine Learning,1,Software,In a relationship,Yes,Bachelor,No,1.95,No,2.88,43.0,68000.0
+818,818,2021,Female,22,2018,BCSE,6,Yes,Yes,2,2,Online,Yes,Yes,1,Intermediate,100,No,No,Yes,Web development skill(Frontend),1,Data Science,Single,No,Family,No,2.77,No,3.56,56.0,70000.0
+819,819,2019,Male,21,2018,BCSE,8,Yes,Yes,7,2,Offline,Yes,Yes,2,Advance,100,No,No,No,Machine Learning,2,Hardware,Single,Yes,Bachelor,No,2.75,No,3.93,125.0,70000.0
+820,820,2021,Female,21,2020,BCSE,6,Yes,Yes,6,5,Offline,Yes,Yes,6,Intermediate,100,No,No,Yes,Networking,6,Software,Single,No,Bachelor,No,2.61,No,3.78,35.0,70000.0
+821,821,2020,Female,22,2020,BCSE,7,No,Yes,6,2,Online,Yes,Yes,4,Advance,30,Yes,No,Yes,Cyber security,1,UI/UX,In a relationship,No,Family,No,1.35,No,2.65,105.0,70000.0
+822,822,2020,Male,20,2020,BCSE,10,No,Yes,1,3,Offline,Yes,Yes,2,Advance,87,Yes,No,No,Networking,1,Hardware,In a relationship,No,Bachelor,No,2.44,No,3.56,135.0,70000.0
+823,823,2022,Female,20,2021,BCSE,6,No,Yes,4,3,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Web development skill(Frontend),1,Software,In a relationship,Yes,Bachelor,Yes,1.56,No,2.64,78.0,70000.0
+824,824,2022,Female,20,2021,BCSE,5,No,Yes,3,3,Offline,Yes,Yes,2,Advance,100,No,No,Yes,Networking,1,Hardware,In a relationship,No,Bachelor,No,1.76,No,2.84,58.0,70000.0
+825,825,2022,Female,20,2020,BCSE,4,No,Yes,5,3,Offline,Yes,Yes,6,Intermediate,70,No,No,Yes,Web development skill(Frontend),2,Software,In a relationship,Yes,Family,No,1.9,No,3.13,89.0,71000.0
+826,826,2021,Male,21,2020,BCSE,6,No,Yes,4,2,Offline,Yes,Yes,6,Intermediate,100,No,No,Yes,Programming,3,UI/UX,Single,No,Family,No,1.99,No,3.05,79.0,71000.0
+827,827,2022,Female,21,2021,BCSE,7,No,Yes,1,2,Offline,Yes,Yes,2,Intermediate,56,Yes,No,No,Artificial Intelligence,2,Data Science,In a relationship,No,Family,No,2.43,No,3.55,107.0,71000.0
+828,828,2020,Female,20,2020,BCSE,11,Yes,Yes,4,1,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Networking,1,Hardware,Married,No,Family,No,2.78,No,3.83,143.0,74000.0
+829,829,2020,Male,22,2019,BCSE,9,Yes,Yes,3,4,Offline,Yes,Yes,6,Advance,100,No,No,No,Programming,3,UI/UX,Single,No,Bachelor,Yes,1.81,No,2.95,137.0,75000.0
+830,830,2020,Male,20,2020,BCSE,11,Yes,Yes,7,4,Offline,Yes,Yes,2,Advance,100,No,No,No,Cyber security,3,Data Science,Single,Yes,Family,No,2.91,No,3.97,139.0,75000.0
+831,831,2023,Male,19,2022,BCSE,2,No,Yes,3,1,Online,Yes,Yes,5,Basic,100,No,No,No,Cyber security,1,UI/UX,Single,No,Bachelor,No,2.65,No,3.57,27.0,75000.0
+832,832,2019,Male,24,2018,BCSE,11,No,Yes,4,2,Online,Yes,Yes,6,Intermediate,77,No,No,Yes,Cyber security,2,Data Science,Single,No,Family,Yes,2.23,No,3.65,145.0,76000.0
+833,833,2020,Female,21,2019,BCSE,7,No,Yes,3,1,Online,Yes,Yes,6,Basic,86,No,No,No,Web development skill(Backend),3,Software,Single,No,Family,Yes,2.13,No,3.28,98.0,77000.0
+834,834,2019,Male,23,2019,BCSE,11,Yes,Yes,5,3,Offline,Yes,Yes,5,Intermediate,100,No,No,Yes,Machine Learning,2,Software,Single,Yes,Family,No,2.66,No,3.85,145.0,77000.0
+835,835,2020,Female,20,2020,BCSE,11,No,Yes,3,3,Online,Yes,No,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),4,Software,Single,Yes,Family,No,2.87,No,3.9,143.0,77000.0
+836,836,2022,Female,20,2021,BCSE,7,No,Yes,2,2,Online,Yes,Yes,3,Intermediate,67,No,No,Yes,Networking,3,Hardware,In a relationship,Yes,Bachelor,Yes,2.65,No,3.75,95.0,77000.0
+837,837,2021,Female,22,2021,BCSE,10,No,Yes,2,3,Online,Yes,No,1,Intermediate,100,No,No,No,Web development skill(Backend),2,Software,In a relationship,Yes,Family,No,1.38,No,2.51,134.0,77000.0
+838,838,2019,Male,25,2018,BCSE,11,Yes,Yes,5,3,Online,Yes,No,12,Intermediate,100,No,No,Yes,Machine Learning,2,UI/UX,Married,No,Family,No,2.19,No,3.45,103.0,78000.0
+839,839,2020,Female,20,2019,BCSE,8,No,Yes,3,1,Offline,Yes,No,6,Intermediate,80,No,No,No,Web development skill(Backend),3,Data Science,Single,No,Family,No,2.11,No,3.46,101.0,78000.0
+840,840,2020,Female,25,2019,BCSE,11,No,Yes,1,2,Offline,Yes,Yes,2,Basic,67,Yes,No,No,Machine Learning,4,Data Science,Married,Yes,Family,No,1.78,No,2.8,143.0,78000.0
+841,841,2021,Female,19,2021,BCSE,7,No,Yes,3,2,Offline,Yes,Yes,5,Intermediate,100,No,No,No,Artificial Intelligence,2,Hardware,Single,No,Bachelor,No,2.45,No,3.76,100.0,78000.0
+842,842,2021,Male,20,2020,BCSE,10,No,Yes,2,3,Offline,Yes,Yes,2,Intermediate,100,Yes,No,No,Networking,4,Hardware,Single,Yes,Family,No,2.67,No,3.7,132.0,79000.0
+843,843,2021,Male,21,2021,BCSE,9,Yes,Yes,3,3,Online,Yes,Yes,2,Basic,100,Yes,No,Yes,Programming,2,Data Science,In a relationship,Yes,Family,No,2.61,No,3.77,123.0,79000.0
+844,844,2020,Female,25,2018,BCSE,12,Yes,Yes,6,4,Online,Yes,Yes,6,Intermediate,80,No,No,Yes,Web development skill(Frontend),3,Software,Married,No,Family,No,1.61,No,2.81,133.0,80000.0
+845,845,2020,Male,23,2019,BCSE,9,No,Yes,1,1,Offline,Yes,Yes,5,Basic,100,No,No,Yes,Networking,1,Hardware,Married,No,Bachelor,No,2.89,No,3.89,102.0,80000.0
+846,846,2021,Female,20,2020,BCSE,9,No,Yes,2,2,Offline,Yes,Yes,3,Basic,100,Yes,No,No,Cyber security,4,Data Science,Married,Yes,Family,No,1.68,No,2.71,101.0,80000.0
+847,847,2020,Male,20,2020,BCSE,11,No,Yes,1,1,Offline,Yes,Yes,3,Advance,100,No,No,Yes,Cyber security,2,Data Science,In a relationship,Yes,Bachelor,No,1.63,No,2.7,143.0,80000.0
+848,848,2021,Male,20,2021,BCSE,7,No,Yes,2,1,Offline,Yes,Yes,2,Advance,95,No,No,Yes,Machine Learning,3,Software,In a relationship,No,Family,No,1.56,No,2.64,97.0,80000.0
+849,849,2020,Male,20,2020,BCSE,11,No,Yes,4,1,Offline,Yes,Yes,2,Intermediate,100,Yes,No,Yes,Artificial Intelligence,4,Data Science,In a relationship,Yes,Bachelor,No,2.75,No,3.8,143.0,81000.0
+850,850,2020,Male,22,2018,BCSE,7,Yes,Yes,6,3,Offline,Yes,No,3,Advance,100,No,No,No,Web development skill(Backend),3,Software,Single,No,Family,No,2.56,No,3.95,115.0,85000.0
+851,851,2020,Female,22,2020,BCSE,11,No,Yes,2,3,Offline,Yes,Yes,1,Intermediate,100,Yes,No,No,Web development skill(Backend),4,Software,Married,No,Family,No,2.56,No,3.66,143.0,86000.0
+852,852,2019,Male,24,2018,BCSE,11,No,Yes,5,2,Offline,Yes,Yes,3,Intermediate,89,Yes,No,No,Networking,4,Hardware,Single,Yes,Bachelor,No,1.76,No,2.89,143.0,87000.0
+853,853,2020,Male,23,2019,BCSE,10,No,Yes,2,2,Offline,Yes,Yes,3,Intermediate,79,Yes,No,No,Networking,1,Hardware,Single,Yes,Bachelor,No,2.87,No,3.91,139.0,88000.0
+854,854,2022,Male,20,2021,BCSE,7,No,Yes,3,1,Offline,Yes,Yes,2,Basic,50,No,No,No,Artificial Intelligence,4,Data Science,In a relationship,Yes,Bachelor,No,1.56,No,2.63,88.0,88000.0
+855,855,2019,Male,21,2018,BCSE,11,Yes,Yes,2,1,Offline,Yes,Yes,4,Intermediate,100,No,No,Yes,Machine Learning,2,Data Science,In a relationship,Yes,Bachelor,Yes,2.57,No,3.88,145.0,89000.0
+856,856,2021,Female,20,2020,BCSE,10,No,Yes,3,3,Offline,Yes,Yes,1,Intermediate,100,No,No,No,Machine Learning,2,Data Science,Single,No,Bachelor,No,2.55,No,3.6,135.0,89000.0
+857,857,2022,Female,19,2021,BCSE,4,Yes,Yes,5,2,Offline,Yes,Yes,4,Advance,100,No,No,Yes,Machine Learning,2,Hardware,Single,Yes,Family,No,2.56,No,3.89,29.0,89000.0
+858,858,2019,Male,24,2019,BCSE,11,Yes,Yes,6,3,Online,Yes,No,2,Advance,100,No,No,Yes,Artificial Intelligence,1,Hardware,Single,Yes,Family,No,2.87,No,3.94,143.0,90000.0
+859,859,2019,Female,24,2019,BCSE,11,No,No,1,2,Offline,Yes,No,5,Advance,100,No,No,Yes,Networking,2,Hardware,Single,Yes,Bachelor,No,2.48,No,3.78,144.0,90000.0
+860,860,2021,Male,24,2019,BCSE,6,No,Yes,1,1,Offline,Yes,Yes,10,Advance,90,No,No,No,Networking,1,Hardware,Single,No,Bachelor,No,1.35,No,2.65,98.0,90000.0
+861,861,2020,Male,22,2020,BCSE,7,No,Yes,5,2,Online,Yes,Yes,8,Advance,100,No,No,No,Web development skill(Frontend),2,UI/UX,Single,No,Family,No,1.56,No,2.98,99.0,90000.0
+862,862,2022,Male,20,2021,BCSE,5,No,Yes,2,2,Offline,Yes,No,3,Advance,100,No,No,Yes,Web development skill(Backend),2,Software,In a relationship,No,Family,Yes,1.86,No,2.91,60.0,93000.0
+863,863,2023,Female,19,2021,BCSE,2,No,Yes,4,3,Offline,Yes,Yes,3,Intermediate,100,No,No,No,Artificial Intelligence,2,Software,Single,No,Bachelor,No,2.77,No,3.83,30.0,95000.0
+864,864,2022,Female,21,2021,BCSE,6,No,Yes,1,2,Offline,Yes,Yes,3,Intermediate,53,Yes,No,No,Networking,1,Hardware,In a relationship,No,Bachelor,No,2.81,No,3.9,83.0,95000.0
+865,865,2021,Female,21,2020,BCSE,9,Yes,Yes,2,1,Offline,Yes,Yes,3,Advance,100,Yes,No,No,Artificial Intelligence,2,Data Science,Single,Yes,Family,No,2.75,No,3.81,120.0,96000.0
+866,866,2019,Male,25,2018,BCSE,11,No,Yes,5,1,Offline,Yes,Yes,3,Advance,67,No,No,Yes,Web development skill(Frontend),4,Software,Single,Yes,Bachelor,No,1.56,No,2.63,143.0,97000.0
+867,867,2020,Male,23,2019,BCSE,10,Yes,Yes,2,1,Offline,Yes,Yes,6,Intermediate,100,No,No,No,Networking,1,Hardware,Single,No,Family,No,2.91,No,3.98,91.0,97000.0
+868,868,2022,Male,21,2021,BCSE,5,No,Yes,2,2,Offline,Yes,No,2,Advance,54,No,No,No,Networking,2,Hardware,Married,No,Family,No,1.54,No,2.63,68.0,97000.0
+869,869,2022,Female,22,2019,BCSE,4,Yes,No,8,1,Online,Yes,Yes,10,Advance,70,Yes,No,Yes,Web development skill(Backend),1,UI/UX,In a relationship,Yes,Family,No,2.9,No,3.88,60.0,100000.0
+870,870,2020,Male,21,2019,BCSE,9,No,Yes,3,1,Offline,Yes,Yes,3,Basic,56,Yes,No,No,Cyber security,4,Data Science,In a relationship,Yes,Family,Yes,2.67,No,3.75,116.0,100000.0
+871,871,2021,Male,20,2021,BCSE,8,No,Yes,4,2,Online,Yes,No,5,Intermediate,100,No,No,No,Cyber security,1,Data Science,Single,No,Family,No,2.33,No,3.45,102.0,100000.0
+872,872,2020,Female,24,2018,BCSE,9,No,Yes,3,3,Offline,Yes,Yes,3,Intermediate,68,No,No,No,Networking,4,Hardware,In a relationship,Yes,Bachelor,No,2.76,No,3.56,123.0,110000.0
+873,873,2021,Male,21,2020,BCSE,6,No,Yes,5,2,Online,Yes,Yes,9,Intermediate,60,Yes,No,No,Web development skill(Frontend),2,Machine Learning / Deep Learning,In a relationship,No,Bachelor,No,1.23,No,2.76,89.0,110000.0
+874,874,2020,Female,22,2020,BCSE,10,No,Yes,2,3,Online,Yes,Yes,3,Intermediate,55,Yes,No,No,Programming,4,UI/UX,Married,No,Family,No,2.35,No,3.48,135.0,116000.0
+875,875,2019,Female,25,2018,BCSE,11,Yes,Yes,6,3,Offline,Yes,Yes,3,Intermediate,90,No,No,Yes,Artificial Intelligence,2,Hardware,Single,No,Family,No,2.07,No,3.12,144.0,119000.0
+876,876,2020,Male,20,2020,BCSE,11,No,Yes,4,1,Online,Yes,Yes,2,Advance,100,Yes,No,No,Cyber security,1,Data Science,Single,Yes,Bachelor,No,2.56,No,3.6,143.0,120000.0
+877,877,2022,Female,21,2021,BCSE,6,No,Yes,3,1,Offline,Yes,Yes,2,Basic,63,No,No,Yes,Networking,2,Hardware,Single,No,Family,No,1.77,No,2.8,78.0,120000.0
+878,878,2022,Female,20,2021,BCSE,6,No,Yes,3,2,Offline,Yes,Yes,3,Basic,66,Yes,Yes,No,Networking,4,Hardware,In a relationship,No,Bachelor,No,2.67,No,3.77,78.0,120000.0
+879,879,2019,Female,22,2019,BCSE,11,No,Yes,2,1,Offline,Yes,Yes,3,Basic,100,No,No,Yes,Web development skill(Backend),4,Software,Single,Yes,Bachelor,No,1.86,No,2.93,143.0,121000.0
+880,880,2022,Male,20,2020,BCSE,5,No,Yes,1,2,Offline,Yes,Yes,3,Intermediate,100,Yes,No,Yes,Web development skill(Frontend),4,Software,Single,Yes,Bachelor,No,1.87,No,2.94,68.0,121000.0
+881,881,2021,Male,20,2019,BCSE,7,No,Yes,2,1,Online,Yes,Yes,9,Intermediate,80,Yes,No,Yes,Programming,2,Software,Single,No,Family,Yes,1.22,No,2.78,107.0,130000.0
+882,882,2022,Female,21,2021,BCSE,6,No,Yes,3,3,Offline,Yes,Yes,2,Intermediate,100,Yes,No,Yes,Artificial Intelligence,4,Data Science,In a relationship,Yes,Bachelor,No,1.4,No,2.54,77.0,130000.0
+883,883,2022,Female,20,2021,BCSE,5,No,Yes,3,3,Online,Yes,Yes,1,Intermediate,100,No,No,Yes,Cyber security,2,Data Science,Single,Yes,Family,No,1.78,No,2.83,59.0,135000.0
+884,884,2022,Male,20,2021,BCSE,5,No,Yes,4,3,Offline,Yes,Yes,3,Intermediate,78,No,No,Yes,Web development skill(Frontend),4,Software,Married,No,Family,No,1.77,No,2.85,63.0,136000.0
+885,885,2019,Male,22,2018,BCSE,11,No,Yes,5,3,Offline,Yes,No,5,Advance,100,No,No,No,Programming,1,UI/UX,Single,No,Family,Yes,2.55,No,3.66,143.0,137000.0
+886,886,2019,Female,25,2018,BCSE,11,Yes,Yes,5,3,Offline,Yes,Yes,3,Intermediate,35,Yes,No,Yes,Networking,2,Hardware,In a relationship,Yes,Bachelor,No,2.81,No,3.9,143.0,144000.0
+887,887,2021,Female,20,2020,BCSE,9,No,Yes,2,2,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),2,Data Science,In a relationship,Yes,Family,No,2.34,No,3.44,113.0,167000.0
+888,888,2020,Male,20,2020,BCSE,11,No,Yes,2,1,Offline,Yes,Yes,3,Advance,87,Yes,No,No,Cyber security,4,Data Science,Single,Yes,Family,No,2.35,No,3.43,143.0,170000.0
+889,889,2021,Female,20,2020,BCSE,8,No,Yes,1,2,Online,Yes,Yes,2,Basic,46,Yes,No,No,Cyber security,2,Data Science,In a relationship,Yes,Bachelor,No,2.65,No,3.77,100.0,180000.0
+890,890,2022,Male,23,2020,BCSE,8,Yes,Yes,4,4,Offline,Yes,Yes,4,Basic,100,Yes,No,Yes,Programming,2,Software,Single,Yes,Bachelor,No,2.5,No,2.22,18.0,200000.0
+891,891,2021,Male,22,2020,BCSE,9,No,Yes,3,3,Offline,Yes,No,2,Basic,100,Yes,No,No,Networking,2,Hardware,Married,Yes,Family,No,1.56,No,2.78,121.0,200000.0
+892,892,2019,Female,25,2018,BCSE,11,No,Yes,5,3,Offline,Yes,Yes,3,Intermediate,100,No,No,Yes,Web development skill(Frontend),4,Software,Single,No,Bachelor,No,1.4,No,2.52,144.0,210000.0
+893,893,2018,Female,23,2017,BCSE,11,No,Yes,3,2,Online,Yes,Yes,5,Intermediate,100,No,No,No,Networking,1,Hardware,In a relationship,Yes,Bachelor,No,1.34,No,2.88,88.0,250000.0
